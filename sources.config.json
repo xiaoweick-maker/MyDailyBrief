@@ -45,49 +45,54 @@
     "locales": ["zh", "en"]
   },
   {
-    "id": "glassnode-insights",
-    "name": "Glassnode Insights",
-    "type": "rss",
-    "url": "https://insights.glassnode.com/rss/",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh", "en"]
-  },
-  {
     "id": "deribit-insights",
     "name": "Deribit Insights",
     "type": "rss",
-    "url": "https://insights.deribit.com/feed/",
+    "url": "https://blog.deribit.com/feed/",
     "category": "finance",
     "enabled": true,
-    "locales": ["zh", "en"]
+    "locales": ["zh", "en"],
+    "notes": "原 insights 域名 403，已切换至 blog.deribit.com"
   },
   {
     "id": "panews",
     "name": "PANews",
     "type": "rss",
-    "url": "https://rss.panewslab.com/zh/rss",
+    "url": "https://www.panewslab.com/zh/rss",
     "category": "finance",
     "enabled": true,
-    "locales": ["zh"]
+    "locales": ["zh"],
+    "notes": "官方订阅页，原 rss 子域超时"
   },
   {
-    "id": "blockbeats",
-    "name": "律动 BlockBeats",
+    "id": "lianxiaozhi",
+    "name": "链小知 (中文精选)",
     "type": "rss",
-    "url": "https://api.theblockbeats.news/v2/rss/all",
+    "url": "https://lianxiaozhi.com/feed.xml",
     "category": "finance",
     "enabled": true,
-    "locales": ["zh"]
+    "locales": ["zh"],
+    "notes": "替代失效的 BlockBeats，打分去重后的精选流"
   },
   {
-    "id": "chaincatcher",
-    "name": "链捕手 ChainCatcher",
+    "id": "chaincatcher-bridge",
+    "name": "ChainCatcher (FreeNewsAPI)",
     "type": "rss",
-    "url": "https://www.chaincatcher.com/rss/clist",
+    "url": "https://freenewsapi.ai/v1/rss?host=www.chaincatcher.com&size=50",
     "category": "finance",
     "enabled": true,
-    "locales": ["zh"]
+    "locales": ["zh"],
+    "notes": "源站 406，通过 FreeNewsAPI 桥接获取"
+  },
+  {
+    "id": "wallstreetcn",
+    "name": "华尔街见闻",
+    "type": "rss",
+    "url": "https://dedicated.wallstreetcn.com/rss.xml",
+    "category": "finance",
+    "enabled": true,
+    "locales": ["zh"],
+    "notes": "原 rsshub 路径 403，切换至官方独立域名"
   },
   {
     "id": "bloomberg-markets",
@@ -97,15 +102,6 @@
     "category": "finance",
     "enabled": true,
     "locales": ["zh", "en"]
-  },
-  {
-    "id": "wallstreetcn",
-    "name": "华尔街见闻",
-    "type": "rss",
-    "url": "https://rsshub.app/wallstreetcn/live",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh"]
   },
   {
     "id": "cointelegraph-regulation",
@@ -144,10 +140,10 @@
     "locales": ["zh", "en"]
   },
   {
-    "id": "bloomberg-technology",
-    "name": "Bloomberg Technology",
+    "id": "cryptoslate-tech",
+    "name": "CryptoSlate",
     "type": "rss",
-    "url": "https://feeds.bloomberg.com/technology/news.rss",
+    "url": "https://cryptoslate.com/feed/",
     "category": "tech",
     "enabled": true,
     "locales": ["zh", "en"]
