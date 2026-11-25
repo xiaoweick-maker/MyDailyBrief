@@ -546,7 +546,7 @@
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -646,7 +646,7 @@
     "type": "rss",
     "url": "http://www.people.com.cn/rss/world.xml",
     "category": "politics",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
