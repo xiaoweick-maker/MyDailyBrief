@@ -32,7 +32,7 @@
     "type": "rss",
     "url": "https://juejin.cn/rss",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -50,7 +50,7 @@
     "type": "rss",
     "url": "https://lobste.rs/rss",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["en"]
   },
   {
@@ -59,7 +59,7 @@
     "type": "rss",
     "url": "https://www.qbitai.com/feed",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -150,7 +150,7 @@
     "type": "rss",
     "url": "https://www.solidot.org/index.rss",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -159,7 +159,7 @@
     "type": "rss",
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -168,7 +168,7 @@
     "type": "rss",
     "url": "https://www.ruanyifeng.com/blog/atom.xml",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -177,7 +177,7 @@
     "type": "rss",
     "url": "https://hellogithub.com/rss/all",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -186,7 +186,7 @@
     "type": "rss",
     "url": "https://martinfowler.com/feed.atom",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -195,7 +195,7 @@
     "type": "rss",
     "url": "https://simonwillison.net/atom/everything/",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -204,7 +204,7 @@
     "type": "rss",
     "url": "https://blog.cloudflare.com/rss/",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -213,7 +213,7 @@
     "type": "rss",
     "url": "https://github.blog/engineering/feed/",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -222,7 +222,7 @@
     "type": "rss",
     "url": "https://techcrunch.com/feed/",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -231,7 +231,7 @@
     "type": "rss",
     "url": "https://www.theverge.com/rss/index.xml",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -240,7 +240,7 @@
     "type": "rss",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "category": "tech",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -267,7 +267,7 @@
     "type": "rss",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
     "category": "finance",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -285,7 +285,7 @@
     "type": "rss",
     "url": "https://www.ftchinese.com/rss/news",
     "category": "finance",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -294,7 +294,7 @@
     "type": "rss",
     "url": "https://finance.yahoo.com/news/rssindex",
     "category": "finance",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -303,7 +303,7 @@
     "type": "rss",
     "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
     "category": "finance",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh", "en"]
   },
   {
@@ -331,7 +331,7 @@
     "url": "https://www.reddit.com/r/wallstreetbets/.rss",
     "category": "finance",
     "useCurl": true,
-    "enabled": false,
+    "enabled": true,
     "locales": ["en"]
   },
   {
@@ -341,7 +341,7 @@
     "url": "https://www.reddit.com/r/investing/.rss",
     "category": "finance",
     "useCurl": true,
-    "enabled": false,
+    "enabled": true,
     "locales": ["en"]
   },
   {
@@ -361,7 +361,7 @@
     "url": "https://www.reddit.com/r/ChinaStocks/.rss",
     "category": "finance",
     "useCurl": true,
-    "enabled": false,
+    "enabled": true,
     "locales": ["en"]
   },
   {
@@ -370,7 +370,7 @@
     "type": "rss",
     "url": "http://www.people.com.cn/rss/finance.xml",
     "category": "finance",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -451,7 +451,7 @@
     "type": "rss",
     "url": "http://www.people.com.cn/rss/politics.xml",
     "category": "politics",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -460,7 +460,7 @@
     "type": "rss",
     "url": "http://www.people.com.cn/rss/world.xml",
     "category": "politics",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -469,7 +469,7 @@
     "type": "rss",
     "url": "http://www.xinhuanet.com/politics/news_politics.xml",
     "category": "politics",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
@@ -478,7 +478,7 @@
     "type": "rss",
     "url": "https://www.rfa.org/mandarin/RSS",
     "category": "politics",
-    "enabled": false,
+    "enabled": true,
     "locales": ["zh"]
   },
   {
