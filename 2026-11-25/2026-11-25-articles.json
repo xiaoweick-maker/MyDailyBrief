@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "sourceId": "bbc-world",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "publishedAt": "2026-11-25T03:44:07.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "美国司法部长回避有关英伟达调查的提问。英伟达股价下跌7%，议员要求就特朗普在黄仁勋复职一事中的介入作出解释。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "publishedAt": "2026-11-25T00:56:51.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "俄方泄露数据表明，自全面入侵乌克兰以来，俄罗斯在乌克兰战争中死亡人数接近50万，死亡结构随之发生根本变化。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "publishedAt": "2026-11-25T04:49:55.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "阿布雷戈·加西亚离开美国前往西班牙，结束围绕特朗普政府驱逐行动的争议。他此前被驱逐至萨尔瓦多后又返回美国，成为特朗普移民政策辩论的焦点事件。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "publishedAt": "2026-11-24T18:07:46.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "被禁止登机赴英的印度活动人士Saurav Das称，德里机场移民部门告知其护照已被标记，并称印度政府「已经失去理智」。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The verdict follows a months-long trial in New York.",
+      "publishedAt": "2026-11-25T02:59:27.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "纽约一场持续数月的审判后，华为被判窃取商业秘密罪名成立，但敲诈勒索（racketeering）指控不成立。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "publishedAt": "2026-11-24T15:17:28.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "publishedAt": "2026-11-25T01:40:42.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "托马斯·马克尔因持有儿童性虐待图像在美国被起诉。FBI于11月6日将其逮捕，此前在洛杉矶搜查其据称租用的储物间时发现相关材料。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "publishedAt": "2026-11-24T23:03:59.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "一份新报告收录数百名脱北者证词，他们称因信仰基督教而遭监视、殴打和监禁。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "publishedAt": "2026-11-24T15:35:53.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "publishedAt": "2026-11-24T23:05:11.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "BBC Verify发现一个与中国有关联的网络利用AI伪造内容抹黑台湾选举候选人，攻击对象包括执政的民进党要员、总统赖清德及市长候选人沈某。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "India's food inflation is broadening, squeezing household budgets.",
+      "publishedAt": "2026-11-25T01:02:13.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "印度食品通胀范围持续扩大，进一步挤压家庭预算。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "publishedAt": "2026-11-24T19:10:31.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "尼日利亚92岁的道拉埃米尔在面临性侵指控后被停职。他是尼日利亚最知名的传统君主之一，政界人士常争取其支持。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "publishedAt": "2026-11-24T16:49:07.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "法国前总统萨科齐与妻子卡拉·布吕尼将出庭受审。这是涉及萨科齐的最新案件，他去年成为首位入狱的法国前总统。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "publishedAt": "2026-11-24T10:58:51.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "publishedAt": "2026-11-24T07:26:27.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "publishedAt": "2026-11-24T11:10:57.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "publishedAt": "2026-11-23T21:24:47.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "publishedAt": "2026-11-24T17:04:00.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "一名津巴布韦人在南非因试图前往乌克兰参战被定罪。据乌克兰方面称，来自多个非洲国家的数百人被招募为俄罗斯作战。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "publishedAt": "2026-11-24T11:45:52.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "publishedAt": "2026-11-24T19:27:23.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "刚果民主共和国称一架军用飞机失踪，叛军声称将其击落。据报机上有一名南非战斗机飞行员和一名乌干达军官。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "publishedAt": "2026-11-24T12:45:43.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "publishedAt": "2026-11-23T18:04:20.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "publishedAt": "2026-11-24T06:23:01.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "publishedAt": "2026-11-23T17:14:50.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "publishedAt": "2026-11-24T00:23:25.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "publishedAt": "2026-11-25T03:28:37.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "中国发射神舟二十四号载人飞船，将三名航天员送往天宫空间站，其中包含首位巴基斯坦航天员。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "publishedAt": "2026-11-24T22:07:30.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "美国马萨诸塞州一名女子在人行道上遭一群火鸡追赶，她表示不得不跳进陌生人车内躲避。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "publishedAt": "2026-11-24T09:09:41.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "publishedAt": "2026-11-24T01:21:41.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "publishedAt": "2026-11-23T18:49:19.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "欧洲央行宣布下调欧元区关键利率",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494895.html",
+      "excerpt": "新华社快讯：欧洲中央银行5日宣布，将欧元区三大关键利率分别下调25个基点。这是欧洲央行一年内第八次降息。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美联储“褐皮书”：美国经济不确定性居高位　关税推高物价",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494887.html",
+      "excerpt": "新华社纽约6月4日电（记者刘亚南）美国联邦储备委员会4日发布的全国经济形势调查报告显示，美国经济和政策的不确定性处于高位，对企业和家庭造成不利影响，关税上调则带来成本和物价上涨压力。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。 报告显示，自4月下旬以来，美国经济活动整体出现小幅下降，半数联邦储备区经济活动出现轻微或温和下降。所有联邦储备区经济和政策不确定性均处于高位，导致企业和家庭决策变得迟疑和谨慎。制造业活动轻度下降。消费者支出情况混杂不一，大多数联邦储备区出现小幅下降或没有变化，但一",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "商务部：中方对合规稀土出口许可申请将予以批准",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494861.html",
+      "excerpt": "新华社北京6月5日电（记者谢希瑶）商务部新闻发言人何咏前在5日举行的例行新闻发布会上答记者问时表示，稀土等相关物项具有明显的军民两用属性，对其实施出口管制是国际通行做法。中国政府依法依规对两用物项相关出口许可申请进行审查，对符合规定的申请，中方将予以批准，促进便利合规贸易。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "外交部：中国愿继续与各方一道推动共建清洁、美丽、可持续的世界",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494859.html",
+      "excerpt": "新华社北京6月5日电（记者袁睿）6月5日是世界环境日。外交部发言人林剑5日表示，中国一直是绿色发展的坚定行动派，也是全球绿色转型的重要贡献者。中国愿继续以“赋能型大国”的担当，与各方一道履行共同但有区别的责任，推动共建清洁、美丽、可持续的世界。 当日例行记者会上，有记者问：6月5日是世界环境日，有评论称，近年来中国引领全球绿色转型，在可再生能源开发等领域取得显著成就，并帮助其他发展中国家实施能源转型项目。请问发言人对此有何评论？ 林剑说，中国一直是绿色发展的坚定行动派。“绿水青山就是金山银山”理念提出20年来，中国在生态治理领域攻坚克难，妥善处理发展与保护的关系，成为全球能耗强度降低最快、空气",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "来自神舟二十号的“太空问候”！中国航天员为世博会中国馆送祝福",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494817.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-shd0iphx0d9', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749113217284014/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1745801139907398/picture/screenshot-16-48-28.png',w",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "外交部回应美方宣布将对哈佛大学国际学生实行签证限制",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494811.html",
+      "excerpt": "新华社北京6月5日电（记者袁睿、王慧慧）针对美国日前宣布将对哈佛大学国际学生实行签证限制，外交部发言人林剑5日在例行记者会上答问时表示，中美的教育合作是互利的。中方一贯反对将教育合作政治化，美方有关做法只会损害美国的形象和国际信誉。中方将坚定维护海外中国学生和学者的正当合法权益。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中日气候变化问题专家交流会在东京举行",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494622.html",
+      "excerpt": "6月3日，由日本笹川和平财团笹川日中友好基金主办的中日气候变化问题专家交流会在东京举行。人民网 蒋晓辰摄 人民网东京6月5日电（许可）由日本笹川和平财团笹川日中友好基金主办的中日气候变化问题专家交流会3日在东京举行。美中新视角基金会主席周志兴、笹川日中友好基金室长于展出席活动并致辞。清华大学能源环境经济研究所所长张希良、中诚信集团首席执行官马险峰、北京博雅智慧科技有限公司董事长陈雷、日本理化学研究所北京代表处首席代表染野宪治以及日本环境省相关人士等十余名中日专家学者与会。 会上，两国专家围绕低碳经济转型、碳排放权交易市场的创新与发展、数字碳中和的创新与实践等内容展开热切讨论，共同聚焦全球气候变",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "法国巴黎西岱大学孔院勇夺第24届“汉语桥”世界大学生中文比赛法国冠军",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494621.html",
+      "excerpt": "人民网巴黎6月4日电 （记者何蒨） 5月30日至31日，由中国驻法大使馆主办、欧洲时报文化传媒集团承办的第24届“汉语桥”世界大学生中文比赛法国赛区决赛在巴黎举行，中国驻法使馆公使陈力、教育公参周家贵出席比赛并为获奖选手颁奖。 中国驻法使馆公使陈力、教育公参周家贵与比赛师生、评委合影。巴黎西岱大学孔子学院供图 来自巴黎西岱大学孔子学院、法国国立东方语言文化学院、诺欧商学院、波城孔子学院等9家单位的14名选手参加本届比赛，最终选出一等奖一名、二等奖两名、三等奖三名以及优秀奖和单项奖。来自西岱大学孔子学院的马爱乐（Mael Mohamed）以标准的中文发音和幽默的风格，得到评委一致好评，最终获得本",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "远景法国超级工厂投产 中法携手引领绿色能源转型",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494281.html",
+      "excerpt": "人民网巴黎6月4日电 （记者于超凡）当地时间6月3日，电池科技企业远景动力位于法国杜埃的电池超级工厂正式投产，法国总统马克龙出席并致辞。 据悉，该工厂首期产能为10GWh，预计每年可为约20万辆电动汽车提供高性能动力电池，主要供应雷诺等车企。据此前消息，作为中法两国在绿色能源和先进制造领域合作的标志性成果，工厂到2030年将建成总产能24GWh，并具备扩容至40GWh的潜力。未来，该基地还将延伸至储能电池、智能充电设施与电池回收等全生命周期解决方案，构建起法国北部地区完整的绿色能源产业生态。 法国总统马克龙在致辞中表示，“在杜埃，我们正与远景共同书写法国绿色工业转型的新篇章。作为‘选择法国’战",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "2025第九届中国（印尼）出口品牌联展暨印尼雅加达国际工业联展开幕",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494292.html",
+      "excerpt": "人民网雅加达6月4日电（记者李培松）6月4日，2025第九届中国（印尼）出口品牌联展暨印尼雅加达国际工业联展（简称“印尼展”）在雅加达展览中心开幕。 展会现场。活动主办方供图 印尼展聚焦印尼工业化4.0升级新需求，同期举办印尼工业装备及零部件展、印尼塑料印刷包装及食品加工设备展、印尼国际电力新能源展，展品覆盖印尼工业上下游全产业链中热门且极具潜力的15大品类，包括新能源、汽摩配、农业机械、塑料机械与模具、包装与印刷机械等，全面展现中国“智”造在工业领域的综合实力。 展览面积达40,000平方米，不仅是中国在RCEP区域自主举办规模最大的工业题材展会，也是印尼最大工业供应链全产业展览，获得印尼工",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "印尼哈山努丁大学孔子学院恩星学校教学点揭牌仪式举行",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494312.html",
+      "excerpt": "人民网雅加达6月4日电 （记者李培松）2025年6月3日，哈山努丁大学孔子学院在恩星学校隆重举行新教学点揭牌仪式。哈山努丁大学人文学院院长阿克玛，南昌大学建筑工程学院书记熊进刚，哈山努丁大学孔子学院中方院长吴晓玲、印尼方院长莉娅，恩星学校望加锡校董会主席英格丽，以及哈山努丁大学孔子学院全体教师，恩星学校师生、家长代表和华人代表等100余人参与，现场气氛热烈，文化氛围浓厚。 庆典活动在华人社团传统舞狮和印尼传统舞蹈的欢快氛围中拉开帷幕。国际教育学院副院长宋文杰代表南昌大学向哈山努丁大学孔子学院新教学点的揭牌表示热烈祝贺，希望中文教学点的设立，可以给恩星学校师生带来更多多元文化的体验。她表示，作为",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中国成都至塞舌尔马埃岛季节性直航将于7月开通",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494387.html",
+      "excerpt": "人民网内罗毕6月4日电 （记者黄炜鑫）维多利亚消息：四川航空公司将于今年7月开通中国成都至塞舌尔马埃岛季节性直航。 据悉，两国相关部门、地方近期加速落实中非合作论坛北京峰会成果和两国领导人达成的重要共识，积极推动双边旅游、经贸、直航等领域合作。经各方共同努力，四川航空公司将于今年7月2日、9日、16日、23日、30日开通中国成都至塞舌尔马埃岛季节性直航，助力中塞各领域交流合作，增进两国人民相知相亲。 航班安排。中国驻塞舌尔大使馆供图 塞舌尔位于非洲东面的印度洋上，风景秀丽，全境50%以上地区被辟为自然保护区，享有“旅游者天堂”的美誉。2024年9月6日，成都市与塞舌尔首都维多利亚市签署建立友好",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "酷玩推荐官·人间好时节：芒种",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494433.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-1q1az04qmqp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1748921558204166/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1743494154080025/picture/5b062b31-5d0b-4de9-b58d-8f",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中日气候变化问题专家在东京举办交流会",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494458.html",
+      "excerpt": "新华网东京6月5日电（记者杨光）由日本笹川和平财团主办的中日气候变化问题专家交流会3日在东京举行。中日相关领域专家在友好愉快的氛围中深入交流，一致认为中日在上述领域拥有广阔合作空间。 图为交流会现场。（记者杨光摄） 在交流会上，清华大学能源环境经济研究所所长张希良介绍了中国向低碳经济转型的政策体系及现状，呼吁中日在全球实现低碳经济的进程中深化合作。中诚信集团首席执行官马险峰梳理了中国碳交易市场的现状与课题，展望了中国碳交易市场的未来发展趋势。北京博雅智慧科技有限公司董事长陈雷着重讲述中国企业在绿色低碳发展方面取得的既有成果，并就中日合作提出具体建议。 图为张希良发表演讲。（记者杨光摄） 当天，",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美国再次在联合国安理会否决加沙停火决议草案",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494451.html",
+      "excerpt": "新华社联合国6月4日电（记者尚绪谦）美国4日再次在联合国安理会否决有关要求在巴勒斯坦加沙地带立即停火的决议草案。 安理会当天对一项由10个非常任理事国提出的决议草案进行表决。该决议草案要求在加沙地带立即无条件永久停火，立即无条件释放所有被扣押人员，立即无条件解除所有对加沙地带的人道准入限制。安理会15个成员中14个投了赞成票，常任理事国美国行使了否决权，导致决议草案未获通过。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美俄总统通话讨论俄乌冲突等问题",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494447.html",
+      "excerpt": "新华社洛杉矶/莫斯科6月4日电（记者黄恒 赵冰）美国总统特朗普4日在社交媒体上说，他当天与俄罗斯总统普京进行了长约75分钟的通话，双方讨论了俄乌冲突和伊朗核问题。俄总统助理乌沙科夫同日表示，两国领导人在通话中同意继续就乌克兰问题进行接触。 特朗普说，他与普京讨论了乌克兰对俄战略轰炸机的袭击，以及俄乌双方正在展开的“各种相互袭击”。普京“态度非常坚决地”表示将对俄机场遭袭事件作出回应。特朗普表示，“这是一次很好的通话，但并不是一次可以马上带来和平的通话”。 特朗普说，他与普京还讨论了伊朗核问题。伊朗必须就核武器问题“尽快做出决定”。他认为普京与他在伊朗不能拥有核武器这一问题上意见一致。特朗普还说",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "普京说乌克兰系列袭击旨在破坏和谈 泽连斯基表示仍愿与普京会晤",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494446.html",
+      "excerpt": "新华社莫斯科/基辅6月4日电（记者赵冰 李东旭）俄罗斯总统普京4日在与俄政府官员举行视频会议时说，乌克兰近期对俄罗斯的一系列袭击旨在破坏和谈。乌克兰总统泽连斯基同日表示，即使俄方不同意乌方的30天全面无条件停火提议，他仍愿意与普京会晤。 普京说，在俄乌日前于土耳其城市伊斯坦布尔开启第二轮谈判前夕，乌克兰针对俄罗斯平民进行的“蓄意袭击”，目的是扰乱和破坏和谈。他表示，这一系列袭击说明“基辅政权正在沦为恐怖组织，其支持者正在成为恐怖分子的帮凶”。 普京还表示，乌方在战场上遭受了巨大损失并全线后退，试图通过“恐怖活动”恐吓俄罗斯，迫使俄方停火并举行俄乌领导人会晤。但停火可能被乌方用于进行强制动员、补",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "加州就诉特朗普政府关税政策违法案提起上诉",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494443.html",
+      "excerpt": "新华社洛杉矶6月3日电（记者黄恒）美国加利福尼亚州总检察长罗布·邦塔当地时间2日发布声明说，已就加州北区联邦地区法院就加州诉特朗普政府关税政策违法案的最新裁决提起上诉。 加州此前以州政府和州长加文·纽森的名义，于4月16日向加州北区联邦地区法院提起诉讼，指控联邦政府依据《国际紧急经济权力法》实施所谓“对等关税”政策违法，并称此举损害各州、消费者和企业的广泛利益。加州也是第一个就关税问题起诉特朗普政府的州。 上周在加州北区联邦地区法院的听证会上，代表特朗普政府的辩方提出动议，要求法官将此案移交设在纽约的美国国际贸易法院审理。加州反对该动议，要求法官驳回受理此案的请求，以便就此案该由何处审理的问题",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "国际观察｜翻番的钢铝关税　倍增的反制和反噬",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494442.html",
+      "excerpt": "新华社北京6月4日电 题：翻番的钢铝关税 倍增的反制和反噬 新华社记者俞懋峰 美国白宫3日发布公告，以应对所谓“国家安全威胁”和提高国内钢铝产业竞争力为由，宣布从4日起将进口自除英国外所有贸易伙伴的钢铝产品关税从目前的25%上调至50%。 美国政府这一举措招致贸易伙伴批评和反对。多国行业人士和学者认为，此举将推高美国从汽车到罐装食品等一系列商品价格，对美国企业和消费者造成冲击，并加剧全球经贸环境不确定性，为世界经济增长前景蒙上阴影。 反对声四起 根据美国国际贸易委员会数据，美国进口钢铁的主要来源地包括加拿大、墨西哥、巴西等，进口铝的主要来源地是加拿大等。美提高钢铝关税引发加拿大、欧盟、日本等多",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "俄外长：乌克兰拒绝俄罗斯停火2至3天的提议是“严重错误”",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494439.html",
+      "excerpt": "新华社莫斯科6月4日电（记者赵冰）俄罗斯外交部长拉夫罗夫4日表示，乌克兰拒绝俄罗斯停火2至3天的提议是“严重错误”。 俄总统普京当天召集政府成员开会并听取有关俄乌谈判情况的汇报。拉夫罗夫在会上说，俄方提出该建议，是为让双方能够妥善收集接触线上阵亡人员的遗体，或是转移可能存在的伤员。 普京表示，乌方拒绝俄方上述提议并不令人意外。 拉夫罗夫还说，在任何情况下，保持沟通渠道总是好的，因为“这使我们能够首先解决人道主义问题”。他表示，相互协调人道主义措施可以释放善意，加强信任，这正是现阶段所必需的。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "欧盟官员：美国上调钢铝关税无助于美欧谈判",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494437.html",
+      "excerpt": "新华社布鲁塞尔6月4日电（记者康逸 张兆卿）欧盟委员会负责贸易和经济安全等事务的委员马罗什·谢夫乔维奇4日在法国巴黎表示，针对美国将进口钢铁和铝的关税从25%上调至50%，欧盟方面已与美国贸易代表格里尔进行了讨论，并向美方指出此举无助于欧美正在进行的谈判。 “我们对美国这一最新决定深表遗憾。”谢夫乔维奇说，“这显然无助于当前正在进行的谈判。” 谢夫乔维奇当天在一场新闻发布会上说，欧盟和美国合计约占全球贸易的30%。如果双方关系无法维持正常，将对全球贸易体系造成负面影响。欧盟认为，应以最严肃的态度、投入最大的努力来解决这些问题。 谢夫乔维奇说，如果一切努力都失败了，“我们已做好准备捍卫自身利益，",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "文明对话国际日庆祝活动在布加勒斯特举办",
+      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493979.html",
+      "excerpt": "人民网华沙6月4日电（记者禹丽敏）在文明对话国际日即将到来之际，题为“对话·知音——用音乐与世界对话”的中国古筝音乐会日前分别在布加勒斯特国家音乐大学和中国驻罗马尼亚大使馆举办。 音乐会由中国沈阳音乐学院、古筝演奏家贾晓莉教授领衔，三位古筝演奏家在钢琴的伴奏下以精湛的技艺演绎了多首极具中华文化特色的经典曲目。古筝是中国最具代表性的民族乐器之一，已有2000多年的历史，其音色清澈优美，具有丰富的音乐表现力。中国古筝演奏家与罗马尼亚小提琴手、大提琴手合奏的《春江花月夜》，赢得了在场观众的热烈掌声。 中国驻罗马尼亚大使馆临时代办华亚芳表示，音乐是一种超越语言的艺术，拥有触动人心的力量。尽管中国与罗马",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中交集团在老挝高校开展“澜湄绿色课堂”活动",
+      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493977.html",
+      "excerpt": "人民网曼谷6月4日电 （记者杨一）万象消息：近日，中交集团中国水利电力对外有限公司（以下简称“水电对外”）在老挝国立大学开展“澜湄绿色课堂”教学活动，中国河海大学水利水电学院教授周建旭受邀现场教学，老挝国立大学、老挝理工学院共计190余名学生前来听讲。 中交集团在老挝高校开展“澜湄绿色课堂”活动。主办方供图 活动伊始，水电对外老挝分公司代表对参加活动的师生表示热烈欢迎，希望借此契机，发扬澜湄合作精神，向更多当地年轻学子传递绿色发展理念，共享能源领域经验技术与成果。老挝国立大学校方代表表示，老挝国立大学愿在人才培养方面与中国企业加强务实合作，为老挝水电领域培养更多高素质人才。 周建旭以“水电能源",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "比利时侨界举办纪念抗战胜利和台湾光复80周年座谈会",
+      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493972.html",
+      "excerpt": "人民网布鲁塞尔6月4日电 （记者牛瑞飞）为铭记历史、弘扬抗战精神、坚定统一信念，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年、台湾光复80周年座谈会3日在比利时东部城市圣尼古拉斯市举行。此次活动由比利时中国和平统一促进会联合比利时18家华侨华人社团共同主办，来自两岸台胞民间交流促进会的代表团、中国驻比利时大使馆、比利时各大侨团及旅比台胞代表等130余人出席座谈会。 图为参会嘉宾合影。比利时中国和平统一促进会供图 两岸台胞民间交流促进会副会长江利平在讲话中表示，在中国共产党倡导和建立的抗日民族统一战线旗帜下，中国人民历经艰苦卓绝的斗争，为世界反法西斯战争胜利作出重大贡献。他强调，台湾作为中",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "北京优化入境旅游服务 激发“中国游”活力",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494429.html",
+      "excerpt": "新华社北京6月4日电（记者杨淑君）登上长城，欣赏雄伟壮丽的景色；沿北京中轴线漫步，感受悠久的中华文明；徜徉于亮马河国际风情水岸，领略夜间城市魅力……来自全球40多个国家和地区的270余位旅行商近日齐聚北京，在48小时“发现北京之旅”中深度感受“中国游”的蓬勃活力。 “这是我第一次来到中国北京，一切都让人惊喜！”来自德国慕尼黑的安雅兴奋地一路用手机记录下看到的美景。她告诉记者，爬长城、听昆曲、品尝北京烤鸭让她印象深刻。“很高兴来到这里，明年我希望带着家人一起来中国探索更多领域。”她说。 图为参会嘉宾在2025北京入境旅游发展大会现场感受中国传统文化。新华社记者 杨淑君 摄 6月1日至2日，北京市",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "高端访谈丨阿中愿携手维护多边贸易体系和发展中国家利益——访阿拉伯议会议长亚马希",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494416.html",
+      "excerpt": "新华社开罗6月3日电 高端访谈｜阿中愿携手维护多边贸易体系和发展中国家利益——访阿拉伯议会议长亚马希 新华社记者董修竹 姚兵 吴宝澍 阿拉伯议会议长穆罕默德·艾哈迈德·亚马希日前接受新华社记者专访时说，阿拉伯国家同中国始终相互支持，对全球性问题有着共同立场，愿一道维护多边贸易体系和发展中国家利益，推动全球经济治理体系朝着更加公平、包容的方向发展。 亚马希表示，阿中在涉及彼此核心利益问题上始终坚定相互支持。中国坚定支持阿拉伯国家正义事业，特别是在巴勒斯坦问题上，中方坚定支持巴勒斯坦人民恢复民族合法权利的正义事业。阿拉伯国家坚定恪守一个中国原则。阿方坚决反对任何形式的“台湾独立”，坚决反对任何对中",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中国连任联合国经社理事会成员",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494422.html",
+      "excerpt": "6月4日，在位于纽约的联合国总部，联合国大会举行会议改选联合国经济及社会理事会（经社理事会）部分成员。 联合国大会4日改选联合国经济及社会理事会（经社理事会）部分成员，中国成功连任。 新华社发（联合国供图/曼努埃尔·埃利亚斯摄） 6月4日，在位于纽约的联合国总部，联合国大会工作人员收集选票。 联合国大会4日改选联合国经济及社会理事会（经社理事会）部分成员，中国成功连任。 新华社发（联合国供图/曼努埃尔·埃利亚斯摄） 6月4日，在位于纽约的联合国总部，第79届联大主席菲勒蒙·扬（左）主持联合国大会会议，改选联合国经济及社会理事会（经社理事会）部分成员。 联合国大会4日改选联合国经济及社会理事会（",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "俄乌将于本周末再次换俘",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494421.html",
+      "excerpt": "新华社莫斯科/基辅6月4日电（记者赵冰 李东旭）俄乌双方4日分别表示，将于本周末再次交换被俘人员。 俄罗斯总统普京4日召开会议，听取有关俄乌谈判情况的汇报。俄总统助理、谈判代表团团长梅金斯基在汇报中说，俄方准备在7日至9日同乌方交换被俘人员，预计双方将互换1200人，这将是迄今为止双方最大规模的换俘行动。 梅金斯基表示，俄方已经在伊斯坦布尔谈判中提议并将在近期着手向乌方移交6000多具乌军人员遗体，遗体将用专用冷藏车装运。乌方可能也留存有俄军人员遗体。俄乌双方已经就人道主义问题建立了沟通渠道。 梅金斯基说，在伊斯坦布尔谈判期间，乌方提出停火30天或者60天，并为元首会晤做准备。俄方已经告知乌方",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美致信“提醒”贸易伙伴加紧关税谈判",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494419.html",
+      "excerpt": "新华社洛杉矶6月3日电（记者黄恒）美国白宫新闻秘书卡罗琳·莱维特3日证实，美政府已向贸易伙伴发出信函，催促加快贸易谈判进程。 此间媒体2日报道，特朗普政府致信贸易伙伴，要求它们在4日前呈交各自对美贸易谈判的“最佳出价”，以便在美设定的最后期限到来前加快与美方的贸易谈判进程。 莱维特证实信函的真实性和内容，称美方这一做法是为了提醒贸易伙伴“截止日期即将到来”，“总统期待达成好协议”。 白宫并未透露哪些经济体收到催促信函，但包括财政部长贝森特在内的高级官员表示，他们正与越南、日本和印度等国展开谈判。贝森特最近警告，如果贸易伙伴与美谈判“不真诚”，其关税可能会恢复到“暂停期”前的水平。 美国宣布开征",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "伊朗最高领袖：完全放弃铀浓缩“百分之百”违背伊朗利益",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494418.html",
+      "excerpt": "新华社德黑兰6月4日电（记者陈霄）伊朗最高领袖哈梅内伊4日说，美国要求伊朗完全放弃铀浓缩的主要目的是阻碍伊朗发展，并迫使伊朗依赖外国势力，伊朗明确拒绝此类胁迫手段，完全放弃铀浓缩“百分之百”违背伊朗的利益。 据伊朗伊斯兰共和国通讯社4日报道，哈梅内伊当天在伊朗首都德黑兰出席前最高领袖霍梅尼逝世36周年纪念活动并发表讲话。哈梅内伊表示，伊朗拥有“完整的核燃料循环能力”是坚信“我们能行”信念的成果，美国的要求完全违背“我们能行”这一开创性原则，“美国及以色列必须明白，他们没有办法扼杀伊朗核工业”。 哈梅内伊说，美国在核问题上的言论和要求，实质上是剥夺伊朗参与该行业的权利及其为人民带来的各种利益，本",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网国际"
+    }
+  ]
+}
