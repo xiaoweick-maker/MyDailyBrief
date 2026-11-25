@@ -546,7 +546,7 @@
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -646,10 +646,167 @@
     "type": "rss",
     "url": "http://www.people.com.cn/rss/world.xml",
     "category": "politics",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
+  },
+  {
+    "id": "coindesk",
+    "name": "CoinDesk",
+    "type": "rss",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"]
+  },
+  {
+    "id": "cointelegraph",
+    "name": "Cointelegraph",
+    "type": "rss",
+    "url": "https://cointelegraph.com/rss",
+    "category": "crypto-news",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "the-block",
+    "name": "The Block",
+    "type": "rss",
+    "url": "https://www.theblock.co/rss.xml",
+    "category": "crypto-news",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "blockworks",
+    "name": "Blockworks",
+    "type": "rss",
+    "url": "https://blockworks.co/feed",
+    "category": "crypto-news",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "decrypt",
+    "name": "Decrypt",
+    "type": "rss",
+    "url": "https://decrypt.co/feed",
+    "category": "crypto-news",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "dl-news",
+    "name": "DL News",
+    "type": "rss",
+    "url": "https://www.dlnews.com/arc/outboundfeeds/rss/",
+    "category": "crypto-news",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "glassnode-insights",
+    "name": "Glassnode Insights",
+    "type": "rss",
+    "url": "https://insights.glassnode.com/rss/",
+    "category": "crypto-data",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "messari",
+    "name": "Messari",
+    "type": "rss",
+    "url": "https://messari.io/rss",
+    "category": "crypto-research",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "santiment",
+    "name": "Santiment",
+    "type": "rss",
+    "url": "https://santiment.net/blog/feed/",
+    "category": "crypto-data",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "deribit-insights",
+    "name": "Deribit Insights",
+    "type": "rss",
+    "url": "https://insights.deribit.com/feed/",
+    "category": "crypto-data",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "panews",
+    "name": "PANews",
+    "type": "rss",
+    "url": "https://rss.panewslab.com/zh/rss",
+    "category": "crypto-news-zh",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "blockbeats",
+    "name": "律动 BlockBeats",
+    "type": "rss",
+    "url": "https://api.theblockbeats.news/v2/rss/all",
+    "category": "crypto-news-zh",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "chaincatcher",
+    "name": "链捕手 ChainCatcher",
+    "type": "rss",
+    "url": "https://www.chaincatcher.com/rss/clist",
+    "category": "crypto-news-zh",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "blocktempo",
+    "name": "动区动趋 BlockTempo",
+    "type": "rss",
+    "url": "https://www.blocktempo.com/feed/",
+    "category": "crypto-news-zh",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "reuters-crypto",
+    "name": "Reuters Crypto",
+    "type": "rss",
+    "url": "https://www.reuters.com/technology/cryptocurrency/rss",
+    "category": "macro",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
+  },
+  {
+    "id": "cnbc-crypto",
+    "name": "CNBC Crypto",
+    "type": "rss",
+    "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+    "category": "macro",
+    "enabled": true,
+    "locales": ["zh",
+      "en"]
   },
   {
     "id": "xinhua-politics",
