@@ -2,559 +2,2164 @@
   "date": "2026-11-25",
   "articles": [
     {
-      "sourceId": "bbc-world",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "publishedAt": "2026-11-25T03:44:07.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "美国司法部长回避有关英伟达调查的提问。英伟达股价下跌7%，议员要求就特朗普在黄仁勋复职一事中的介入作出解释。"
+      "sourceId": "coindesk",
+      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+      "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+      "excerpt": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
+      "publishedAt": "2026-11-25T06:33:10.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "publishedAt": "2026-11-25T00:56:51.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "俄方泄露数据表明，自全面入侵乌克兰以来，俄罗斯在乌克兰战争中死亡人数接近50万，死亡结构随之发生根本变化。"
+      "sourceId": "coindesk",
+      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+      "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+      "excerpt": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
+      "publishedAt": "2026-11-25T06:15:08.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-      "publishedAt": "2026-11-25T04:49:55.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "阿布雷戈·加西亚离开美国前往西班牙，结束围绕特朗普政府驱逐行动的争议。他此前被驱逐至萨尔瓦多后又返回美国，成为特朗普移民政策辩论的焦点事件。"
+      "sourceId": "coindesk",
+      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+      "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+      "excerpt": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
+      "publishedAt": "2026-11-25T04:57:22.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "publishedAt": "2026-11-24T18:07:46.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "被禁止登机赴英的印度活动人士Saurav Das称，德里机场移民部门告知其护照已被标记，并称印度政府「已经失去理智」。"
+      "sourceId": "coindesk",
+      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+      "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+      "excerpt": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
+      "publishedAt": "2026-11-25T04:50:08.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The verdict follows a months-long trial in New York.",
-      "publishedAt": "2026-11-25T02:59:27.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "纽约一场持续数月的审判后，华为被判窃取商业秘密罪名成立，但敲诈勒索（racketeering）指控不成立。"
+      "sourceId": "coindesk",
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+      "excerpt": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+      "publishedAt": "2026-11-25T03:35:20.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "publishedAt": "2026-11-24T15:17:28.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
+      "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+      "excerpt": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return.",
+      "publishedAt": "2026-11-24T17:50:08.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "publishedAt": "2026-11-25T01:40:42.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "托马斯·马克尔因持有儿童性虐待图像在美国被起诉。FBI于11月6日将其逮捕，此前在洛杉矶搜查其据称租用的储物间时发现相关材料。"
+      "sourceId": "coindesk",
+      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+      "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+      "excerpt": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows.",
+      "publishedAt": "2026-11-24T16:00:25.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-      "publishedAt": "2026-11-24T23:03:59.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "一份新报告收录数百名脱北者证词，他们称因信仰基督教而遭监视、殴打和监禁。"
+      "sourceId": "coindesk",
+      "title": "Anchorage Digital to unveil new asset-management subsidiary",
+      "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
+      "excerpt": "The crypto custody technology firm said it will unveil a separate subsidiary called 61st Parallel Asset Management.",
+      "publishedAt": "2026-11-24T15:06:32.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "publishedAt": "2026-11-24T15:35:53.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+      "excerpt": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
+      "publishedAt": "2026-11-24T14:40:53.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "publishedAt": "2026-11-24T23:05:11.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "BBC Verify发现一个与中国有关联的网络利用AI伪造内容抹黑台湾选举候选人，攻击对象包括执政的民进党要员、总统赖清德及市长候选人沈某。"
+      "sourceId": "coindesk",
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+      "excerpt": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
+      "publishedAt": "2026-11-24T12:47:49.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "The rising cost of putting food on the table in India",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "India's food inflation is broadening, squeezing household budgets.",
-      "publishedAt": "2026-11-25T01:02:13.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "印度食品通胀范围持续扩大，进一步挤压家庭预算。"
+      "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+      "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "excerpt": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report.",
+      "publishedAt": "2026-11-24T12:47:40.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "publishedAt": "2026-11-24T19:10:31.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "尼日利亚92岁的道拉埃米尔在面临性侵指控后被停职。他是尼日利亚最知名的传统君主之一，政界人士常争取其支持。"
+      "sourceId": "coindesk",
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+      "excerpt": "Your day-ahead look for Nov. 24, 2026",
+      "publishedAt": "2026-11-24T12:36:28.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "publishedAt": "2026-11-24T16:49:07.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "法国前总统萨科齐与妻子卡拉·布吕尼将出庭受审。这是涉及萨科齐的最新案件，他去年成为首位入狱的法国前总统。"
+      "sourceId": "coindesk",
+      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
+      "url": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
+      "excerpt": "The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time.",
+      "publishedAt": "2026-11-24T12:04:39.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "sourceId": "coindesk",
+      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+      "excerpt": "Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's selloff.",
+      "publishedAt": "2026-11-24T11:31:56.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
+    },
+    {
+      "sourceId": "coindesk",
+      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
+      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+      "excerpt": "Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entities holding 100 to 10,000 BTC continued to accumulate.",
+      "publishedAt": "2026-11-24T11:11:38.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
+    },
+    {
+      "sourceId": "coindesk",
+      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+      "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+      "excerpt": "U.S. seeks to recover $1.1 billion in frozen USDC as billions more from the Binance hack remain unaccounted for.",
       "publishedAt": "2026-11-24T10:58:51.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "publishedAt": "2026-11-24T07:26:27.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+      "url": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+      "excerpt": "The firm's DeFi business, Imperium, temporarily pulled out of liquidity pools after generating $3.5 million in Q3 revenue.",
+      "publishedAt": "2026-11-24T10:55:30.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "publishedAt": "2026-11-24T11:10:57.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+      "excerpt": "Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer.",
+      "publishedAt": "2026-11-24T10:29:14.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "publishedAt": "2026-11-23T21:24:47.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+      "excerpt": "Nasdaq 100 futures fell about 1% after the index surged on Monday, while the Dollar Index held above 104, its highest level since March 2025.",
+      "publishedAt": "2026-11-24T10:08:38.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "publishedAt": "2026-11-24T17:04:00.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "一名津巴布韦人在南非因试图前往乌克兰参战被定罪。据乌克兰方面称，来自多个非洲国家的数百人被招募为俄罗斯作战。"
+      "sourceId": "coindesk",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "excerpt": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+      "publishedAt": "2026-11-24T00:25:04.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "publishedAt": "2026-11-24T11:45:52.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+      "excerpt": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.",
+      "publishedAt": "2026-11-23T18:22:03.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "publishedAt": "2026-11-24T19:27:23.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "刚果民主共和国称一架军用飞机失踪，叛军声称将其击落。据报机上有一名南非战斗机飞行员和一名乌干达军官。"
+      "sourceId": "coindesk",
+      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+      "excerpt": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.",
+      "publishedAt": "2026-11-23T18:12:05.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "publishedAt": "2026-11-24T12:45:43.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+      "excerpt": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said.",
+      "publishedAt": "2026-11-23T17:31:27.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "publishedAt": "2026-11-23T18:04:20.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+      "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+      "excerpt": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
+      "publishedAt": "2026-11-23T16:39:03.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-      "publishedAt": "2026-11-24T06:23:01.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "coindesk",
+      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+      "excerpt": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers.",
+      "publishedAt": "2026-11-23T15:29:01.000Z",
+      "category": "finance",
+      "source": "CoinDesk"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "publishedAt": "2026-11-23T17:14:50.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "publishedAt": "2026-11-25T05:50:43.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "publishedAt": "2026-11-24T00:23:25.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "cointelegraph",
+      "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+      "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April.",
+      "publishedAt": "2026-11-25T05:32:55.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-      "publishedAt": "2026-11-25T03:28:37.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "中国发射神舟二十四号载人飞船，将三名航天员送往天宫空间站，其中包含首位巴基斯坦航天员。"
+      "sourceId": "cointelegraph",
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The president’s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls.",
+      "publishedAt": "2026-11-25T04:14:42.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
-      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
-      "publishedAt": "2026-11-24T22:07:30.000Z",
-      "category": "politics",
-      "source": "BBC World",
-      "summary": "美国马萨诸塞州一名女子在人行道上遭一群火鸡追赶，她表示不得不跳进陌生人车内躲避。"
+      "sourceId": "cointelegraph",
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
+      "publishedAt": "2026-11-25T01:40:59.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "publishedAt": "2026-11-24T09:09:41.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "cointelegraph",
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+      "publishedAt": "2026-11-24T23:48:16.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "publishedAt": "2026-11-24T01:21:41.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "cointelegraph",
+      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.",
+      "publishedAt": "2026-11-24T21:50:25.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "bbc-world",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "publishedAt": "2026-11-23T18:49:19.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "sourceId": "cointelegraph",
+      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.",
+      "publishedAt": "2026-11-24T20:48:27.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "欧洲央行宣布下调欧元区关键利率",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494895.html",
-      "excerpt": "新华社快讯：欧洲中央银行5日宣布，将欧元区三大关键利率分别下调25个基点。这是欧洲央行一年内第八次降息。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.",
+      "publishedAt": "2026-11-24T19:44:23.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "美联储“褐皮书”：美国经济不确定性居高位　关税推高物价",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494887.html",
-      "excerpt": "新华社纽约6月4日电（记者刘亚南）美国联邦储备委员会4日发布的全国经济形势调查报告显示，美国经济和政策的不确定性处于高位，对企业和家庭造成不利影响，关税上调则带来成本和物价上涨压力。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。 报告显示，自4月下旬以来，美国经济活动整体出现小幅下降，半数联邦储备区经济活动出现轻微或温和下降。所有联邦储备区经济和政策不确定性均处于高位，导致企业和家庭决策变得迟疑和谨慎。制造业活动轻度下降。消费者支出情况混杂不一，大多数联邦储备区出现小幅下降或没有变化，但一",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+      "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.",
+      "publishedAt": "2026-11-24T19:04:26.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "商务部：中方对合规稀土出口许可申请将予以批准",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494861.html",
-      "excerpt": "新华社北京6月5日电（记者谢希瑶）商务部新闻发言人何咏前在5日举行的例行新闻发布会上答记者问时表示，稀土等相关物项具有明显的军民两用属性，对其实施出口管制是国际通行做法。中国政府依法依规对两用物项相关出口许可申请进行审查，对符合规定的申请，中方将予以批准，促进便利合规贸易。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "CFTC sets new prediction market rules as more firms seek US entry",
+      "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
+      "publishedAt": "2026-11-24T18:31:42.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "外交部：中国愿继续与各方一道推动共建清洁、美丽、可持续的世界",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494859.html",
-      "excerpt": "新华社北京6月5日电（记者袁睿）6月5日是世界环境日。外交部发言人林剑5日表示，中国一直是绿色发展的坚定行动派，也是全球绿色转型的重要贡献者。中国愿继续以“赋能型大国”的担当，与各方一道履行共同但有区别的责任，推动共建清洁、美丽、可持续的世界。 当日例行记者会上，有记者问：6月5日是世界环境日，有评论称，近年来中国引领全球绿色转型，在可再生能源开发等领域取得显著成就，并帮助其他发展中国家实施能源转型项目。请问发言人对此有何评论？ 林剑说，中国一直是绿色发展的坚定行动派。“绿水青山就是金山银山”理念提出20年来，中国在生态治理领域攻坚克难，妥善处理发展与保护的关系，成为全球能耗强度降低最快、空气",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
+      "publishedAt": "2026-11-24T18:07:22.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "来自神舟二十号的“太空问候”！中国航天员为世博会中国馆送祝福",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494817.html",
-      "excerpt": "showPlayer({scriptId: 'q_v_j-shd0iphx0d9', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749113217284014/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1745801139907398/picture/screenshot-16-48-28.png',w",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+      "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
+      "publishedAt": "2026-11-24T17:09:11.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "外交部回应美方宣布将对哈佛大学国际学生实行签证限制",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494811.html",
-      "excerpt": "新华社北京6月5日电（记者袁睿、王慧慧）针对美国日前宣布将对哈佛大学国际学生实行签证限制，外交部发言人林剑5日在例行记者会上答问时表示，中美的教育合作是互利的。中方一贯反对将教育合作政治化，美方有关做法只会损害美国的形象和国际信誉。中方将坚定维护海外中国学生和学者的正当合法权益。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+      "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.",
+      "publishedAt": "2026-11-24T16:33:26.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "中日气候变化问题专家交流会在东京举行",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494622.html",
-      "excerpt": "6月3日，由日本笹川和平财团笹川日中友好基金主办的中日气候变化问题专家交流会在东京举行。人民网 蒋晓辰摄 人民网东京6月5日电（许可）由日本笹川和平财团笹川日中友好基金主办的中日气候变化问题专家交流会3日在东京举行。美中新视角基金会主席周志兴、笹川日中友好基金室长于展出席活动并致辞。清华大学能源环境经济研究所所长张希良、中诚信集团首席执行官马险峰、北京博雅智慧科技有限公司董事长陈雷、日本理化学研究所北京代表处首席代表染野宪治以及日本环境省相关人士等十余名中日专家学者与会。 会上，两国专家围绕低碳经济转型、碳排放权交易市场的创新与发展、数字碳中和的创新与实践等内容展开热切讨论，共同聚焦全球气候变",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+      "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
+      "publishedAt": "2026-11-24T14:10:23.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "法国巴黎西岱大学孔院勇夺第24届“汉语桥”世界大学生中文比赛法国冠军",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494621.html",
-      "excerpt": "人民网巴黎6月4日电 （记者何蒨） 5月30日至31日，由中国驻法大使馆主办、欧洲时报文化传媒集团承办的第24届“汉语桥”世界大学生中文比赛法国赛区决赛在巴黎举行，中国驻法使馆公使陈力、教育公参周家贵出席比赛并为获奖选手颁奖。 中国驻法使馆公使陈力、教育公参周家贵与比赛师生、评委合影。巴黎西岱大学孔子学院供图 来自巴黎西岱大学孔子学院、法国国立东方语言文化学院、诺欧商学院、波城孔子学院等9家单位的14名选手参加本届比赛，最终选出一等奖一名、二等奖两名、三等奖三名以及优秀奖和单项奖。来自西岱大学孔子学院的马爱乐（Mael Mohamed）以标准的中文发音和幽默的风格，得到评委一致好评，最终获得本",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+      "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
+      "publishedAt": "2026-11-24T13:57:56.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "远景法国超级工厂投产 中法携手引领绿色能源转型",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494281.html",
-      "excerpt": "人民网巴黎6月4日电 （记者于超凡）当地时间6月3日，电池科技企业远景动力位于法国杜埃的电池超级工厂正式投产，法国总统马克龙出席并致辞。 据悉，该工厂首期产能为10GWh，预计每年可为约20万辆电动汽车提供高性能动力电池，主要供应雷诺等车企。据此前消息，作为中法两国在绿色能源和先进制造领域合作的标志性成果，工厂到2030年将建成总产能24GWh，并具备扩容至40GWh的潜力。未来，该基地还将延伸至储能电池、智能充电设施与电池回收等全生命周期解决方案，构建起法国北部地区完整的绿色能源产业生态。 法国总统马克龙在致辞中表示，“在杜埃，我们正与远景共同书写法国绿色工业转型的新篇章。作为‘选择法国’战",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+      "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.",
+      "publishedAt": "2026-11-24T13:43:46.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "2025第九届中国（印尼）出口品牌联展暨印尼雅加达国际工业联展开幕",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494292.html",
-      "excerpt": "人民网雅加达6月4日电（记者李培松）6月4日，2025第九届中国（印尼）出口品牌联展暨印尼雅加达国际工业联展（简称“印尼展”）在雅加达展览中心开幕。 展会现场。活动主办方供图 印尼展聚焦印尼工业化4.0升级新需求，同期举办印尼工业装备及零部件展、印尼塑料印刷包装及食品加工设备展、印尼国际电力新能源展，展品覆盖印尼工业上下游全产业链中热门且极具潜力的15大品类，包括新能源、汽摩配、农业机械、塑料机械与模具、包装与印刷机械等，全面展现中国“智”造在工业领域的综合实力。 展览面积达40,000平方米，不仅是中国在RCEP区域自主举办规模最大的工业题材展会，也是印尼最大工业供应链全产业展览，获得印尼工",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+      "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.",
+      "publishedAt": "2026-11-24T13:11:44.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "印尼哈山努丁大学孔子学院恩星学校教学点揭牌仪式举行",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494312.html",
-      "excerpt": "人民网雅加达6月4日电 （记者李培松）2025年6月3日，哈山努丁大学孔子学院在恩星学校隆重举行新教学点揭牌仪式。哈山努丁大学人文学院院长阿克玛，南昌大学建筑工程学院书记熊进刚，哈山努丁大学孔子学院中方院长吴晓玲、印尼方院长莉娅，恩星学校望加锡校董会主席英格丽，以及哈山努丁大学孔子学院全体教师，恩星学校师生、家长代表和华人代表等100余人参与，现场气氛热烈，文化氛围浓厚。 庆典活动在华人社团传统舞狮和印尼传统舞蹈的欢快氛围中拉开帷幕。国际教育学院副院长宋文杰代表南昌大学向哈山努丁大学孔子学院新教学点的揭牌表示热烈祝贺，希望中文教学点的设立，可以给恩星学校师生带来更多多元文化的体验。她表示，作为",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.",
+      "publishedAt": "2026-11-24T12:04:16.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "中国成都至塞舌尔马埃岛季节性直航将于7月开通",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494387.html",
-      "excerpt": "人民网内罗毕6月4日电 （记者黄炜鑫）维多利亚消息：四川航空公司将于今年7月开通中国成都至塞舌尔马埃岛季节性直航。 据悉，两国相关部门、地方近期加速落实中非合作论坛北京峰会成果和两国领导人达成的重要共识，积极推动双边旅游、经贸、直航等领域合作。经各方共同努力，四川航空公司将于今年7月2日、9日、16日、23日、30日开通中国成都至塞舌尔马埃岛季节性直航，助力中塞各领域交流合作，增进两国人民相知相亲。 航班安排。中国驻塞舌尔大使馆供图 塞舌尔位于非洲东面的印度洋上，风景秀丽，全境50%以上地区被辟为自然保护区，享有“旅游者天堂”的美誉。2024年9月6日，成都市与塞舌尔首都维多利亚市签署建立友好",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
+      "url": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.",
+      "publishedAt": "2026-11-24T11:40:33.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "酷玩推荐官·人间好时节：芒种",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494433.html",
-      "excerpt": "showPlayer({scriptId: 'q_v_j-1q1az04qmqp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1748921558204166/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1743494154080025/picture/5b062b31-5d0b-4de9-b58d-8f",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "url": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.",
+      "publishedAt": "2026-11-24T09:25:45.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "中日气候变化问题专家在东京举办交流会",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494458.html",
-      "excerpt": "新华网东京6月5日电（记者杨光）由日本笹川和平财团主办的中日气候变化问题专家交流会3日在东京举行。中日相关领域专家在友好愉快的氛围中深入交流，一致认为中日在上述领域拥有广阔合作空间。 图为交流会现场。（记者杨光摄） 在交流会上，清华大学能源环境经济研究所所长张希良介绍了中国向低碳经济转型的政策体系及现状，呼吁中日在全球实现低碳经济的进程中深化合作。中诚信集团首席执行官马险峰梳理了中国碳交易市场的现状与课题，展望了中国碳交易市场的未来发展趋势。北京博雅智慧科技有限公司董事长陈雷着重讲述中国企业在绿色低碳发展方面取得的既有成果，并就中日合作提出具体建议。 图为张希良发表演讲。（记者杨光摄） 当天，",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.",
+      "publishedAt": "2026-11-24T07:41:50.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "美国再次在联合国安理会否决加沙停火决议草案",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494451.html",
-      "excerpt": "新华社联合国6月4日电（记者尚绪谦）美国4日再次在联合国安理会否决有关要求在巴勒斯坦加沙地带立即停火的决议草案。 安理会当天对一项由10个非常任理事国提出的决议草案进行表决。该决议草案要求在加沙地带立即无条件永久停火，立即无条件释放所有被扣押人员，立即无条件解除所有对加沙地带的人道准入限制。安理会15个成员中14个投了赞成票，常任理事国美国行使了否决权，导致决议草案未获通过。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+      "publishedAt": "2026-11-24T05:07:30.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "美俄总统通话讨论俄乌冲突等问题",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494447.html",
-      "excerpt": "新华社洛杉矶/莫斯科6月4日电（记者黄恒 赵冰）美国总统特朗普4日在社交媒体上说，他当天与俄罗斯总统普京进行了长约75分钟的通话，双方讨论了俄乌冲突和伊朗核问题。俄总统助理乌沙科夫同日表示，两国领导人在通话中同意继续就乌克兰问题进行接触。 特朗普说，他与普京讨论了乌克兰对俄战略轰炸机的袭击，以及俄乌双方正在展开的“各种相互袭击”。普京“态度非常坚决地”表示将对俄机场遭袭事件作出回应。特朗普表示，“这是一次很好的通话，但并不是一次可以马上带来和平的通话”。 特朗普说，他与普京还讨论了伊朗核问题。伊朗必须就核武器问题“尽快做出决定”。他认为普京与他在伊朗不能拥有核武器这一问题上意见一致。特朗普还说",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "url": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.",
+      "publishedAt": "2026-11-24T03:13:22.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "普京说乌克兰系列袭击旨在破坏和谈 泽连斯基表示仍愿与普京会晤",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494446.html",
-      "excerpt": "新华社莫斯科/基辅6月4日电（记者赵冰 李东旭）俄罗斯总统普京4日在与俄政府官员举行视频会议时说，乌克兰近期对俄罗斯的一系列袭击旨在破坏和谈。乌克兰总统泽连斯基同日表示，即使俄方不同意乌方的30天全面无条件停火提议，他仍愿意与普京会晤。 普京说，在俄乌日前于土耳其城市伊斯坦布尔开启第二轮谈判前夕，乌克兰针对俄罗斯平民进行的“蓄意袭击”，目的是扰乱和破坏和谈。他表示，这一系列袭击说明“基辅政权正在沦为恐怖组织，其支持者正在成为恐怖分子的帮凶”。 普京还表示，乌方在战场上遭受了巨大损失并全线后退，试图通过“恐怖活动”恐吓俄罗斯，迫使俄方停火并举行俄乌领导人会晤。但停火可能被乌方用于进行强制动员、补",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+      "publishedAt": "2026-11-24T00:36:26.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "加州就诉特朗普政府关税政策违法案提起上诉",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494443.html",
-      "excerpt": "新华社洛杉矶6月3日电（记者黄恒）美国加利福尼亚州总检察长罗布·邦塔当地时间2日发布声明说，已就加州北区联邦地区法院就加州诉特朗普政府关税政策违法案的最新裁决提起上诉。 加州此前以州政府和州长加文·纽森的名义，于4月16日向加州北区联邦地区法院提起诉讼，指控联邦政府依据《国际紧急经济权力法》实施所谓“对等关税”政策违法，并称此举损害各州、消费者和企业的广泛利益。加州也是第一个就关税问题起诉特朗普政府的州。 上周在加州北区联邦地区法院的听证会上，代表特朗普政府的辩方提出动议，要求法官将此案移交设在纽约的美国国际贸易法院审理。加州反对该动议，要求法官驳回受理此案的请求，以便就此案该由何处审理的问题",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "publishedAt": "2026-11-23T23:43:34.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "国际观察｜翻番的钢铝关税　倍增的反制和反噬",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494442.html",
-      "excerpt": "新华社北京6月4日电 题：翻番的钢铝关税 倍增的反制和反噬 新华社记者俞懋峰 美国白宫3日发布公告，以应对所谓“国家安全威胁”和提高国内钢铝产业竞争力为由，宣布从4日起将进口自除英国外所有贸易伙伴的钢铝产品关税从目前的25%上调至50%。 美国政府这一举措招致贸易伙伴批评和反对。多国行业人士和学者认为，此举将推高美国从汽车到罐装食品等一系列商品价格，对美国企业和消费者造成冲击，并加剧全球经贸环境不确定性，为世界经济增长前景蒙上阴影。 反对声四起 根据美国国际贸易委员会数据，美国进口钢铁的主要来源地包括加拿大、墨西哥、巴西等，进口铝的主要来源地是加拿大等。美提高钢铝关税引发加拿大、欧盟、日本等多",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+      "publishedAt": "2026-11-23T21:04:03.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "俄外长：乌克兰拒绝俄罗斯停火2至3天的提议是“严重错误”",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494439.html",
-      "excerpt": "新华社莫斯科6月4日电（记者赵冰）俄罗斯外交部长拉夫罗夫4日表示，乌克兰拒绝俄罗斯停火2至3天的提议是“严重错误”。 俄总统普京当天召集政府成员开会并听取有关俄乌谈判情况的汇报。拉夫罗夫在会上说，俄方提出该建议，是为让双方能够妥善收集接触线上阵亡人员的遗体，或是转移可能存在的伤员。 普京表示，乌方拒绝俄方上述提议并不令人意外。 拉夫罗夫还说，在任何情况下，保持沟通渠道总是好的，因为“这使我们能够首先解决人道主义问题”。他表示，相互协调人道主义措施可以释放善意，加强信任，这正是现阶段所必需的。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+      "publishedAt": "2026-11-23T20:38:43.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "欧盟官员：美国上调钢铝关税无助于美欧谈判",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494437.html",
-      "excerpt": "新华社布鲁塞尔6月4日电（记者康逸 张兆卿）欧盟委员会负责贸易和经济安全等事务的委员马罗什·谢夫乔维奇4日在法国巴黎表示，针对美国将进口钢铁和铝的关税从25%上调至50%，欧盟方面已与美国贸易代表格里尔进行了讨论，并向美方指出此举无助于欧美正在进行的谈判。 “我们对美国这一最新决定深表遗憾。”谢夫乔维奇说，“这显然无助于当前正在进行的谈判。” 谢夫乔维奇当天在一场新闻发布会上说，欧盟和美国合计约占全球贸易的30%。如果双方关系无法维持正常，将对全球贸易体系造成负面影响。欧盟认为，应以最严肃的态度、投入最大的努力来解决这些问题。 谢夫乔维奇说，如果一切努力都失败了，“我们已做好准备捍卫自身利益，",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+      "publishedAt": "2026-11-23T19:35:06.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "文明对话国际日庆祝活动在布加勒斯特举办",
-      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493979.html",
-      "excerpt": "人民网华沙6月4日电（记者禹丽敏）在文明对话国际日即将到来之际，题为“对话·知音——用音乐与世界对话”的中国古筝音乐会日前分别在布加勒斯特国家音乐大学和中国驻罗马尼亚大使馆举办。 音乐会由中国沈阳音乐学院、古筝演奏家贾晓莉教授领衔，三位古筝演奏家在钢琴的伴奏下以精湛的技艺演绎了多首极具中华文化特色的经典曲目。古筝是中国最具代表性的民族乐器之一，已有2000多年的历史，其音色清澈优美，具有丰富的音乐表现力。中国古筝演奏家与罗马尼亚小提琴手、大提琴手合奏的《春江花月夜》，赢得了在场观众的热烈掌声。 中国驻罗马尼亚大使馆临时代办华亚芳表示，音乐是一种超越语言的艺术，拥有触动人心的力量。尽管中国与罗马",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+      "publishedAt": "2026-11-23T19:16:46.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "中交集团在老挝高校开展“澜湄绿色课堂”活动",
-      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493977.html",
-      "excerpt": "人民网曼谷6月4日电 （记者杨一）万象消息：近日，中交集团中国水利电力对外有限公司（以下简称“水电对外”）在老挝国立大学开展“澜湄绿色课堂”教学活动，中国河海大学水利水电学院教授周建旭受邀现场教学，老挝国立大学、老挝理工学院共计190余名学生前来听讲。 中交集团在老挝高校开展“澜湄绿色课堂”活动。主办方供图 活动伊始，水电对外老挝分公司代表对参加活动的师生表示热烈欢迎，希望借此契机，发扬澜湄合作精神，向更多当地年轻学子传递绿色发展理念，共享能源领域经验技术与成果。老挝国立大学校方代表表示，老挝国立大学愿在人才培养方面与中国企业加强务实合作，为老挝水电领域培养更多高素质人才。 周建旭以“水电能源",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "cointelegraph",
+      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
+      "publishedAt": "2026-11-23T17:42:18.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
     },
     {
-      "sourceId": "people-world",
-      "title": "比利时侨界举办纪念抗战胜利和台湾光复80周年座谈会",
-      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493972.html",
-      "excerpt": "人民网布鲁塞尔6月4日电 （记者牛瑞飞）为铭记历史、弘扬抗战精神、坚定统一信念，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年、台湾光复80周年座谈会3日在比利时东部城市圣尼古拉斯市举行。此次活动由比利时中国和平统一促进会联合比利时18家华侨华人社团共同主办，来自两岸台胞民间交流促进会的代表团、中国驻比利时大使馆、比利时各大侨团及旅比台胞代表等130余人出席座谈会。 图为参会嘉宾合影。比利时中国和平统一促进会供图 两岸台胞民间交流促进会副会长江利平在讲话中表示，在中国共产党倡导和建立的抗日民族统一战线旗帜下，中国人民历经艰苦卓绝的斗争，为世界反法西斯战争胜利作出重大贡献。他强调，台湾作为中",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+      "excerpt": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.",
+      "publishedAt": "2026-11-25T05:15:00.000Z",
+      "category": "finance",
+      "source": "The Block"
     },
     {
-      "sourceId": "people-world",
-      "title": "北京优化入境旅游服务 激发“中国游”活力",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494429.html",
-      "excerpt": "新华社北京6月4日电（记者杨淑君）登上长城，欣赏雄伟壮丽的景色；沿北京中轴线漫步，感受悠久的中华文明；徜徉于亮马河国际风情水岸，领略夜间城市魅力……来自全球40多个国家和地区的270余位旅行商近日齐聚北京，在48小时“发现北京之旅”中深度感受“中国游”的蓬勃活力。 “这是我第一次来到中国北京，一切都让人惊喜！”来自德国慕尼黑的安雅兴奋地一路用手机记录下看到的美景。她告诉记者，爬长城、听昆曲、品尝北京烤鸭让她印象深刻。“很高兴来到这里，明年我希望带着家人一起来中国探索更多领域。”她说。 图为参会嘉宾在2025北京入境旅游发展大会现场感受中国传统文化。新华社记者 杨淑君 摄 6月1日至2日，北京市",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+      "excerpt": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.",
+      "publishedAt": "2026-11-25T03:59:52.000Z",
+      "category": "finance",
+      "source": "The Block"
     },
     {
-      "sourceId": "people-world",
-      "title": "高端访谈丨阿中愿携手维护多边贸易体系和发展中国家利益——访阿拉伯议会议长亚马希",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494416.html",
-      "excerpt": "新华社开罗6月3日电 高端访谈｜阿中愿携手维护多边贸易体系和发展中国家利益——访阿拉伯议会议长亚马希 新华社记者董修竹 姚兵 吴宝澍 阿拉伯议会议长穆罕默德·艾哈迈德·亚马希日前接受新华社记者专访时说，阿拉伯国家同中国始终相互支持，对全球性问题有着共同立场，愿一道维护多边贸易体系和发展中国家利益，推动全球经济治理体系朝着更加公平、包容的方向发展。 亚马希表示，阿中在涉及彼此核心利益问题上始终坚定相互支持。中国坚定支持阿拉伯国家正义事业，特别是在巴勒斯坦问题上，中方坚定支持巴勒斯坦人民恢复民族合法权利的正义事业。阿拉伯国家坚定恪守一个中国原则。阿方坚决反对任何形式的“台湾独立”，坚决反对任何对中",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+      "excerpt": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
+      "publishedAt": "2026-11-25T02:46:14.000Z",
+      "category": "finance",
+      "source": "The Block"
     },
     {
-      "sourceId": "people-world",
-      "title": "中国连任联合国经社理事会成员",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494422.html",
-      "excerpt": "6月4日，在位于纽约的联合国总部，联合国大会举行会议改选联合国经济及社会理事会（经社理事会）部分成员。 联合国大会4日改选联合国经济及社会理事会（经社理事会）部分成员，中国成功连任。 新华社发（联合国供图/曼努埃尔·埃利亚斯摄） 6月4日，在位于纽约的联合国总部，联合国大会工作人员收集选票。 联合国大会4日改选联合国经济及社会理事会（经社理事会）部分成员，中国成功连任。 新华社发（联合国供图/曼努埃尔·埃利亚斯摄） 6月4日，在位于纽约的联合国总部，第79届联大主席菲勒蒙·扬（左）主持联合国大会会议，改选联合国经济及社会理事会（经社理事会）部分成员。 联合国大会4日改选联合国经济及社会理事会（",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+      "excerpt": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
+      "publishedAt": "2026-11-24T22:10:45.000Z",
+      "category": "finance",
+      "source": "The Block"
     },
     {
-      "sourceId": "people-world",
-      "title": "俄乌将于本周末再次换俘",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494421.html",
-      "excerpt": "新华社莫斯科/基辅6月4日电（记者赵冰 李东旭）俄乌双方4日分别表示，将于本周末再次交换被俘人员。 俄罗斯总统普京4日召开会议，听取有关俄乌谈判情况的汇报。俄总统助理、谈判代表团团长梅金斯基在汇报中说，俄方准备在7日至9日同乌方交换被俘人员，预计双方将互换1200人，这将是迄今为止双方最大规模的换俘行动。 梅金斯基表示，俄方已经在伊斯坦布尔谈判中提议并将在近期着手向乌方移交6000多具乌军人员遗体，遗体将用专用冷藏车装运。乌方可能也留存有俄军人员遗体。俄乌双方已经就人道主义问题建立了沟通渠道。 梅金斯基说，在伊斯坦布尔谈判期间，乌方提出停火30天或者60天，并为元首会晤做准备。俄方已经告知乌方",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+      "excerpt": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
+      "publishedAt": "2026-11-24T20:53:14.000Z",
+      "category": "finance",
+      "source": "The Block"
     },
     {
-      "sourceId": "people-world",
-      "title": "美致信“提醒”贸易伙伴加紧关税谈判",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494419.html",
-      "excerpt": "新华社洛杉矶6月3日电（记者黄恒）美国白宫新闻秘书卡罗琳·莱维特3日证实，美政府已向贸易伙伴发出信函，催促加快贸易谈判进程。 此间媒体2日报道，特朗普政府致信贸易伙伴，要求它们在4日前呈交各自对美贸易谈判的“最佳出价”，以便在美设定的最后期限到来前加快与美方的贸易谈判进程。 莱维特证实信函的真实性和内容，称美方这一做法是为了提醒贸易伙伴“截止日期即将到来”，“总统期待达成好协议”。 白宫并未透露哪些经济体收到催促信函，但包括财政部长贝森特在内的高级官员表示，他们正与越南、日本和印度等国展开谈判。贝森特最近警告，如果贸易伙伴与美谈判“不真诚”，其关税可能会恢复到“暂停期”前的水平。 美国宣布开征",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+      "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+      "excerpt": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
+      "publishedAt": "2026-11-24T18:35:02.000Z",
+      "category": "finance",
+      "source": "The Block"
     },
     {
-      "sourceId": "people-world",
-      "title": "伊朗最高领袖：完全放弃铀浓缩“百分之百”违背伊朗利益",
-      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494418.html",
-      "excerpt": "新华社德黑兰6月4日电（记者陈霄）伊朗最高领袖哈梅内伊4日说，美国要求伊朗完全放弃铀浓缩的主要目的是阻碍伊朗发展，并迫使伊朗依赖外国势力，伊朗明确拒绝此类胁迫手段，完全放弃铀浓缩“百分之百”违背伊朗的利益。 据伊朗伊斯兰共和国通讯社4日报道，哈梅内伊当天在伊朗首都德黑兰出席前最高领袖霍梅尼逝世36周年纪念活动并发表讲话。哈梅内伊表示，伊朗拥有“完整的核燃料循环能力”是坚信“我们能行”信念的成果，美国的要求完全违背“我们能行”这一开创性原则，“美国及以色列必须明白，他们没有办法扼杀伊朗核工业”。 哈梅内伊说，美国在核问题上的言论和要求，实质上是剥夺伊朗参与该行业的权利及其为人民带来的各种利益，本",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网国际"
+      "sourceId": "the-block",
+      "title": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
+      "excerpt": "Rep. Raskin has expanded his investigation into 1789 Capital, probing potential links between investments in companies such as Polymarket.",
+      "publishedAt": "2026-11-24T18:05:03.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "We’ve Entered Peak FEAR; SKY Falls",
+      "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
+      "excerpt": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin’s price hit a local high of $87k after rising from its summer lows and has returned to the level of aroun",
+      "publishedAt": "2026-11-24T17:42:29.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+      "url": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
+      "excerpt": "Rialto has processed more than $600 million in spot trading volume across its app and Swap API since launching publicly in July, Can said.",
+      "publishedAt": "2026-11-24T17:00:02.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
+      "url": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
+      "excerpt": "Ansem said he is conducting a security review as onchain analysts try to get to the bottom of his wallet drain.",
+      "publishedAt": "2026-11-24T16:51:21.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
+      "excerpt": "Europol traced more than €26 million ($28.5 million) in crypto transactions during an investigation into illegal IPTV services.",
+      "publishedAt": "2026-11-24T16:45:33.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+      "excerpt": "Nasdaq-listed BTCS sold 27,300 ETH during Friday's crypto rout to slash decentralized debt and curb collateral liquidation risk.",
+      "publishedAt": "2026-11-24T15:27:50.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Crypto Market Structure Basics",
+      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986",
+      "excerpt": "Crypto Market Structure 101 explains how crypto markets work for beginners. It covers centralized and decentralized exchanges, trading pairs and settlement, order types, leverage and perpetual futures, market makers, key market players, and crypto fundraising.",
+      "publishedAt": "2026-11-24T14:40:12.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
+      "excerpt": "BlackRock's IBIT bitcoin exchange-traded fund again led the outflows, with $509.3 million exiting the fund on Monday.",
+      "publishedAt": "2026-11-24T14:32:21.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+      "excerpt": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
+      "publishedAt": "2026-11-24T14:00:02.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+      "url": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+      "excerpt": "Ledn's new U.S. custody account lets customers hold bitcoin, gold, stablecoins and dollars, swap with no trading fees and borrow against bitcoin without selling.",
+      "publishedAt": "2026-11-24T14:00:00.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+      "excerpt": "Neuberger Berman's tokenized high-yield fund HINC launches on Aave Horizon, letting eligible investors borrow USDC, GHO and RLUSD against it.",
+      "publishedAt": "2026-11-24T14:00:00.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+      "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+      "excerpt": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
+      "publishedAt": "2026-11-24T13:17:35.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
+      "excerpt": "The Ethereum Foundation is expanding its security resources as advances in AI raise new concerns about cryptography and software security.",
+      "publishedAt": "2026-11-24T11:53:31.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "the-block",
+      "title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
+      "excerpt": "The draft will now head to the legislature, where lawmakers will debate it and potentially merge it with competing proposals.",
+      "publishedAt": "2026-11-24T11:25:24.000Z",
+      "category": "finance",
+      "source": "The Block"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Venezuela’s sanctions are stablecoins’ proof of concept",
+      "url": "https://blockworks.com/news/venezuelas-sanctions-stablecoins",
+      "excerpt": "Banned from the dollar system, the country uses digital dollars instead",
+      "publishedAt": "2026-01-07T14:00:00.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The Strategy playbook looks different in 2026",
+      "url": "https://blockworks.com/news/strategy-playbook-2026",
+      "excerpt": "The treasury company now holds 673,783 BTC, but flow is more likely to be episodic in this year’s financial climate",
+      "publishedAt": "2026-01-06T17:36:33.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Ranger’s ICO starts today, and MetaDAO eyes a reset",
+      "url": "https://blockworks.com/news/rangers-ico-metadao",
+      "excerpt": "Ranger’s Jan 6–10 sale could re-accelerate MetaDAO volumes and revenue",
+      "publishedAt": "2026-01-06T15:07:05.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "ETH derivatives reset and the next retail trade",
+      "url": "https://blockworks.com/news/eth-derivatives-reset",
+      "excerpt": "ETH derivatives show a disciplined rebuild of risk, with rising open interest pointing to healthier leverage",
+      "publishedAt": "2026-01-05T15:14:17.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Friday charts: Finding good news, in spite of bad headlines",
+      "url": "https://blockworks.com/news/friday-charts-finding-good-news-in-spite-of-bad-headlines",
+      "excerpt": "2025 was far from perfect, but much better than we think it was.",
+      "publishedAt": "2026-01-02T23:41:06.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "DePIN and crypto gaming led a surprising end-of-year rebound",
+      "url": "https://blockworks.com/news/depin-gaming-surprising-rebound",
+      "excerpt": "BTC finished the week up 1.6%, while L2s, RWAs and the treasury trade continued to grind lower",
+      "publishedAt": "2026-01-02T16:53:02.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Canton’s $6T RWA rails and Lighter’s Hyperliquid multiple",
+      "url": "https://blockworks.com/news/cantons-rwa-rails",
+      "excerpt": "DTCC moves DTC-custodied Treasuries onchain via Canton, while Lighter’s LIT launches trading at a fees multiple in Hyperliquid territory",
+      "publishedAt": "2026-01-01T18:00:00.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The long wait for crypto’s “coffee pot” moment",
+      "url": "https://blockworks.com/news/cryptos-coffee-pot-moment",
+      "excerpt": "In the 90s, rapt audiences worldwide watched a coffee pot — will that fascination ever turn to crypto?",
+      "publishedAt": "2026-01-01T14:00:00.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Failure is an option in crypto finance",
+      "url": "https://blockworks.com/news/failure-is-an-option",
+      "excerpt": "Some systems improve by failing — and crypto has no choice",
+      "publishedAt": "2026-01-01T00:18:58.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Yield Basis is making native BTC yield a reality",
+      "url": "https://blockworks.com/news/yield-basis-native-btc-yield",
+      "excerpt": "Yield Basis introduces an IL-free AMM design that already dominates BTC DEX liquidity",
+      "publishedAt": "2025-12-31T19:20:49.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Users are the best investors to have",
+      "url": "https://blockworks.com/news/users-are-the-best-investors-to-have",
+      "excerpt": "Maybe tokenholders don’t need the rights that corporate shareholders have come to expect",
+      "publishedAt": "2025-12-31T17:13:32.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "A sleeper in the perps category",
+      "url": "https://blockworks.com/news/boros-sleeper-perps",
+      "excerpt": "As Hyperliquid and Lighter battle for perps DEX dominance, Boros could capture the structural upside",
+      "publishedAt": "2025-12-30T17:50:45.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The old story of investing in new technology",
+      "url": "https://blockworks.com/news/the-old-story-of-investing-in-new-technology",
+      "excerpt": "Investors are often right about the future, but wrong about the returns",
+      "publishedAt": "2025-12-30T15:24:59.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "2025 Reflections",
+      "url": "https://blockworks.com/news/blockworks-2025-reflections",
+      "excerpt": "A look back at 2025, reflections on our industry, and what it means for Blockworks in 2026",
+      "publishedAt": "2025-12-30T14:31:28.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The perps wars are heating up",
+      "url": "https://blockworks.com/news/perps-wars-heating-up",
+      "excerpt": "Hyperliquid’s weekly volume trails newer rivals as a Lighter airdrop looms",
+      "publishedAt": "2025-12-29T16:13:32.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Gold and silver won 2025",
+      "url": "https://blockworks.com/news/gold-silver-won-2025",
+      "excerpt": "Gold is having its best year since 1979, while many DeFi names are trading near multi-year lows",
+      "publishedAt": "2025-12-26T15:42:48.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Maple’s fundamentals are driving outperformance",
+      "url": "https://blockworks.com/news/maples-fundamentals",
+      "excerpt": "Maple is outperforming peers on growth, yield, and revenue — while benefiting from limited supply overhang and clear value accrual",
+      "publishedAt": "2025-12-23T19:54:37.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The incredible, incomprehensible, possibly impossible world of trillion-dollar tech valuations",
+      "url": "https://blockworks.com/news/trillion-dollar-tech-valuations",
+      "excerpt": "Will mega-unicorns collectively earn the trillions of dollars of revenue required to justify their valuations?",
+      "publishedAt": "2025-12-22T18:49:43.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The year new tokens died",
+      "url": "https://blockworks.com/news/year-new-tokens-died",
+      "excerpt": "2025 saw a huge compression in the valuation of new tokens, with the steepest losses in infrastructure and gaming",
+      "publishedAt": "2025-12-22T16:27:50.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Grinch rally: Crypto indices track lower through the week",
+      "url": "https://blockworks.com/news/grinch-rally",
+      "excerpt": "The AI sector was the top loser on the week, trading down -26%",
+      "publishedAt": "2025-12-19T18:50:02.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "A holiday guide to explaining crypto to your relatives",
+      "url": "https://blockworks.com/news/explaining-crypto-to-relatives",
+      "excerpt": "Spoiler alert: talking about crypto to normies is still really hard",
+      "publishedAt": "2025-12-19T15:46:06.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Coinbase embeds Solana trading",
+      "url": "https://blockworks.com/news/coinbase-embeds-solana-trading",
+      "excerpt": "The platform turns to onchain rails for Solana assets while crypto M&A and fundraising surge to cycle highs",
+      "publishedAt": "2025-12-19T03:27:13.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Robinhood’s leap shows the prediction-market arms race is underway",
+      "url": "https://blockworks.com/news/robinhoods-leap-shows-the-prediction-market-arms-race-is-underway",
+      "excerpt": "Robinhood is pushing deeper into high-margin market design, joining competitors like Kalshi and DraftKings",
+      "publishedAt": "2025-12-18T20:02:16.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The competitive advantage of not knowing you’re wrong",
+      "url": "https://blockworks.com/news/not-knowing-youre-wrong",
+      "excerpt": "When not knowing the odds improves your chances",
+      "publishedAt": "2025-12-18T16:12:30.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "The network is the innovation",
+      "url": "https://blockworks.com/news/the-network-is-the-innovation",
+      "excerpt": "What Thomas Edison actually invented — and what it tells us about the future of crypto",
+      "publishedAt": "2025-12-17T16:06:37.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Another week, another MetaDAO advertisement",
+      "url": "https://blockworks.com/news/metadao-advertisement",
+      "excerpt": "Meanwhile, recent acquisitions continue to neglect tokenholders",
+      "publishedAt": "2025-12-16T17:00:00.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "A man’s blockchain is his castle",
+      "url": "https://blockworks.com/news/mans-blockchain-castle",
+      "excerpt": "But who gets a key to the gate?",
+      "publishedAt": "2025-12-16T15:22:36.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Capital gets selective",
+      "url": "https://blockworks.com/news/capital-gets-selective",
+      "excerpt": "Unit economics inflect, institutional capital shows up onchain, and market structure continues to evolve",
+      "publishedAt": "2025-12-15T15:44:01.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "Friday charts: The many, many architects of AI",
+      "url": "https://blockworks.com/news/architects-of-ai",
+      "excerpt": "Throughout its billions of searches, Google’s goal has always been to train and hone its algorithms",
+      "publishedAt": "2025-12-12T22:36:59.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "blockworks",
+      "title": "BTC is up and L1s are down as flows turn messy again",
+      "url": "https://blockworks.com/news/flows-turn-messy-again",
+      "excerpt": "The Nasdaq slipped yesterday after disappointing Q3 revenue from Oracle",
+      "publishedAt": "2025-12-12T18:00:00.000Z",
+      "category": "finance",
+      "source": "Blockworks"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+      "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+      "excerpt": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
+      "publishedAt": "2026-11-24T22:36:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+      "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+      "excerpt": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
+      "publishedAt": "2026-11-24T21:46:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+      "excerpt": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
+      "publishedAt": "2026-11-24T21:16:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "excerpt": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
+      "publishedAt": "2026-11-24T20:36:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+      "excerpt": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
+      "publishedAt": "2026-11-24T19:35:32.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "excerpt": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
+      "publishedAt": "2026-11-24T18:55:27.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+      "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+      "excerpt": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
+      "publishedAt": "2026-11-24T18:36:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+      "excerpt": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
+      "publishedAt": "2026-11-24T18:16:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+      "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
+      "excerpt": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
+      "publishedAt": "2026-11-24T17:45:22.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
+      "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
+      "excerpt": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
+      "publishedAt": "2026-11-24T17:43:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+      "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
+      "excerpt": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
+      "publishedAt": "2026-11-24T16:00:44.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+      "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+      "excerpt": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
+      "publishedAt": "2026-11-24T14:13:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+      "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+      "excerpt": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
+      "publishedAt": "2026-11-24T13:46:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+      "excerpt": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
+      "publishedAt": "2026-11-24T13:07:49.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+      "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+      "excerpt": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
+      "publishedAt": "2026-11-24T13:01:30.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+      "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+      "excerpt": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
+      "publishedAt": "2026-11-24T12:40:47.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
+      "url": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
+      "excerpt": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.",
+      "publishedAt": "2026-11-24T11:35:13.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+      "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+      "excerpt": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
+      "publishedAt": "2026-11-23T23:06:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+      "url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+      "excerpt": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
+      "publishedAt": "2026-11-23T21:46:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+      "url": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
+      "excerpt": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
+      "publishedAt": "2026-11-23T21:16:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+      "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+      "excerpt": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
+      "publishedAt": "2026-11-23T20:36:02.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
+      "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+      "excerpt": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
+      "publishedAt": "2026-11-23T19:57:21.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
+      "url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+      "excerpt": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
+      "publishedAt": "2026-11-23T18:45:21.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+      "excerpt": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+      "publishedAt": "2026-11-23T18:16:25.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Perps and Swaps: How to Trade the News on Decrypt",
+      "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+      "excerpt": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+      "publishedAt": "2026-11-23T18:15:45.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
+      "url": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
+      "excerpt": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
+      "publishedAt": "2026-11-23T17:28:08.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+      "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+      "excerpt": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
+      "publishedAt": "2026-11-23T16:46:03.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+      "url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
+      "excerpt": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
+      "publishedAt": "2026-11-23T16:32:04.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+      "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+      "excerpt": "The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.",
+      "publishedAt": "2026-11-23T14:07:21.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "decrypt",
+      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
+      "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
+      "excerpt": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
+      "publishedAt": "2026-11-23T13:34:13.000Z",
+      "category": "finance",
+      "source": "Decrypt"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Fed Governor Waller warns of \"zombie chains\" as tokenization grows",
+      "url": "https://www.dlnews.com/articles/regulation/fed-governor-waller-warns-of-zombie-chains-as-tokenization-grows/",
+      "excerpt": "Fed Governor Christopher Waller warned that tokenized assets could be stranded on failed blockchains and called for clearer governance.",
+      "publishedAt": "2026-11-24T17:15:43.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "CFTC approves Backpack to run derivatives exchange and clearinghouse",
+      "url": "https://www.dlnews.com/articles/regulation/cftc-approves-backpack-to-run-derivatives-exchange-and-clearinghouse/",
+      "excerpt": "The CFTC approved Backpack’s US exchange and clearinghouse, paving the way for leveraged crypto perpetual futures and global liquidity.",
+      "publishedAt": "2026-11-24T17:14:09.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Binance obtains $6.5 billion freezing order for stolen crypto",
+      "url": "https://www.dlnews.com/articles/regulation/binance-obtains-usd65-billion-freezing-order-for-stolen-crypto/",
+      "excerpt": "Binance says it secured a $6.5 billion worldwide freezing order from Abu Dhabi courts to recover crypto stolen in the October 29 hack.",
+      "publishedAt": "2026-11-23T22:08:13.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "CFTC orders Kalshi to pause certain Trump speech contracts",
+      "url": "https://www.dlnews.com/articles/regulation/cftc-orders-kalshi-to-pause-certain-trump-speech-contracts/",
+      "excerpt": "Kalshi paused contracts on words Trump might say after the CFTC raised concerns about manipulation. The exchange has until December 11 to respond.",
+      "publishedAt": "2026-11-23T22:07:21.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Strategy’s MSCI risk: What to watch before November 11",
+      "url": "https://www.dlnews.com/articles/markets/strategy-msci-index-exclusion-risk/",
+      "excerpt": "MSCI will name affected companies on November 11. Here’s what investors should watch as Strategy faces possible index exclusion.",
+      "publishedAt": "2026-10-28T22:30:00.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Aviva’s £50m tokenized fund: What changes for investors",
+      "url": "https://www.dlnews.com/articles/markets/aviva-tokenized-liquidity-fund-explained/",
+      "excerpt": "Aviva Investors adds a tokenized share class to its £22 billion Sterling Liquidity Fund on the XRP Ledger, backed by a £50 million commitment.",
+      "publishedAt": "2026-10-28T20:48:13.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trading",
+      "url": "https://www.dlnews.com/articles/regulation/bank-of-russia-clears-crypto-exchangers-sberbank-and-vtb/",
+      "excerpt": "Russia's central bank has cleared 17 crypto exchangers, including Sberbank and VTB, as both banks ready retail crypto trading by 1 December.",
+      "publishedAt": "2026-10-22T23:20:00.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Securitize shares slide 38% since it put Apple and Nvidia stock on Solana",
+      "url": "https://www.dlnews.com/articles/markets/securitize-shares-fall-38percent-since-solana-stock-token-launch-or-dl-news/",
+      "excerpt": "Securitize stock is down 38% since it launched tokenised Apple, Nvidia and Tesla shares on Solana. It still hasn't said how much trades.",
+      "publishedAt": "2026-10-22T18:18:21.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "excerpt": "Lord Ranger is a Member of the UK House of Lords and serves as Co-Chair of the All-Party Parliamentary Group (APPG) on Digital Markets and Digital Money.",
+      "publishedAt": "2026-05-07T17:04:07.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Drift to issue ‘recovery tokens’ in wake of $295m hack",
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "excerpt": "",
+      "publishedAt": "2026-05-05T21:04:09.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "DeFi rides Pokémon trading card boom as onchain marketplaces bring in $11m",
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "excerpt": "",
+      "publishedAt": "2026-05-05T16:12:11.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "excerpt": "",
+      "publishedAt": "2026-05-05T13:41:45.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "excerpt": "",
+      "publishedAt": "2026-05-05T11:23:34.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "excerpt": "",
+      "publishedAt": "2026-05-05T09:41:36.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "excerpt": "",
+      "publishedAt": "2026-05-05T08:01:35.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Aave secures emergency hearing to void ‘catastrophic’ restraining order",
+      "url": "https://www.dlnews.com/articles/defi/aave-gets-emergency-hearing-to-void-catastrophic-court-order/",
+      "excerpt": "",
+      "publishedAt": "2026-05-04T21:51:05.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Clarity Act odds surge on stablecoin compromise, Coinbase support",
+      "url": "https://www.dlnews.com/articles/regulation/clarity-act-odds-surge-on-stablecoin-compromise/",
+      "excerpt": "The Clarity Act's odds of passing in 2026 skyrocketed on Friday. Here's why.",
+      "publishedAt": "2026-05-04T17:10:48.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "‘Every hit earns crypto’? App that gives users Bitcoin for getting stoned deemed ‘dangerous’ and ‘unethical’",
+      "url": "https://www.dlnews.com/articles/web3/gudtrip-app-gives-users-bitcoin-and-deemed-unethical/",
+      "excerpt": "",
+      "publishedAt": "2026-05-04T11:30:08.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Ethereum devs huddled in the Arctic Circle to fix the network. Here’s what to know",
+      "url": "https://www.dlnews.com/articles/markets/ethereum-devs-huddled-in-the-arctic-circle-to-fix-the-network-heres-what-to-know/",
+      "excerpt": "",
+      "publishedAt": "2026-05-04T11:28:03.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair imminent",
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-tops-80k-price-as-clarity-act-nears-senate-floor-with-new-fed-chair-imminent/",
+      "excerpt": "",
+      "publishedAt": "2026-05-04T06:24:41.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Crypto companies raised $600m in April despite despite market downturn, VCs say",
+      "url": "https://www.dlnews.com/articles/deals/crypto-companies-raised-600m-in-april-despite-fake-innovation-vcs-say/",
+      "excerpt": "",
+      "publishedAt": "2026-05-02T01:30:00.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Crypto industry reels as April sees highest number of hacks ever",
+      "url": "https://www.dlnews.com/articles/defi/crypto-industry-reels-after-highest-number-of-hacks-ever/",
+      "excerpt": "",
+      "publishedAt": "2026-05-01T13:43:12.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Hegseth recasts Bitcoin as national security asset amid Russia, China expansion",
+      "url": "https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/",
+      "excerpt": "",
+      "publishedAt": "2026-05-01T08:49:47.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Anthropic’s new Mythos AI will hit crypto. Bitcoin investors don’t care, says Coinbase",
+      "url": "https://www.dlnews.com/articles/markets/anthropic-mythos-ai-will-hit-crypto-bitcoin-investors-dont-care-says-coinbase/",
+      "excerpt": "",
+      "publishedAt": "2026-05-01T07:50:22.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "US Senate bans prediction market trading by Senators, staff",
+      "url": "https://www.dlnews.com/articles/regulation/us-senate-bans-prediction-market-trading-by-senators/",
+      "excerpt": "",
+      "publishedAt": "2026-04-30T23:08:19.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Democrat Senators question Howard Lutnick over Tether ties",
+      "url": "https://www.dlnews.com/articles/regulation/dem-senators-question-howard-lutnick-over-tether-ties/",
+      "excerpt": "",
+      "publishedAt": "2026-04-30T22:17:53.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Vitalik-backed MegaETH sees token fall 55% on first day trading",
+      "url": "https://www.dlnews.com/articles/defi/vitalik-backed-megaeth-sees-token-fall-55percent-on-first-day-trading/",
+      "excerpt": "",
+      "publishedAt": "2026-04-30T15:29:58.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "XRP held back by ‘two forces’ analyst says as traders bet on price to plunge",
+      "url": "https://www.dlnews.com/articles/markets/xrp-held-back-by-two-forces-analyst-says-as-traders-bet-on-price-to-plunge/",
+      "excerpt": "",
+      "publishedAt": "2026-04-30T15:26:42.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "Elizabeth Warren slams Trump after expose ties World Liberty Financial to crypto projects linked to human trafficking group",
+      "url": "https://www.dlnews.com/articles/regulation/warren-slams-trump-over-world-liberty-financial-expose/",
+      "excerpt": "",
+      "publishedAt": "2026-04-30T14:59:39.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "dl-news",
+      "title": "A wallet tied to one of crypto’s most notorious hackers is laundering funds again",
+      "url": "https://www.dlnews.com/articles/people-culture/wallets-tied-to-andean-medjedovic-use-tornado-cash/",
+      "excerpt": "",
+      "publishedAt": "2026-04-30T13:38:06.000Z",
+      "category": "finance",
+      "source": "DL News"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "The Canary in the Coal Mine",
+      "url": "https://research.glassnode.com/the-week-onchain-week-47-2026/",
+      "excerpt": "Bitcoin gave back the NVIDIA rally within hours, and stocks are starting to follow. Price is back at the summer lows. Leverage is mostly cleared and losses are the heaviest since FTX, but US buyers are missing. Every past bear market went below the Realized Price, now at $53.2K.",
+      "publishedAt": "2026-11-24T16:27:46.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "NOWPayments + Glassnode: Stablecoins in Commerce",
+      "url": "https://research.glassnode.com/nowpayments-glassnode-stablecoins-in-commerce/",
+      "excerpt": "This report compares how USDT and USDC move on-chain with how merchants are paid in them, and what that means for the coins and networks a business should accept.",
+      "publishedAt": "2026-11-10T16:45:17.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Fasanara Digital + Glassnode: Q4 2026 Institutional Market Perspectives",
+      "url": "https://research.glassnode.com/fasanara-digital-glassnode-q4-2026-institutional-market-perspectives/",
+      "excerpt": "Our joint report with Fasanara Digital examines how market structure is shifting into the fourth quarter, and what it means for institutional allocators.",
+      "publishedAt": "2026-10-23T09:34:20.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Glassnode Alpha Lab",
+      "url": "https://research.glassnode.com/glassnode-alpha-lab/",
+      "excerpt": "Alpha Lab helps investors turn Glassnode’s on-chain and market data into transparent, testable trading heuristics without having to build a research pipeline from scratch.",
+      "publishedAt": "2026-09-17T11:49:52.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Bybit + Glassnode: The State of Crypto Derivatives",
+      "url": "https://research.glassnode.com/bybit-glassnode-the-state-of-crypto-derivatives/",
+      "excerpt": "A joint report on how the Bitcoin options market grew, where it took its share from, and how trading behaviour differs across the venues.",
+      "publishedAt": "2026-09-17T09:54:34.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Ark Invest + Glassnode: The Decentralization Spectrum",
+      "url": "https://research.glassnode.com/ark-invest-glassnode-the-decentralization-spectrum/",
+      "excerpt": "The Decentralization Spectrum: Design Tradeoffs In Digital Assets is a joint report by ARK Invest and Glassnode that maps Bitcoin, Ethereum, and Solana across four design features and six measurable dimensions of decentralization.",
+      "publishedAt": "2026-09-01T13:46:08.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "BTC Market Pulse: Week 48",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-48-2026/",
+      "excerpt": "Bitcoin trades near $63k on Monday after a weekly slide of about 6%. Leverage was flushed and ETF outflows hit the heaviest since July, while short-term holders sit at a deep loss and momentum stays oversold.",
+      "publishedAt": "2026-11-23T14:17:52.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Book Churn: How Fast the Order Book Is Being Rewritten",
+      "url": "https://research.glassnode.com/book-churn/",
+      "excerpt": "Book Churn counts how often the price levels of an order book are revised. We define the metric, show how much of it depth and spread already capture, and test it as a volatility indicator on Binance BTCUSDT and ETHUSDT perpetuals.",
+      "publishedAt": "2026-11-18T14:31:56.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Capitulation Meets Support",
+      "url": "https://research.glassnode.com/the-week-onchain-week-46-2026/",
+      "excerpt": "Bitcoin's crash pushed realized losses to capitulation levels and flushed leverage. Price holds the block of recent buyers between $62K and $66K, with the largest bids since August at $60K and below. Demand for Bitcoin stays thin, while tokenized real-world assets keep spreading across crypto.",
+      "publishedAt": "2026-11-17T16:40:07.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "BTC Market Pulse: Week 47",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-47-2026/",
+      "excerpt": "Bitcoin trades near $64k on Monday after a weekly slide of about 13%. Leverage was flushed and ETF selling continued, while short-term holders sit at a loss and loss-taking is the heaviest since July.",
+      "publishedAt": "2026-11-16T16:30:28.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Running on Empty",
+      "url": "https://research.glassnode.com/the-week-onchain-week-45-2026/",
+      "excerpt": "Bitcoin has slipped below the Short-Term Holder Cost Basis and trails stocks, while stablecoins, the ETFs and US buyers all show capital leaving. Leverage has been flushed and two large wallet cohorts have started buying, which keeps the August trend change alive above the June low.",
+      "publishedAt": "2026-11-11T13:49:03.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "BTC Market Pulse: Week 46",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-46-2026/",
+      "excerpt": "Bitcoin trades near $75k on Monday after a failed push above $80k. ETF outflows were the heaviest since early July and short-term holders are near break-even, while leverage and demand for protection stay high.",
+      "publishedAt": "2026-11-09T17:06:00.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Idling at Support",
+      "url": "https://research.glassnode.com/the-week-onchain-week-44-2026/",
+      "excerpt": "Bitcoin has pulled back about 10% from its September high into the levels it broke above in August. Short-term holders have gone from nearly all in profit to mostly at a loss, while spot volume holds above its pre-pump level and the market has absorbed the largest hack in crypto history.",
+      "publishedAt": "2026-11-04T14:56:49.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "BTC Market Pulse: Week 45",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-45-2026/",
+      "excerpt": "Bitcoin trades near $78k on Monday after a Thursday slide below $80k. Perpetual sellers drove the drop, yet longs keep paying up in funding and options traders are buying protection, while spot buyers held steady.",
+      "publishedAt": "2026-11-02T16:05:09.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "glassnode-insights",
+      "title": "Strategy Watch #9",
+      "url": "https://research.glassnode.com/strategy-watch-09-2026/",
+      "excerpt": "Our monthly analysis of strategy performance and capital flows in digital assets. We examine fund returns, structured product trends, and allocator shifts to reveal how institutional demand and exposure are evolving across crypto markets.",
+      "publishedAt": "2026-10-30T14:44:12.000Z",
+      "category": "finance",
+      "source": "Glassnode Insights"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "加密新銀行返現戰失靈？RedotPay 靠牌照突圍，收益才是真戰場",
+      "url": "https://www.blocktempo.com/stablecoin-neobank-cashback-redotpay-etherfi-kast-revenue-growth-blockworks-report/",
+      "excerpt": "穩定幣新銀行快速崛起，但 Blockworks 最新報告揭露，多數加密支付卡專案的返現補貼其實是虧本生意：扣掉 […] 加密新銀行返現戰失靈？RedotPay 靠牌照突圍，收益才是真戰場〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T04:56:40.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "黃仁勳回歸首場員工大會：認錯、道歉、還說「接班人計畫是錯的」",
+      "url": "https://www.blocktempo.com/jensen-huang-nvidia-employee-meeting-apology-return-psychological-therapy-succession-plan/",
+      "excerpt": "黃仁勳在回歸後的首場員工大會上坦言，自己辜負了團隊，並稱這是他人生中第二艱難的會議。他同時丟擲震撼彈：不相信業 […] 黃仁勳回歸首場員工大會：認錯、道歉、還說「接班人計畫是錯的」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T04:56:19.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "預測市場手續費課 10%！紐約州參議員要拿去辦學前教育",
+      "url": "https://www.blocktempo.com/new-york-prediction-market-tax-universal-pre-k-bill/",
+      "excerpt": "紐約州民主黨參議員 Jeremy Cooney 提出《FUTURES 法案》，擬對預測市場營運商在紐約賺取的手 […] 預測市場手續費課 10%！紐約州參議員要拿去辦學前教育〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T04:29:19.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "Siri 換腦也換人：蘋果裁舊架構團隊，要從問答進化成「替你做事」",
+      "url": "https://www.blocktempo.com/apple-siri-layoffs-legacy-infrastructure-ai-agent-late-2027-gurman/",
+      "excerpt": "蘋果這波 Siri 裁員砍的是舊架構，新一代 AI 團隊沒動。古爾曼認為，蘋果一年一版的發版節奏，讓它很難跟上 […] Siri 換腦也換人：蘋果裁舊架構團隊，要從問答進化成「替你做事」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T04:05:09.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "不想讓 Claude 保留你的資料？企業現在能改存自家雲端",
+      "url": "https://www.blocktempo.com/anthropic-enterprise-frontier-safeguards-zero-data-retention-public-beta-claude/",
+      "excerpt": "Anthropic 最強模型原本規定保留資料 30 天，受監管的企業很難接受。公測版 EFS 改讓企業自己保管 […] 不想讓 Claude 保留你的資料？企業現在能改存自家雲端〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T03:51:43.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "微軟大當機一整天後拉「Code Red」：下次事故要一小時內修好",
+      "url": "https://www.blocktempo.com/microsoft-code-red-exchange-online-outage-memos-one-hour-recovery/",
+      "excerpt": "微軟在 11 月中旬的 Microsoft 365 大當機後宣布 Code Red。據路透看到的備忘錄，微軟的 […] 微軟大當機一整天後拉「Code Red」：下次事故要一小時內修好〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T02:51:37.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "黃仁勳回歸 Nvidia 首場員工大會：每天 90 分鐘心理治療，不相信接班計畫",
+      "url": "https://www.blocktempo.com/nvidia-huang-first-all-hands-apology-therapy-denies-trump-succession/",
+      "excerpt": "黃仁勳回任後首場全員大會上道歉並透露每天接受心理治療，同時否認是靠川普或特權回來，也直言不信接班計畫。 （前情 […] 黃仁勳回歸 Nvidia 首場員工大會：每天 90 分鐘心理治療，不相信接班計畫〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T02:42:51.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "SEC 開綠燈！Molecule 科學代幣免註冊、首創幣轉股架構",
+      "url": "https://www.blocktempo.com/sec-clears-molecule-desci-research-tokens-registration-exemption/",
+      "excerpt": "美國 SEC 公司金融部發出無異議函，放行瑞士 DeSci 公司 Molecule 旗下 LabsCo 在免依 […] SEC 開綠燈！Molecule 科學代幣免註冊、首創幣轉股架構〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T02:40:12.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "台股重挫逾 3,300 點！黃仁勳慶祝行情全吐回，近 400 檔觸跌停",
+      "url": "https://www.blocktempo.com/taiwan-stocks-celebration-rally-lasts-one-day-tariff-chip-selloff/",
+      "excerpt": "加權指數 25 日早盤重挫逾 3,300 點、跌破 23 日收盤價，24 日創紀錄的 3,310 點漲幅全數吐 […] 台股重挫逾 3,300 點！黃仁勳慶祝行情全吐回，近 400 檔觸跌停〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T02:34:28.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "blocktempo",
+      "title": "川普：我願意特赦黃仁勳，考慮讓美國政府入股輝達",
+      "url": "https://www.blocktempo.com/trump-says-nvidia-huang-pardon-unnecessary-open-government-equity-stake/",
+      "excerpt": "川普為黃仁勳留了特赦的後路，要他下週在國會說實話。但特赦只及於聯邦罪，加州的調查與股東官司都不在範圍內。川普還 […] 川普：我願意特赦黃仁勳，考慮讓美國政府入股輝達〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "publishedAt": "2026-11-25T02:30:54.000Z",
+      "category": "finance",
+      "source": "动区动趋 BlockTempo"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "excerpt": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "publishedAt": "2026-11-24T23:13:49.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "excerpt": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "publishedAt": "2026-11-25T02:36:43.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "excerpt": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "publishedAt": "2026-11-25T04:06:01.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+      "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+      "excerpt": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
+      "publishedAt": "2026-11-25T06:09:44.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "excerpt": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+      "publishedAt": "2026-11-25T03:52:03.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "excerpt": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "publishedAt": "2026-11-25T02:43:33.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "excerpt": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "publishedAt": "2026-11-25T02:09:45.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+      "excerpt": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "publishedAt": "2026-11-25T03:58:32.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "publishedAt": "2026-11-25T01:13:56.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Why France is at risk of recession — and what could keep it out of one",
+      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "excerpt": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+      "publishedAt": "2026-11-24T11:15:30.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "excerpt": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+      "publishedAt": "2026-11-24T22:18:47.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+      "excerpt": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones.",
+      "publishedAt": "2026-11-23T23:00:01.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "excerpt": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+      "publishedAt": "2026-11-24T21:13:39.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "excerpt": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
+      "publishedAt": "2026-11-23T15:26:57.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "excerpt": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "publishedAt": "2026-11-24T22:03:01.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "excerpt": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+      "publishedAt": "2026-11-24T21:07:19.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "excerpt": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "publishedAt": "2026-11-24T22:07:45.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "excerpt": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "publishedAt": "2026-11-24T13:31:29.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "excerpt": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "publishedAt": "2026-11-24T17:51:45.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "excerpt": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+      "publishedAt": "2026-11-24T10:56:56.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "excerpt": "China is increasingly focused on containing India economically rather than through military actions.",
+      "publishedAt": "2026-11-24T04:27:38.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Futures turn red as Huang-effect fails to deliver another day of gains",
+      "url": "https://www.cnbc.com/2026/11/24/futures-turn-red-as-huang-effect-fails-to-deliver-another-day-of-gains.html",
+      "excerpt": "Investors assess the return of Huang as investigations loom",
+      "publishedAt": "2026-11-24T11:58:45.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+      "excerpt": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+      "publishedAt": "2026-11-24T19:47:42.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+      "excerpt": "Russia accused Estonia of “hostile actions” and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
+      "publishedAt": "2026-11-24T13:42:55.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "excerpt": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+      "publishedAt": "2026-11-25T02:50:08.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
+      "publishedAt": "2026-11-24T23:03:24.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "excerpt": "The AG and FBI director evaded answering reporters' questions about details of an investigation Trump said resolved security concerns about Jensen Huang.",
+      "publishedAt": "2026-11-24T19:19:12.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+      "excerpt": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
+      "publishedAt": "2026-11-24T15:03:36.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "excerpt": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+      "publishedAt": "2026-11-24T20:37:40.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "cnbc-crypto",
+      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "excerpt": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+      "publishedAt": "2026-11-24T18:34:43.000Z",
+      "category": "finance",
+      "source": "CNBC Crypto"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
+      "excerpt": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos. The operation owned by tycoon Aliko Dangote is valued at the equivalent of about $48 billion through its initial public offering. Bloomberg's ",
+      "publishedAt": "2026-11-25T06:33:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Saudi-Houthi Fighting Intensifies",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/saudi-houthi-fighting-intensifies-video",
+      "excerpt": "The Houthis injured 11 people with an attack on a tower in Riyadh’s main business district on Tuesday, Saudi Arabian authorities said. The assault came less than a week after the headquarters of the nation’s Public Investment Fund was damaged by the Iran-backed Yemeni group. Bloomberg's Onur Ant rep",
+      "publishedAt": "2026-11-25T06:19:22.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SailGP Launches UAE Team, Aims to Grow to 20 Teams",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
+      "excerpt": "SailGP CEO and founder Russell Coutts discusses the launch of a UAE team for the 2027 season and the league’s plans to expand to 20 teams and more than 20 events. He also talks about team economics, investor conflicts and SailGP’s growth strategy with Abeer Abu Omar on Bloomberg’s “Horizons Middle E",
+      "publishedAt": "2026-11-25T06:16:46.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stock Losses Build as AI Trade Falters, Bonds Gain: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "excerpt": "Stocks sold off and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove investors out of technology shares. Treasuries and the dollar gained on haven demand.",
+      "publishedAt": "2026-11-24T22:09:18.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Maybank Reviews Exposure as US Chip Curbs Hit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/maybank-reviews-exposure-as-us-chip-curbs-hit-video",
+      "excerpt": "Maybank Investment Bank Group CEO Michael Oh-Lau tells Haslinda Amin the lender is reviewing its portfolio as new US chip restrictions prompt greater scrutiny of data-center clients and their financing needs. (Source: Bloomberg)",
+      "publishedAt": "2026-11-25T06:02:56.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
+      "excerpt": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
+      "publishedAt": "2026-11-25T05:04:20.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "AI Rally Fizzles as US Readies New Tariffs on China",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-china-show-11-25-2026-video",
+      "excerpt": "\"Bloomberg: The China Show is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man gives global investors unique insight, delivering in-depth discussions with the newsmakers who matter.\" (Source: Bloomberg)",
+      "publishedAt": "2026-11-25T05:46:27.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
+      "excerpt": "Soybean oil prices fell to their lowest since February as high demand for meal boosted crushing and oil supplies, while weakening crude added pressure ahead of the Thanksgiving holiday in the US.",
+      "publishedAt": "2026-11-25T05:45:21.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Holds Decline as AI Doubts and Rate-Hike Bets Rattle Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "excerpt": "Gold held a decline, as stocks sold off on doubts over the durability of the artificial intelligence boom, and the White House’s latest tariff plans reinforced expectations for an interest-rate hike by the Federal Reserve.",
+      "publishedAt": "2026-11-24T23:51:22.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
+      "excerpt": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
+      "publishedAt": "2026-11-25T05:03:48.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Kochugovindan: Tech Volatility Is Here to Stay",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
+      "excerpt": "Aberdeen Investments Senior Research Economist Sree Kochugovindan says the AI trade faces further downside risks as investors scrutinize valuations, earnings potential and returns on investment. She also discusses the outlook for US consumer spending, inflation and Federal Reserve policy with Abeer ",
+      "publishedAt": "2026-11-25T05:37:11.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 25",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+      "excerpt": "Oil slipped as signs of rising crude supply outweighed escalating attacks on vessels around the Strait of Hormuz.",
+      "publishedAt": "2026-11-24T23:06:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+      "excerpt": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
+      "publishedAt": "2026-11-25T04:35:30.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
+      "excerpt": "China has opened an investigation into Chen Jining, a member of the country's elite Politburo and the party chief of Shanghai, for suspected serious violations of law and discipline. Bloomberg Economics' Neil Thomas has the context. (Source: Bloomberg)",
+      "publishedAt": "2026-11-25T04:25:11.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
+      "excerpt": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos, far exceeding the size of the next-largest business on the continent.",
+      "publishedAt": "2026-11-25T04:15:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+      "excerpt": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
+      "publishedAt": "2026-11-25T02:45:27.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
+      "excerpt": "Australia signed a new treaty with the Solomon Islands aimed at rolling back China’s access to the Pacific, partly reversing Beijing’s gains in the region three years ago that alarmed the US and its allies.",
+      "publishedAt": "2026-11-24T09:01:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
+      "excerpt": "Japan’s 40-year government bond auction on Wednesday drew weaker demand as global risk-off sentiment weighed on investor appetite.",
+      "publishedAt": "2026-11-25T03:39:10.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+      "excerpt": "Copper ticked higher and aluminum steadied after a major selloff across metals on Tuesday, as traders awaited US inflation data that will feed into the Federal Reserve’s next decision on interest rates.",
+      "publishedAt": "2026-11-25T03:57:12.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+      "excerpt": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
+      "publishedAt": "2026-11-25T03:10:23.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
     }
   ]
 }
