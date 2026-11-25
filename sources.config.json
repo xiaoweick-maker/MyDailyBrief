@@ -36,15 +36,6 @@
     "locales": ["zh", "en"]
   },
   {
-    "id": "decrypt",
-    "name": "Decrypt",
-    "type": "rss",
-    "url": "https://decrypt.co/feed",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh", "en"]
-  },
-  {
     "id": "dl-news",
     "name": "DL News",
     "type": "rss",
@@ -58,24 +49,6 @@
     "name": "Glassnode Insights",
     "type": "rss",
     "url": "https://insights.glassnode.com/rss/",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh", "en"]
-  },
-  {
-    "id": "messari",
-    "name": "Messari",
-    "type": "rss",
-    "url": "https://messari.io/rss",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh", "en"]
-  },
-  {
-    "id": "santiment",
-    "name": "Santiment",
-    "type": "rss",
-    "url": "https://santiment.net/blog/feed/",
     "category": "finance",
     "enabled": true,
     "locales": ["zh", "en"]
@@ -117,33 +90,6 @@
     "locales": ["zh"]
   },
   {
-    "id": "blocktempo",
-    "name": "动区动趋 BlockTempo",
-    "type": "rss",
-    "url": "https://www.blocktempo.com/feed/",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh"]
-  },
-  {
-    "id": "reuters-crypto",
-    "name": "Reuters Crypto",
-    "type": "rss",
-    "url": "https://www.reuters.com/technology/cryptocurrency/rss",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh", "en"]
-  },
-  {
-    "id": "cnbc-crypto",
-    "name": "CNBC Crypto",
-    "type": "rss",
-    "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-    "category": "finance",
-    "enabled": true,
-    "locales": ["zh", "en"]
-  },
-  {
     "id": "bloomberg-markets",
     "name": "Bloomberg Markets",
     "type": "rss",
@@ -156,9 +102,63 @@
     "id": "wallstreetcn",
     "name": "华尔街见闻",
     "type": "rss",
-    "url": "https://rsshub.app/wallstreetcn/news/global",
+    "url": "https://rsshub.app/wallstreetcn/live",
     "category": "finance",
     "enabled": true,
     "locales": ["zh"]
+  },
+  {
+    "id": "cointelegraph-regulation",
+    "name": "Cointelegraph · Regulation",
+    "type": "rss",
+    "url": "https://cointelegraph.com/rss/tag/regulation",
+    "category": "politics",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "bloomberg-politics",
+    "name": "Bloomberg Politics",
+    "type": "rss",
+    "url": "https://feeds.bloomberg.com/politics/news.rss",
+    "category": "politics",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "bbc-world",
+    "name": "BBC World",
+    "type": "rss",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "politics",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "cointelegraph-ai",
+    "name": "Cointelegraph · AI",
+    "type": "rss",
+    "url": "https://cointelegraph.com/rss/tag/ai",
+    "category": "tech",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "bloomberg-technology",
+    "name": "Bloomberg Technology",
+    "type": "rss",
+    "url": "https://feeds.bloomberg.com/technology/news.rss",
+    "category": "tech",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "github-trending",
+    "name": "GitHub Trending",
+    "type": "scrape",
+    "url": "https://github.com/trending",
+    "category": "tech",
+    "enabled": true,
+    "locales": ["zh", "en"]
   }
 ]
