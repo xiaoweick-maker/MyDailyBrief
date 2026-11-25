@@ -228,6 +228,15 @@
     },
     {
       "sourceId": "cointelegraph",
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
+      "publishedAt": "2026-11-25T06:54:59.000Z",
+      "category": "finance",
+      "source": "Cointelegraph"
+    },
+    {
+      "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -488,13 +497,13 @@
       "source": "Cointelegraph"
     },
     {
-      "sourceId": "cointelegraph",
-      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
-      "publishedAt": "2026-11-23T17:42:18.000Z",
+      "sourceId": "the-block",
+      "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+      "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+      "excerpt": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.",
+      "publishedAt": "2026-11-25T07:26:57.000Z",
       "category": "finance",
-      "source": "Cointelegraph"
+      "source": "The Block"
     },
     {
       "sourceId": "the-block",
@@ -664,15 +673,6 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
       "excerpt": "The Ethereum Foundation is expanding its security resources as advances in AI raise new concerns about cryptography and software security.",
       "publishedAt": "2026-11-24T11:53:31.000Z",
-      "category": "finance",
-      "source": "The Block"
-    },
-    {
-      "sourceId": "the-block",
-      "title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
-      "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
-      "excerpt": "The draft will now head to the legislature, where lawmakers will debate it and potentially merge it with competing proposals.",
-      "publishedAt": "2026-11-24T11:25:24.000Z",
       "category": "finance",
       "source": "The Block"
     },
@@ -947,276 +947,6 @@
       "source": "Blockworks"
     },
     {
-      "sourceId": "decrypt",
-      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-      "excerpt": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
-      "publishedAt": "2026-11-24T22:36:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-      "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-      "excerpt": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
-      "publishedAt": "2026-11-24T21:46:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-      "excerpt": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-      "publishedAt": "2026-11-24T21:16:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "excerpt": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
-      "publishedAt": "2026-11-24T20:36:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-      "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-      "excerpt": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
-      "publishedAt": "2026-11-24T19:35:32.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-      "excerpt": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
-      "publishedAt": "2026-11-24T18:55:27.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-      "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-      "excerpt": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
-      "publishedAt": "2026-11-24T18:36:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-      "excerpt": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
-      "publishedAt": "2026-11-24T18:16:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-      "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-      "excerpt": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
-      "publishedAt": "2026-11-24T17:45:22.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-      "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-      "excerpt": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-      "publishedAt": "2026-11-24T17:43:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-      "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-      "excerpt": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
-      "publishedAt": "2026-11-24T16:00:44.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-      "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-      "excerpt": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
-      "publishedAt": "2026-11-24T14:13:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-      "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-      "excerpt": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
-      "publishedAt": "2026-11-24T13:46:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "excerpt": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
-      "publishedAt": "2026-11-24T13:07:49.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
-      "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
-      "excerpt": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
-      "publishedAt": "2026-11-24T13:01:30.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-      "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-      "excerpt": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
-      "publishedAt": "2026-11-24T12:40:47.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
-      "url": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
-      "excerpt": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.",
-      "publishedAt": "2026-11-24T11:35:13.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
-      "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
-      "excerpt": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
-      "publishedAt": "2026-11-23T23:06:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
-      "url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
-      "excerpt": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
-      "publishedAt": "2026-11-23T21:46:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
-      "url": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
-      "excerpt": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
-      "publishedAt": "2026-11-23T21:16:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-      "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
-      "excerpt": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
-      "publishedAt": "2026-11-23T20:36:02.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
-      "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
-      "excerpt": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
-      "publishedAt": "2026-11-23T19:57:21.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
-      "url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
-      "excerpt": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
-      "publishedAt": "2026-11-23T18:45:21.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
-      "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
-      "excerpt": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
-      "publishedAt": "2026-11-23T18:16:25.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Perps and Swaps: How to Trade the News on Decrypt",
-      "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
-      "excerpt": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
-      "publishedAt": "2026-11-23T18:15:45.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-      "url": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
-      "excerpt": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
-      "publishedAt": "2026-11-23T17:28:08.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-      "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "excerpt": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
-      "publishedAt": "2026-11-23T16:46:03.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-      "url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-      "excerpt": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
-      "publishedAt": "2026-11-23T16:32:04.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-      "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-      "excerpt": "The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.",
-      "publishedAt": "2026-11-23T14:07:21.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
-      "sourceId": "decrypt",
-      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-      "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
-      "excerpt": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
-      "publishedAt": "2026-11-23T13:34:13.000Z",
-      "category": "finance",
-      "source": "Decrypt"
-    },
-    {
       "sourceId": "dl-news",
       "title": "Fed Governor Waller warns of \"zombie chains\" as tokenization grows",
       "url": "https://www.dlnews.com/articles/regulation/fed-governor-waller-warns-of-zombie-chains-as-tokenization-grows/",
@@ -1487,499 +1217,661 @@
       "source": "DL News"
     },
     {
-      "sourceId": "glassnode-insights",
-      "title": "The Canary in the Coal Mine",
-      "url": "https://research.glassnode.com/the-week-onchain-week-47-2026/",
-      "excerpt": "Bitcoin gave back the NVIDIA rally within hours, and stocks are starting to follow. Price is back at the summer lows. Leverage is mostly cleared and losses are the heaviest since FTX, but US buyers are missing. Every past bear market went below the Realized Price, now at $53.2K.",
-      "publishedAt": "2026-11-24T16:27:46.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Tiger Research 解析韩国《数字资产基本法》草案对四类市场主体的监管影响",
+      "url": "https://lianxiaozhi.com/items/rmi1q9gohgvikole7854l68pc",
+      "excerpt": "Tiger Research 分析韩国执政党议员金在燮于 2026 年 2 月提出的《数字资产基本法》草案，该草案将此前非成文的市场惯例法典化，在国会通过前仍需立法辩论。分析认为其核心影响包括：交易所上币核查报告成为法定义务并对虚假陈述承担民事赔偿，被指定的系统重要性交易所单一主体及关联方持股上限 20%，直指 Upbit 母公司 Dunamu 和 Bithumb，享三年宽限期；韩元稳定币发行要求 50 亿韩元实缴资本、100% 储备隔离，且银行合计持股不低于 60%，纯金融科技公司难以独立发行；境外稳定币发行方需在韩设立注册分支机构并定期报送储备审计；本土 ICO 实质解禁，但 Tiger ",
+      "publishedAt": "2026-11-25T07:07:00.000Z",
       "category": "finance",
-      "source": "Glassnode Insights"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "glassnode-insights",
-      "title": "NOWPayments + Glassnode: Stablecoins in Commerce",
-      "url": "https://research.glassnode.com/nowpayments-glassnode-stablecoins-in-commerce/",
-      "excerpt": "This report compares how USDT and USDC move on-chain with how merchants are paid in them, and what that means for the coins and networks a business should accept.",
-      "publishedAt": "2026-11-10T16:45:17.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国数字资产草案限制银行主导发行韩元稳定币，Tiger Research 称竞争焦点不止发行",
+      "url": "https://lianxiaozhi.com/items/hxdac0n0e8m2yxw5gxiobb4pi",
+      "excerpt": "韩国金融委员会（FSC）周二公布数字资产法案草案，初期将韩元稳定币发行限定于银行合计持有多数股权的联合体，单个金融科技公司持股仍可高于任何一家银行。Tiger Research 称，金融科技公司接入消费场景的伙伴关系可能比发行量更重要；若银行法 15% 持股上限适用，每个联合体需至少四家银行加入。草案仍需国会通过并经总统公布，预计公布一年后生效，具体细节留待后续施行令。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/hxdac0n0e8m2yxw5gxiobb4pi",
+      "publishedAt": "2026-11-25T06:54:59.000Z",
       "category": "finance",
-      "source": "Glassnode Insights"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "glassnode-insights",
-      "title": "Fasanara Digital + Glassnode: Q4 2026 Institutional Market Perspectives",
-      "url": "https://research.glassnode.com/fasanara-digital-glassnode-q4-2026-institutional-market-perspectives/",
-      "excerpt": "Our joint report with Fasanara Digital examines how market structure is shifting into the fourth quarter, and what it means for institutional allocators.",
-      "publishedAt": "2026-10-23T09:34:20.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Coinkite 报告 Coldcard 种子生成缺陷遭攻击，Galaxy Digital 称损失约1亿美元",
+      "url": "https://lianxiaozhi.com/items/x2b7oes1lll9mddtz0o0md8rx",
+      "excerpt": "Coldcard 开发商 Coinkite 发布调查报告，称7月末发生的攻击利用其钱包种子生成缺陷，通过受影响种子在离线环境重新生成私钥盗取资产，Galaxy Digital 称规模约1亿美元；设备本身未被入侵。用50次以上公平骰子生成的种子不受影响，强 BIP-39 口令和多签也能提供额外防护。该缺陷此前至少15次独立审计及 AI 工具审查均未发现；7月31日 Coinkite 已为全部5个发布分支推送修复固件，新种子改由用户输入结合三个硬件熵源生成。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/x2b7oes1lll9mddtz0o0md",
+      "publishedAt": "2026-11-25T06:15:23.000Z",
       "category": "finance",
-      "source": "Glassnode Insights"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "glassnode-insights",
-      "title": "Glassnode Alpha Lab",
-      "url": "https://research.glassnode.com/glassnode-alpha-lab/",
-      "excerpt": "Alpha Lab helps investors turn Glassnode’s on-chain and market data into transparent, testable trading heuristics without having to build a research pipeline from scratch.",
-      "publishedAt": "2026-09-17T11:49:52.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Monad MON代币在首轮内部人员锁定期结束后跌至历史新低",
+      "url": "https://lianxiaozhi.com/items/p3uvck1rytr4189t8nfeoka44",
+      "excerpt": "据The Defiant报道，Monad的MON代币在首次为期一年的内部人员锁定期结束后跌至历史新低。约166.1亿枚MON于11月24日获得解锁资格，约为解锁前流通量的1.4倍，涉及团队（约107亿枚）、投资者及Category Labs财库。MON一度跌至0.00914美元，现报0.009853美元，24小时跌26.4%。解锁资格不代表已全部流通，下一轮解锁预计12月24日约4.927亿枚。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/p3uvck1rytr4189t8nfeoka44",
+      "publishedAt": "2026-11-25T05:34:03.000Z",
       "category": "finance",
-      "source": "Glassnode Insights"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "glassnode-insights",
-      "title": "Bybit + Glassnode: The State of Crypto Derivatives",
-      "url": "https://research.glassnode.com/bybit-glassnode-the-state-of-crypto-derivatives/",
-      "excerpt": "A joint report on how the Bitcoin options market grew, where it took its share from, and how trading behaviour differs across the venues.",
-      "publishedAt": "2026-09-17T09:54:34.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "Ark Invest + Glassnode: The Decentralization Spectrum",
-      "url": "https://research.glassnode.com/ark-invest-glassnode-the-decentralization-spectrum/",
-      "excerpt": "The Decentralization Spectrum: Design Tradeoffs In Digital Assets is a joint report by ARK Invest and Glassnode that maps Bitcoin, Ethereum, and Solana across four design features and six measurable dimensions of decentralization.",
-      "publishedAt": "2026-09-01T13:46:08.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "BTC Market Pulse: Week 48",
-      "url": "https://research.glassnode.com/btc-market-pulse-week-48-2026/",
-      "excerpt": "Bitcoin trades near $63k on Monday after a weekly slide of about 6%. Leverage was flushed and ETF outflows hit the heaviest since July, while short-term holders sit at a deep loss and momentum stays oversold.",
-      "publishedAt": "2026-11-23T14:17:52.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "Book Churn: How Fast the Order Book Is Being Rewritten",
-      "url": "https://research.glassnode.com/book-churn/",
-      "excerpt": "Book Churn counts how often the price levels of an order book are revised. We define the metric, show how much of it depth and spread already capture, and test it as a volatility indicator on Binance BTCUSDT and ETHUSDT perpetuals.",
-      "publishedAt": "2026-11-18T14:31:56.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "Capitulation Meets Support",
-      "url": "https://research.glassnode.com/the-week-onchain-week-46-2026/",
-      "excerpt": "Bitcoin's crash pushed realized losses to capitulation levels and flushed leverage. Price holds the block of recent buyers between $62K and $66K, with the largest bids since August at $60K and below. Demand for Bitcoin stays thin, while tokenized real-world assets keep spreading across crypto.",
-      "publishedAt": "2026-11-17T16:40:07.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "BTC Market Pulse: Week 47",
-      "url": "https://research.glassnode.com/btc-market-pulse-week-47-2026/",
-      "excerpt": "Bitcoin trades near $64k on Monday after a weekly slide of about 13%. Leverage was flushed and ETF selling continued, while short-term holders sit at a loss and loss-taking is the heaviest since July.",
-      "publishedAt": "2026-11-16T16:30:28.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "Running on Empty",
-      "url": "https://research.glassnode.com/the-week-onchain-week-45-2026/",
-      "excerpt": "Bitcoin has slipped below the Short-Term Holder Cost Basis and trails stocks, while stablecoins, the ETFs and US buyers all show capital leaving. Leverage has been flushed and two large wallet cohorts have started buying, which keeps the August trend change alive above the June low.",
-      "publishedAt": "2026-11-11T13:49:03.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "BTC Market Pulse: Week 46",
-      "url": "https://research.glassnode.com/btc-market-pulse-week-46-2026/",
-      "excerpt": "Bitcoin trades near $75k on Monday after a failed push above $80k. ETF outflows were the heaviest since early July and short-term holders are near break-even, while leverage and demand for protection stay high.",
-      "publishedAt": "2026-11-09T17:06:00.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "Idling at Support",
-      "url": "https://research.glassnode.com/the-week-onchain-week-44-2026/",
-      "excerpt": "Bitcoin has pulled back about 10% from its September high into the levels it broke above in August. Short-term holders have gone from nearly all in profit to mostly at a loss, while spot volume holds above its pre-pump level and the market has absorbed the largest hack in crypto history.",
-      "publishedAt": "2026-11-04T14:56:49.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "BTC Market Pulse: Week 45",
-      "url": "https://research.glassnode.com/btc-market-pulse-week-45-2026/",
-      "excerpt": "Bitcoin trades near $78k on Monday after a Thursday slide below $80k. Perpetual sellers drove the drop, yet longs keep paying up in funding and options traders are buying protection, while spot buyers held steady.",
-      "publishedAt": "2026-11-02T16:05:09.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "glassnode-insights",
-      "title": "Strategy Watch #9",
-      "url": "https://research.glassnode.com/strategy-watch-09-2026/",
-      "excerpt": "Our monthly analysis of strategy performance and capital flows in digital assets. We examine fund returns, structured product trends, and allocator shifts to reveal how institutional demand and exposure are evolving across crypto markets.",
-      "publishedAt": "2026-10-30T14:44:12.000Z",
-      "category": "finance",
-      "source": "Glassnode Insights"
-    },
-    {
-      "sourceId": "blocktempo",
-      "title": "加密新銀行返現戰失靈？RedotPay 靠牌照突圍，收益才是真戰場",
-      "url": "https://www.blocktempo.com/stablecoin-neobank-cashback-redotpay-etherfi-kast-revenue-growth-blockworks-report/",
-      "excerpt": "穩定幣新銀行快速崛起，但 Blockworks 最新報告揭露，多數加密支付卡專案的返現補貼其實是虧本生意：扣掉 […] 加密新銀行返現戰失靈？RedotPay 靠牌照突圍，收益才是真戰場〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T04:56:40.000Z",
-      "category": "finance",
-      "source": "动区动趋 BlockTempo"
-    },
-    {
-      "sourceId": "blocktempo",
-      "title": "黃仁勳回歸首場員工大會：認錯、道歉、還說「接班人計畫是錯的」",
-      "url": "https://www.blocktempo.com/jensen-huang-nvidia-employee-meeting-apology-return-psychological-therapy-succession-plan/",
-      "excerpt": "黃仁勳在回歸後的首場員工大會上坦言，自己辜負了團隊，並稱這是他人生中第二艱難的會議。他同時丟擲震撼彈：不相信業 […] 黃仁勳回歸首場員工大會：認錯、道歉、還說「接班人計畫是錯的」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T04:56:19.000Z",
-      "category": "finance",
-      "source": "动区动趋 BlockTempo"
-    },
-    {
-      "sourceId": "blocktempo",
-      "title": "預測市場手續費課 10%！紐約州參議員要拿去辦學前教育",
-      "url": "https://www.blocktempo.com/new-york-prediction-market-tax-universal-pre-k-bill/",
-      "excerpt": "紐約州民主黨參議員 Jeremy Cooney 提出《FUTURES 法案》，擬對預測市場營運商在紐約賺取的手 […] 預測市場手續費課 10%！紐約州參議員要拿去辦學前教育〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "sourceId": "lianxiaozhi",
+      "title": "纽约州参议员提出FUTURES法案 拟对预测市场手续费征10%税用于学前教育",
+      "url": "https://lianxiaozhi.com/items/spsr2p2q1ywzh4njprs68f9b5",
+      "excerpt": "纽约州民主党参议员Jeremy Cooney于11月23日提出编号S.10748的《FUTURES法案》，拟对预测市场营运商在纽约赚取的净交易手续费收入按季课征10%税，税收全数进入新设的幼儿教育未来基金，用于全州2-K、3-K、4-K普及学前教育。税基仅限体育类事件合约，选举、经济数据及加密货币价格类合约不在范围内；法案还要求平台落实身份验证与风险交易控制、禁止民选官员交易事件合约。法案已送交参议院规则委员会，Cooney办公室未提供税收预估。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/spsr2p2q1ywzh4njprs68f9b5",
       "publishedAt": "2026-11-25T04:29:19.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "blocktempo",
-      "title": "Siri 換腦也換人：蘋果裁舊架構團隊，要從問答進化成「替你做事」",
-      "url": "https://www.blocktempo.com/apple-siri-layoffs-legacy-infrastructure-ai-agent-late-2027-gurman/",
-      "excerpt": "蘋果這波 Siri 裁員砍的是舊架構，新一代 AI 團隊沒動。古爾曼認為，蘋果一年一版的發版節奏，讓它很難跟上 […] Siri 換腦也換人：蘋果裁舊架構團隊，要從問答進化成「替你做事」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T04:05:09.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国《数字资产基本法》草案解析，四大市场主体面临重构",
+      "url": "https://lianxiaozhi.com/items/lcceko6tjoifgywr1jqq4a1zy",
+      "excerpt": "Tiger Research 撰文解析韩国执政党议员金在燮于2026年2月牵头提出的《数字资产基本法》草案，该法案是继2024年《虚拟资产用户保护法》后的第二阶段立法，尚需国会通过。草案将非成文市场惯例法典化，确立四类业务牌照分立体系。对中心化交易所，上币核查报告成为法定义务，虚假陈述须承担民事赔偿责任，该规则将在法案颁布一年后生效；被指定的系统重要性交易所单一主体及其关联方持股上限为20%，整改宽限期三年，直指 Upbit（Dunamu）和 Bithumb。韩元稳定币发行初期仅向银行绝对控股的财团开放，境外发行方需设本地分支机构并满足50亿韩元最低资本金。本土ICO解禁，但因海外税收优惠项目",
+      "publishedAt": "2026-11-25T04:17:38.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "blocktempo",
-      "title": "不想讓 Claude 保留你的資料？企業現在能改存自家雲端",
-      "url": "https://www.blocktempo.com/anthropic-enterprise-frontier-safeguards-zero-data-retention-public-beta-claude/",
-      "excerpt": "Anthropic 最強模型原本規定保留資料 30 天，受監管的企業很難接受。公測版 EFS 改讓企業自己保管 […] 不想讓 Claude 保留你的資料？企業現在能改存自家雲端〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T03:51:43.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Alea Research 复盘 Orca：SOL-USDC 池贡献 41.5% 交易量但仅占 18.9% 手续费",
+      "url": "https://lianxiaozhi.com/items/cegmcusimj4wxd1bxpp01c09s",
+      "excerpt": "Alea Research 报告（深潮 TechFlow 编译）统计，在截至 11 月 18 日的 30 天内，Orca 的 SOL-USDC 主力池贡献 41.5% 交易量，但因仅收 4 bps 基础费率，只产生 18.9% 手续费收入，其余交易池贡献超 81%。Orca 交易员每兑换 1 美元平均付 8.8 bps，为支持自由提供流动性的 Solana 头部 DEX 中最低，低于 Raydium 的 11.3 bps。10 月 7 日 Orca 与 Loopscale 合并为 Formation，10 月 18 日治理提案将 xORCA 回购份额从 40% 降至 10%，协议留存 80% ",
+      "publishedAt": "2026-11-25T04:10:11.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "blocktempo",
-      "title": "微軟大當機一整天後拉「Code Red」：下次事故要一小時內修好",
-      "url": "https://www.blocktempo.com/microsoft-code-red-exchange-online-outage-memos-one-hour-recovery/",
-      "excerpt": "微軟在 11 月中旬的 Microsoft 365 大當機後宣布 Code Red。據路透看到的備忘錄，微軟的 […] 微軟大當機一整天後拉「Code Red」：下次事故要一小時內修好〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T02:51:37.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "美股日报：费城半导体指数单日跌7.88%，Strategy 股价创新低，11月比特币ETF净流出47.1亿美元",
+      "url": "https://lianxiaozhi.com/items/vh4y9ibb8w1b8f0bjkycmlrln",
+      "excerpt": "日报统计称费城半导体指数（SOX）11月24日单日跌7.88%，英伟达收跌5.86%，AI 板块抛售与加密资产联动破位。BTC 报 59,223.5 美元（24小时 -1.30%），11月美国现货比特币 ETF 净流出 47.1 亿美元，创单月纪录。Strategy 收 77.55 美元创 52 周新低，其 8-K 显示上周增持 457 BTC（均价 64,898 美元），累计持仓 851,305 BTC，按当日币价持仓浮亏 138.1 亿美元；增发募资 1.767 亿美元中仅 2,960 万用于买币，其余用于回购优先股 STRC。BTCS 卖出 27,300 枚 ETH 偿还 Aave 债务",
+      "publishedAt": "2026-11-25T03:34:15.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "blocktempo",
-      "title": "黃仁勳回歸 Nvidia 首場員工大會：每天 90 分鐘心理治療，不相信接班計畫",
-      "url": "https://www.blocktempo.com/nvidia-huang-first-all-hands-apology-therapy-denies-trump-succession/",
-      "excerpt": "黃仁勳回任後首場全員大會上道歉並透露每天接受心理治療，同時否認是靠川普或特權回來，也直言不信接班計畫。 （前情 […] 黃仁勳回歸 Nvidia 首場員工大會：每天 90 分鐘心理治療，不相信接班計畫〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T02:42:51.000Z",
-      "category": "finance",
-      "source": "动区动趋 BlockTempo"
-    },
-    {
-      "sourceId": "blocktempo",
-      "title": "SEC 開綠燈！Molecule 科學代幣免註冊、首創幣轉股架構",
-      "url": "https://www.blocktempo.com/sec-clears-molecule-desci-research-tokens-registration-exemption/",
-      "excerpt": "美國 SEC 公司金融部發出無異議函，放行瑞士 DeSci 公司 Molecule 旗下 LabsCo 在免依 […] SEC 開綠燈！Molecule 科學代幣免註冊、首創幣轉股架構〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+      "sourceId": "lianxiaozhi",
+      "title": "SEC 对 Molecule 旗下 LabsCo 发无异议函，放行研究代币免注册发行",
+      "url": "https://lianxiaozhi.com/items/axqdyzza5db8hq5dwt6h4q4ji",
+      "excerpt": "美国 SEC 公司金融部 11 月 24 日向瑞士 DeSci 公司 Molecule 旗下美国子公司 LabsCo 发出无异议函，表态不就其销售 Project Tokens 建议执法，允许免依《证券法》第 5 条注册。Molecule 采用币转股（C2C）架构，把功能型代币与股权切开，代币不代表股权、不参与利润分配且无固定总量。该函仅限申请函陈述的个案、出自部门幕僚而非全体委员；Molecule 法务长称首个采用 C2C 的项目将在数周内上线。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/axqdyzza5db8hq5dwt6h4q4ji",
       "publishedAt": "2026-11-25T02:40:12.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "blocktempo",
-      "title": "台股重挫逾 3,300 點！黃仁勳慶祝行情全吐回，近 400 檔觸跌停",
-      "url": "https://www.blocktempo.com/taiwan-stocks-celebration-rally-lasts-one-day-tariff-chip-selloff/",
-      "excerpt": "加權指數 25 日早盤重挫逾 3,300 點、跌破 23 日收盤價，24 日創紀錄的 3,310 點漲幅全數吐 […] 台股重挫逾 3,300 點！黃仁勳慶祝行情全吐回，近 400 檔觸跌停〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T02:34:28.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "DWF Ventures 撰文分析加密新银行：返现难以支撑盈利",
+      "url": "https://lianxiaozhi.com/items/lplvvq2jas8hue27xelwxsoki",
+      "excerpt": "DWF Ventures 撰文分析以加密支付卡为主业的稳定币新银行（编译版本由 Foresight News 发布）。文章援引 paymentscan.xyz 数据称，每周加密卡消费额同比涨近 200%，超 86% 的消费集中在前五大项目，RedotPay 占超 46%。卡项目收入来自刷卡手续费、兑换费和出入金费，但大部分以返现流回用户；扣掉返现后多数项目每 1 美元消费收入不足 1%，补贴成本达 2 至 3%。文章认为本地出入金通道和多币种结算是最清晰的增长方向。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/lplvvq2jas8hue27",
+      "publishedAt": "2026-11-25T01:56:00.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "blocktempo",
-      "title": "川普：我願意特赦黃仁勳，考慮讓美國政府入股輝達",
-      "url": "https://www.blocktempo.com/trump-says-nvidia-huang-pardon-unnecessary-open-government-equity-stake/",
-      "excerpt": "川普為黃仁勳留了特赦的後路，要他下週在國會說實話。但特赦只及於聯邦罪，加州的調查與股東官司都不在範圍內。川普還 […] 川普：我願意特赦黃仁勳，考慮讓美國政府入股輝達〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-      "publishedAt": "2026-11-25T02:30:54.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "以太坊基金会称 AI 与量子计算威胁现有密码学，推动哈希签名升级",
+      "url": "https://lianxiaozhi.com/items/xm6v2c2y81buquefb9842tsen",
+      "excerpt": "以太坊基金会发文称，量子计算与快速进步的 AI 正威胁现有椭圆曲线密码学，评估候选签名方案超过一年后主张改用基于哈希的密码学，覆盖验证者签名、用户账户迁移和 blob 承诺三部分。基金会认为 Ethereum 协议已依赖哈希的安全性，切换不会增加新假设，同时已将协议安全团队规模扩大一倍，要求形式化验证跟上开发节奏。Justin Drake 在 Devcon 提出 2028 年 12 月目标，基金会内部截止日期仍为 2029 年，并计划于 1 月进行时间线审查；早期规范已启动，第一个 pq-cl devnet 已开始迭代。作者为 Kev Wedderburn，ChainCatcher 编译。 \ud83d",
+      "publishedAt": "2026-11-25T01:26:37.000Z",
       "category": "finance",
-      "source": "动区动趋 BlockTempo"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "excerpt": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "publishedAt": "2026-11-24T23:13:49.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "CleanSpark 2026财年净亏9.871亿美元，转向AI数据中心",
+      "url": "https://lianxiaozhi.com/items/plee80rzv8lmy4gwtai1s2tg8",
+      "excerpt": "CleanSpark公布2026财年（2025年9月至2026年9月）财报，全年净亏9.871亿美元，上年同期为约3.65亿美元净利；营收下滑25%至5.765亿美元，全年挖出7,253枚比特币，同比减少8%。其乔治亚州Sandersville数据中心已完成全额融资，签下为期20年、总值66亿美元的租约，首座资料厅预计2027年11月前上线。财报公布当天股价下跌7.5%，今年以来累计跌55%。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/plee80rzv8lmy4gwtai1s2tg8",
+      "publishedAt": "2026-11-25T01:20:07.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-      "excerpt": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
-      "publishedAt": "2026-11-25T02:36:43.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "香港拟扩大虚拟资产监管范围，银行提供加密托管等服务前须向证监会注册",
+      "url": "https://lianxiaozhi.com/items/srubcos70wtc98417c11og75w",
+      "excerpt": "香港政府于 11 月 20 日公布《2026 年虚拟资产服务立法（修订）条例草案》，拟将监管范围扩大至虚拟资产托管、交易、咨询及管理服务。根据草案，受香港金管局监管的银行及储值支付工具持牌机构在提供相关服务前须向香港证监会注册，独立服务商通常须取得证监会牌照。草案预计于 12 月 2 日提交立法会首读，申请者须接受适当人选审查；监管机构拟不向现有服务商自动授予过渡授权，但将为部分银行、银行附属机构及与持牌虚拟资产交易平台相关的实体提供加快审批安排。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/srubcos70wtc98417c11og75w",
+      "publishedAt": "2026-11-25T00:42:22.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-      "excerpt": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
-      "publishedAt": "2026-11-25T04:06:01.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "以太坊基金会称AI威胁比量子计算更紧迫，已将协议安全团队规模翻倍",
+      "url": "https://lianxiaozhi.com/items/ykkjd82tyc1kv677xuenliq1v",
+      "excerpt": "以太坊基金会研究员Kev Wedderburn在11月23日的博客文章中警告，AI模型发现生产软件漏洞的速度超过人工审查能力，对以太坊的威胁比量子计算更直接，基金会因此将协议安全团队规模翻倍并优先采用形式化验证。拟议改造包括验证者改用哈希签名替代椭圆曲线密码学、钱包支持类似保护、Layer 2 数据blob转向哈希承诺。Justin Drake在孟买Devcon上提出2028年12月为过渡目标，基金会内部期限为2029年，2027年1月将复盘时间表，早期技术规范和测试网已在开发中。基金会同时承认，AI尚未展示破解以太坊现有密码学的能力，其引用的黎曼猜想AI求解声明仍待专家审查。 🔗 阅读原文",
+      "publishedAt": "2026-11-25T00:15:25.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-      "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
-      "excerpt": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
-      "publishedAt": "2026-11-25T06:09:44.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "纳斯达克休市期间代币化 Anthropic 股票仍在交易，投资者需分辨持股与敞口区别",
+      "url": "https://lianxiaozhi.com/items/vo752yn0e35nhwsprwh1z60oq",
+      "excerpt": "Anthropic 以 ANT 为代码在纳斯达克上市，以每股 83 美元出售 9.8 亿股，募资约 810 亿美元，承销商追加认购后总额约 935 亿美元；ANT 首日开盘 111.50 美元、收于 97.17 美元，周五下跌 8.5% 至 88.91 美元。多家加密平台在上市首日推出与 ANT 挂钩的代币和永续合约，纳斯达克休市的周末仍以约 90 美元成交，比收盘价高约 3%。据 Odaily 星球日报统计，一家去中心化衍生品平台的 ANT 永续合约 24 小时交易量约 18.9 亿美元。文章提醒这些代币只提供价格敞口，持有人并非登记股东、没有投票权，部分产品未获 Anthropic 批准，",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "excerpt": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-      "publishedAt": "2026-11-25T03:52:03.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Abraxas 撤出 Hyperliquid 提走近 12 亿美元比特币，媒体分析未必与 Lighter 安全事件因果相关",
+      "url": "https://lianxiaozhi.com/items/k66vxukjszs3r8aiwkw5pb906",
+      "excerpt": "Foresight News 撰文分析 Abraxas Capital 近期从 Hyperliquid 撤仓的动机。据链上分析师余烬监测，截至 11 月 24 日 Abraxas 关联地址累计从币安和 Kraken 提出 19,820 枚 BTC，估值约 11.82 亿美元；11 月 25 日约 21.9 万枚 HYPE 赎回到账后转入币安，并从币安提出 4,230 枚 ETH。文章指出，Lookonchain 追踪的两个关联账户空仓名义规模从 10 月 15 日的逾 14.5 亿美元降至 11 月 14 日的约 5.72 亿美元，早于 11 月 16 日 Lighter API 密钥泄露事件",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-      "excerpt": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
-      "publishedAt": "2026-11-25T02:43:33.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Coinbase 股价距年内高点跌超 60%，11 月密集推出回购、衍生品、预测市场与 Base 四项自救动作",
+      "url": "https://lianxiaozhi.com/items/jxy2msh9p7c90izagr6rb0wpl",
+      "excerpt": "Foresight News 11 月 25 日报道，Coinbase 股价一度跌破 102 美元，距年内高点 263 美元跌超 60%。Q3 账面净利润 7.19 亿美元中 7.15 亿来自加密资产浮盈，交易净收入同比下滑 44%，经调整净利润降 82% 至 7770 万美元。文章梳理其 11 月四项动作：累计约 20 亿美元的股票回购仅抵消 2024 年 Q4 以来 85% 以上增发；11 月 19 日向非美合格用户开放基于 Deribit 流动性的 BTC、ETH 期权，Advanced 现货保证金最高 10 倍杠杆，计划 2026 年底前重启 Coinbase Pro；据彭博报道公司计",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
-      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
-      "excerpt": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
-      "publishedAt": "2026-11-25T02:09:45.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "富兰克林邓普顿 Benji 平台实现周末链上分红并反超 Ondo",
+      "url": "https://lianxiaozhi.com/items/ea8iu70jmbr6q2k9sxwmtd5p4",
+      "excerpt": "富兰克林邓普顿通过 Benji 平台把基金官方份额登记簿放在区块链上，自 2025 年 5 月 31 日起在周六和周日也直接发行新份额发放分红，周日收益直接进入持有人的 Stellar 钱包，但现金赎回仍需等到下一个工作日。到 11 月 18 日的三周里，Stellar 上 BENJI 份额从 4.382 亿增至 14.4 亿；据作者统计，Franklin 四只 Benji 基金合计 35.2 亿份额，领先 Ondo 的 USDY 和 OUSG 8.25 亿。认购高度集中，109 个钱包认购的 10.7 亿中三个钱包贡献 69%，链上无法确认控制者身份。链上周末分红收益率与基金申报收益率自 2",
+      "publishedAt": "2026-11-24T23:58:00.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
-      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
-      "excerpt": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
-      "publishedAt": "2026-11-25T03:58:32.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国金融委公开数字资产法案，拟在信息充分披露条件下解禁ICO",
+      "url": "https://lianxiaozhi.com/items/udx6memmx5k3jw18ionisk48m",
+      "excerpt": "韩国金融委员会（FSC）于24日公开数字资产相关法律案，拟在发行方等提交记载资金用途、项目内容和风险的白皮书并提交FSC的条件下，时隔9年容许ICO，法案尚需国会审议后才法制化。法案还涵盖经营者牌照、稳定币规则与用户保护及黑客攻击对策，稳定币命名为数字支付代币，初期限定由银行合计持股过半的共同企业发行，须持有100%以上准备资产并禁止支付利息。FSC称此举是为应对此前经营者绕开禁令在海外设基金会发币并在韩国流通的情况。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/udx6memmx5k3jw18ionisk48m",
+      "publishedAt": "2026-11-24T23:00:24.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "publishedAt": "2026-11-25T01:13:56.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "CFTC 员工指引允许比特币、以太坊和支付稳定币计入运营储备",
+      "url": "https://lianxiaozhi.com/items/on79u9kw8r5t31lz1vl8emygi",
+      "excerpt": "CFTC 市场监管与清算风险部门于11月23日发布员工指引，允许 SEF、DCM 和 DCO 将比特币、以太坊和支付稳定币计入覆盖12个月运营成本的财务资源，但需估值折扣：比特币和以太坊至少20%、支付稳定币2%、流动性差代币100%。因 GAAP 不视为现金等价物，这些资产不能用于三个月（SEF）或六个月（DCM 和 DCO）的现金流动性要求。指引仅适用自有运营储备，不含客户保证金或清算违约基金，仅为员工观点，不构成新规则。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/on79u9kw8r5t31lz1vl8emygi",
+      "publishedAt": "2026-11-24T22:55:00.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Why France is at risk of recession — and what could keep it out of one",
-      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "excerpt": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
-      "publishedAt": "2026-11-24T11:15:30.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Coinkite 复盘 Coldcard 漏洞：弱随机数生成器潜伏逾五年，逃过至少 15 次安全审查",
+      "url": "https://lianxiaozhi.com/items/fmpoasi3oad63jxbd9v1u4jup",
+      "excerpt": "Coinkite 发布事后复盘，确认 2021 年 3 月至 2026 年 7 月间 Coldcard 固件用 MicroPython 的 Yasmarang 软件伪随机数生成器而非硬件随机数生成器生成钱包种子，有效熵约 40 至 72 比特，低于 128 比特目标，攻击者可离线还原私钥盗取比特币。该缺陷逃过至少 15 次审查，含两次付费审计、Ledger Donjon 物理安全工作和一次产出 85 项发现的 AI 辅助审查，因各项检查只确认硬件 RNG 代码存在而未验证种子生成实际使用它。Coinkite 称已收到约 300 份相关支持工单、涉及 242 个账户，约占其用户基数的 0.21%",
+      "publishedAt": "2026-11-24T21:16:02.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
-      "excerpt": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
-      "publishedAt": "2026-11-24T22:18:47.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "犹他州申请撤回对 Kalshi 的14项刑事指控",
+      "url": "https://lianxiaozhi.com/items/krc9xb231lk8bprzhxw21r35o",
+      "excerpt": "犹他州总检察长办公室周一向犹他州第三地区法院提交动议，申请以无偏见方式撤回对预测市场平台 Kalshi 及其两位联合创始人的14项刑事指控，即 Kalshi 若恢复在犹他州运营可重新起诉。此前该办公室于9月启动刑事调查，10月28日指控 Kalshi 向该州居民提供非法赌博。Kalshi 已同意屏蔽犹他州用户并监控该州 IP 的访问。总检察长 Derek Brown 称若 Kalshi 回归指控也将回归。另有六家预测市场公司同意停止在犹他州运营。此案与犹他州10月20日对 Kalshi 及做市伙伴 Susquehanna International Group 的民事诉讼分开，诉状估计 Kal",
+      "publishedAt": "2026-11-24T20:48:27.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-      "excerpt": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones.",
-      "publishedAt": "2026-11-23T23:00:01.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "贝莱德在香港推出代币化港元货币市场基金，初始资产约 1 亿美元",
+      "url": "https://lianxiaozhi.com/items/ses00a94gkd7zbwnsw04u1svx",
+      "excerpt": "据 Cointelegraph 报道，贝莱德于 11 月 25 日在香港推出代币化货币市场基金 BlackRock HKD Digital Liquidity Fund，初始资产约 1 亿美元，渣打银行和蚂蚁国际为种子投资者。专业投资者可用港元稳定币 HKDAP 申购和赎回份额，散户投资者须使用传统港元。渣打同时担任托管人、管理人、受托人及代币化代理，基金主要投资于政府发行或担保的短期证券及优质银行存款。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/ses00a94gkd7zbwnsw04u1svx",
+      "publishedAt": "2026-11-24T20:46:48.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-      "excerpt": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-      "publishedAt": "2026-11-24T21:13:39.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Coinkite 复盘 Coldcard 钱包漏洞，赔偿方案尚未确定",
+      "url": "https://lianxiaozhi.com/items/wsr8dobnss24wp5r5vxa4f3yq",
+      "excerpt": "11 月 25 日，Coldcard 硬件钱包制造商 Coinkite 在事故复盘中称，安全检查确认设备具备安全生成恢复短语的系统但未验证其是否被实际使用，软件错误使设备采用较弱的系统，恢复短语更易被猜出。公司称至少 15 次独立安全审查未在盗窃前发现漏洞；截至 11 月 18 日收到约 300 份相关工单，涉及 242 个账户，赔偿方案尚未确定。Galaxy Research 此前称至少 1789 枚 BTC 被盗，盗窃时价值约 1.147 亿美元。漏洞已于 7 月 31 日修复，受影响用户应更新软件、创建新恢复短语并转移资金；软件更新无法让此前受影响的恢复短语重新安全。 🔗 阅读原文 v",
+      "publishedAt": "2026-11-24T19:14:02.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-      "excerpt": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
-      "publishedAt": "2026-11-23T15:26:57.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国金融委员会公布数字资产法草案，拟重开境内 ICO 并要求申报白皮书",
+      "url": "https://lianxiaozhi.com/items/ki8j6qip19mj6sn0s3xbwleax",
+      "excerpt": "韩国金融委员会 11 月 24 日公布《数字资产产业创新及使用者保护法》草案，拟允许境内团队完成信息披露后向公众发行代币，改变自 2017 年以来禁止 ICO 的政策。发行人须在募资前提交白皮书说明身份、资金用途、发行量与风险，实际参与开发运营的团队及协助募资的交易所也负有披露义务，重大不实可能承担赔偿与处罚。法案尚待国会审议，同一方案还规划韩元稳定币发行资格与交易所 20% 持股上限（经核准最高 34%）。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/ki8j6qip19mj6sn0s3xbwleax",
+      "publishedAt": "2026-11-24T19:08:41.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "excerpt": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
-      "publishedAt": "2026-11-24T22:03:01.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "Coinkite 复盘 Coldcard 漏洞何以五年未被发现",
+      "url": "https://lianxiaozhi.com/items/lmm42w4dve90e0c5ke6dxnggz",
+      "excerpt": "比特币硬件钱包厂商 Coinkite 在 11 月 23 日发布复盘报告，称其 Coldcard 设备的一个软件错误导致钱包实际使用较弱的助记词生成方式，更易被黑客猜出，尽管公司验证过正确的生成系统存在，却从未核实钱包是否真的在使用它。Coinkite 称至少 15 次独立安全审查和研究未能发现该缺陷，因为助记词外观正常且能通过部分安全测试。Galaxy Research 8 月统计称黑客借此窃取至少 1,789 枚 BTC，事发时价值约 1.147 亿美元。Coinkite 于 7 月 31 日修复漏洞并于 8 月加入更多安全措施；截至 11 月 18 日已收到约 300 个与损失相关的工单",
+      "publishedAt": "2026-11-24T19:04:26.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "excerpt": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
-      "publishedAt": "2026-11-24T21:07:19.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国金融委员会提出数字资产法案草案，拟解除实施近十年的 ICO 禁令",
+      "url": "https://lianxiaozhi.com/items/b1l6stfbechpxmz85dnc73j2v",
+      "excerpt": "据 Decrypt 报道，韩国金融委员会于 11 月 25 日提出数字资产法案草案，拟解除 2017 年实施的 ICO 禁令，允许境内项目向公众发行和销售代币。草案要求发行方销售代币前向监管机构提交数字资产白皮书，披露项目、募集资金用途、发行数量及风险，虚假或遗漏信息可能使发行方及高管承担民事赔偿、罚款及刑事责任。草案还涉及韩元稳定币发行和加密交易所股权限制，须经韩国国会批准后才能生效。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/b1l6stfbechpxmz85dnc73j2v",
+      "publishedAt": "2026-11-24T18:37:52.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "excerpt": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
-      "publishedAt": "2026-11-24T22:07:45.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国金融服务委员会拟立法解除实施近十年的 ICO 禁令",
+      "url": "https://lianxiaozhi.com/items/v6kio1ulksagabvj0k41re5vn",
+      "excerpt": "韩国金融服务委员会于周二发布《数字资产产业创新与用户保护法》草案，拟解除 2017 年 9 月实施的 ICO 禁令，允许国内项目首次公开发行和销售代币。发行方须先向 FSC 提交数字资产白皮书，披露项目、资金用途、代币发行量和风险，虚假披露或遗漏信息的发行方及高管将面临民事赔偿、罚款乃至刑事追责。同一草案还规定韩元稳定币仅可由商业银行持多数股权的联合体发行，单一主要股东持有交易所股权上限为 20%，特定条件下升至 34%。草案目前仍需国会批准，生效时间和最终规则尚未确定。 🔗 阅读原文 via 链小知 · https://lianxiaozhi.com/items/v6kio1ulksaga",
+      "publishedAt": "2026-11-24T18:36:03.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "excerpt": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-      "publishedAt": "2026-11-24T13:31:29.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "韩国 FSC 发布加密法案草案，交易所单一股东持股不得超过20%",
+      "url": "https://lianxiaozhi.com/items/v4uruhfwqo74i5ib8z2vc7jm5",
+      "excerpt": "韩国金融委员会（FSC）周二在首尔发布《数字资产产业创新与用户保护法》政府法案，规定交易所单一股东持股上限为20%，经 FSC 批准可至34%，超出部分无投票权。现有交易所有权人自被指定为平台运营商起有三年合规期，中小型交易所最多可再延三年。Bithumb Holdings 持有 Bithumb 73.56%股份，Mirae Asset Consulting 持有 Digital X（原 Korbit）97.15%股份。法案还开放韩元稳定币发行，初期仅限银行持有多数股权的集团，发行方需 FSC 牌照及至少50亿韩元权益资本，储备至少100%存于银行等托管机构且持有人不得获息；ICO 在充分披露",
+      "publishedAt": "2026-11-24T18:30:00.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "excerpt": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
-      "publishedAt": "2026-11-24T17:51:45.000Z",
+      "sourceId": "lianxiaozhi",
+      "title": "贝莱德在香港推出首个代币化货币市场基金，支持稳定币认购",
+      "url": "https://lianxiaozhi.com/items/w3dlwy5griur3c4wwxc0fa5nq",
+      "excerpt": "据 South China Morning Post 周二报道，贝莱德推出亚太首个代币化货币市场基金 BlackRock HKD Digital Liquidity Fund，香港专业投资者可用本地发行的稳定币认购和赎回，起步规模约1亿美元，种子投资者为渣打银行和 Ant International。认购赎回可通过渣打、HKT 与 Animoca Brands 合资的 Anchorpoint Financial 发行的港元稳定币 HKDAP 进行，渣打还担任托管人、行政管理人、受托人和代币化代理。基金文件显示其于11月16日开始运作，主要投资政府发行或担保的短期证券和高等级银行存款，截至周二七",
+      "publishedAt": "2026-11-24T18:07:22.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "链小知 (中文精选)"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-      "excerpt": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
-      "publishedAt": "2026-11-24T10:56:56.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "AI交易信仰动摇，亚太芯片股遭遇集体抛售，韩股收跌6.16%，美股夜盘走低，黄金下跌1.1%",
+      "url": "https://wallstreetcn.com/articles/3786656",
+      "excerpt": "围绕人工智能热潮能否持续的疑虑正在重塑全球资产定价，投资者从科技股大举撤离，资金涌向国债与美元避险。 11月25日，亚太市场成为抛售重灾区。MSCI亚太指数下跌2.1%，其中韩国KOSPI指数收跌6.16%，报4697.51点；中国台湾股指下跌4.8%。日经225指数收跌2.78%。芯片股领跌，SK海力士股价下挫11%，三星电子跌10%。 美股期货预示疲软将延续。纳斯达克100指数期货下跌1.4%，标普500指数期货下跌0.8%，意味着美国科技股将连续第二个交易日走低。避险需求推动美债上涨，基准10年期美债收益率下降4个基点至4.89%，日本10年期国债收益率同步下行7.5个基点至2.645%",
+      "publishedAt": "2026-11-25T06:54:09.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
-      "excerpt": "China is increasingly focused on containing India economically rather than through military actions.",
-      "publishedAt": "2026-11-24T04:27:38.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "黄仁勋回归后，该英伟达的董事会辞职了？",
+      "url": "https://wallstreetcn.com/articles/3786667",
+      "excerpt": "英伟达董事会一致通过恢复黄仁勋职务，但这场史无前例的治理危机并未就此画上句号。多位公司治理专家警告，董事会重组几乎已是必然，股东诉讼风险正在上升，而外界对于谁真正掌控这家全球最大AI芯片商的疑问，也愈发难以回避。 预测平台Polymarket数据显示，年底前英伟达再有一名董事离职的概率已升至39%。市场押注的背后，是外界对董事会独立性的深切质疑——这家公司的治理结构是否能够经受住调查持续推进、政治压力持续介入的双重考验。 英伟达董事会于11月23日宣布，一致通过恢复黄仁勋总裁、CEO及董事职务，即刻生效。就在不到两周前，同一届董事会刚刚接受了黄仁勋的辞职。耶鲁大学的Jeffrey Sonnen",
+      "publishedAt": "2026-11-25T06:46:30.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Futures turn red as Huang-effect fails to deliver another day of gains",
-      "url": "https://www.cnbc.com/2026/11/24/futures-turn-red-as-huang-effect-fails-to-deliver-another-day-of-gains.html",
-      "excerpt": "Investors assess the return of Huang as investigations loom",
-      "publishedAt": "2026-11-24T11:58:45.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "2027见闻历，财经人的桌面必备“神历”",
+      "url": "https://wallstreetcn.com/articles/3782813",
+      "excerpt": "本文来自华尔街见闻，欢迎下载APP查看更多",
+      "publishedAt": "2026-11-25T06:05:36.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Anthropic shares fall below IPO price. Traders see even more pain",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-      "excerpt": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
-      "publishedAt": "2026-11-24T19:47:42.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "AI算力需求存疑！贝莱德拟大砍250亿美元数据中心收购价",
+      "url": "https://wallstreetcn.com/articles/3786662",
+      "excerpt": "数据中心行业波动加剧，贝莱德领衔财团正重新评估亚太区资产价值，考虑下调收购要约并引入业绩对赌条款。 据彭博报道，贝莱德（BlackRock）与IFM Investors Pty组成的投资财团正考虑下调对Stack Infrastructure亚太区数据中心的收购报价，原因是该行业波动性上升，加之本地社区反对声音渐强，算力需求前景不确定性加剧。 据知情人士透露，该财团可能削减要约中的股权对价部分，并将部分款项与项目实际交付情况挂钩，实质上引入业绩对赌机制。此前，这批亚太区数据中心资产的企业价值估算介于200亿至250亿美元之间。 上述议价压力折射出数据中心行业更深层的担忧：投资者越来越质疑各大数",
+      "publishedAt": "2026-11-25T05:32:13.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-      "excerpt": "Russia accused Estonia of “hostile actions” and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
-      "publishedAt": "2026-11-24T13:42:55.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "A股三大股指均跌超1%，医药、消费逆势走强，半导体产业链下跌，恒科指盘中涨超2%之后回落，小米涨4%",
+      "url": "https://wallstreetcn.com/articles/3786653",
+      "excerpt": "11月25日，A股A股在隔夜美股科技股\"一日游\"式回调的拖累下集体低开，随后盘初震荡收窄，盘中跌幅有所扩大，三大指数午盘均跌超1%，算力硬件局部活跃，光模块龙头“易中天”走高，天孚通信大涨超11%。零售、餐饮旅游等大消费活跃。半导体产业链陷入调整，GPU、先进封装、光刻机等概念股下跌。 港股早盘冲高回落，恒指、恒科指双双上涨，恒科指盘初一度涨2%，临近午盘再度回落，权重科网股多数反弹，小米涨4%，京东涨5%，哔哩哔哩拉升近10%。半导体下挫，华虹宏力跌超13%。光模块、光纤、AI大模型股均调整。债市方面，国债期货普遍下跌。商品方面，国内商品方面多数下跌，贵金属期货跌幅居前，跟随隔夜国际黄金的跌",
+      "publishedAt": "2026-11-25T04:05:17.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "excerpt": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
-      "publishedAt": "2026-11-25T02:50:08.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "黄仁勋复职“加速”美国国会“芯片出口管制”立法？",
+      "url": "https://wallstreetcn.com/articles/3786650",
+      "excerpt": "巴克莱认为，黄仁勋重返英伟达CEO职位，正在为美国国会推进半导体出口管制立法提供新的政治动能。国会两党议员已将其复职视为加快立法的又一理由，芯片管控走向更严格、更持久的轨道的可能性正在上升。 据追风交易台消息，巴克莱公共政策研究团队分析师Michael McLean在11月24日发布的研报中称，美国国会将半导体管制条款附加至2027财年《国防授权法案》（NDAA）的可能性已显著提升。目前有四项两党提案同步推进，分别针对先进芯片采购、出口后转移、制造设备获取及境外远程算力访问四条潜在渗透路径。与此同时，特朗普政府正就上述提案提供技术协助，显示行政当局并非全面反对立法，核心争议将集中于条款范围，而",
+      "publishedAt": "2026-11-25T03:48:46.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
-      "publishedAt": "2026-11-24T23:03:24.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "摩根大通金属展望：铜铝还要“挤泡沫”，黄金即将迎来“抄底时刻”",
+      "url": "https://wallstreetcn.com/articles/3786657",
+      "excerpt": "近期，大宗商品走势波动剧烈。 据追风交易台消息，摩根大通在最新发布的2027/28年金属展望报告中，对铜、铝等基本金属维持看空，同时认为黄金已接近阶段性底部，预计明年下半年将开启一轮修复行情。 研究团队认为，美国铜库存去化将在2027年上半年加速，推动铜价进一步下探；印度尼西亚主导的铝产能扩张将令铝市供应过剩持续扩大；与此同时，能源价格回落与美联储政策转向预期，将为黄金在2027年下半年的复苏铺路。 铜：美国去库存加速，价格持续承压 摩根大通指出，过去一年铜价涨至14,000美元/吨以上，并非源于全球供需基本面的短缺，而是美国大规模超额进口和囤货所制造的\"错位\"行情。 报告估计，过去两年美国累",
+      "publishedAt": "2026-11-25T03:46:29.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "excerpt": "The AG and FBI director evaded answering reporters' questions about details of an investigation Trump said resolved security concerns about Jensen Huang.",
-      "publishedAt": "2026-11-24T19:19:12.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "黄金对冲由亏转盈，周大福账面利润翻倍",
+      "url": "https://wallstreetcn.com/articles/3786659",
+      "excerpt": "11月24日，周大福（1929.HK）发布截至2026年9月30日止六个月的中期业绩。 期内营业额442.63亿港元，同比增长13.5%。 股东应占溢利50.34亿港元，同比大增98.7%，每股基本盈利由0.26港元升至0.51港元。 董事会宣派中期股息每股0.35港元，派息率约68.6%。 账面净利润与主营经营表现出现分化。同期经营溢利55.79亿港元，同比下降18.2%。 毛利率由30.5%收窄至25.6%，降了4.9个百分点。 净利润与经营溢利走势相反，主因是黄金借贷合约重估产生的会计损益。 财报显示，黄金借贷合约重估期内录得公允值收益13.36亿港元，上年同期为亏损31.43亿港元。 ",
+      "publishedAt": "2026-11-25T03:27:39.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-      "excerpt": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
-      "publishedAt": "2026-11-24T15:03:36.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "不做“屎山代码”制造机！“AI软件工厂”的“12条军规”",
+      "url": "https://wallstreetcn.com/articles/3786655",
+      "excerpt": "AI写代码越来越快，但写出来的东西越来越难维护。 在近日举行的一场AI工程峰会上，Factory公司成员、前Human Layer联合创始人Dex Horthy发表演讲，抛出了一套针对“AI软件工厂”的12条核心法则，并联合多位业内人士正式发布“反Slop宣言”。 所谓“Slop”，是AI圈对低质量、大批量生成内容的俗称——堆砌、冗余、看起来能跑但没人敢动的代码。 “反Slop宣言”的核心主张包括：“我们重视结果，而非产出；重视理解，而非速度。”“一群Agent在一天内产生的工作量，可能超过一个人一辈子能审查的总量。”等等。 AI写代码，最好成绩只有16.3% Horthy在演讲中引用了一个刚",
+      "publishedAt": "2026-11-25T02:40:32.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-      "excerpt": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
-      "publishedAt": "2026-11-24T20:37:40.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给",
+      "url": "https://wallstreetcn.com/articles/3786651",
+      "excerpt": "闪迪管理层在最新投资者交流会上释放强烈积极信号，对AI驱动的闪存需求前景保持高度乐观，并重申此前提出的约1.2泽字节（ZB）AI数据中心NAND市场规模预测\"毫无下行风险\"。 追风交易台消息，11月23日，花旗Michael Cadiz发表闪迪的投资者会议纪要解读，此次会议由闪迪执行副总裁兼首席产品官Khurram Ismail及投资者关系团队参与，通过线上形式与机构投资者交流。 闪迪执行副总裁兼首席产品官Khurram Ismail指出，直连存储、KV缓存及高性能数据湖三大AI存储机会均处于健康增长态势，客户资质认证、设计导入及部署进展持续验证需求趋势。 与此同时，管理层强调高带宽闪存、训练",
+      "publishedAt": "2026-11-25T02:05:57.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
     },
     {
-      "sourceId": "cnbc-crypto",
-      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "excerpt": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-      "publishedAt": "2026-11-24T18:34:43.000Z",
+      "sourceId": "wallstreetcn",
+      "title": "OpenAI瞄上网络安全：比编程更大的下一个市场",
+      "url": "https://wallstreetcn.com/articles/3786652",
+      "excerpt": "近期一系列高调网络安全事件令市场警觉，也让OpenAI看到了新的商业机会。 OpenAI总裁Greg Brockman近日明确表态，网络安全将成为该公司比编程更大的业务板块。首席财务官Sarah Friar则称，目前市场对网络安全总可寻址市场逾3000亿美元的估算，远远低估了这一领域的真实潜力。 上述表态出现在OpenAI为备战潜在IPO、积极寻求新收入来源的关键节点。然而，OpenAI如何将这一愿景落地，目前仍缺乏清晰路径，且面临来自Anthropic、谷歌等竞争对手的正面挑战。 网络安全事件频发，OpenAI嗅到商机 据The Information最新报道，近期多起高知名度网络安全事件相",
+      "publishedAt": "2026-11-25T01:22:51.000Z",
       "category": "finance",
-      "source": "CNBC Crypto"
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "小米：拐点已现？",
+      "url": "https://wallstreetcn.com/articles/3786646",
+      "excerpt": "尽管小米三季度业绩承压，但高盛、花旗与巴克莱均维持买入或增持评级，认为小米收入同比降幅持续收窄，盈利修正正在触底，2027年的复苏轨道日益清晰。 追风交易台消息，11月25日，高盛分析师Timothy Zhao团队研报中指出，小米2026年三季度业绩基本符合预期，调整后净利润同比下滑57%至49亿元，较高盛预期高出1%。 与此同时，高盛认为盈利修正正在接近底部，叠加存储成本、物联网增长、海外扩张及AI等核心叙事出现改善信号，核心运营费用自三季度起实现同比削减，这一趋势有望延续数个季度，维持买入评级。 花旗分析师Kyna Wong团队同日发布报告，同样维持买入评级，看好物联网与手机业务2027年",
+      "publishedAt": "2026-11-25T01:12:21.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "阴霾笼罩年底市场！摩根大通：伊朗军事升级、美联储紧缩、政府关门、关税上调、芯片管制一起来了！",
+      "url": "https://wallstreetcn.com/articles/3786649",
+      "excerpt": "距离2026年结束还有五周，市场却要同时面对一张密密麻麻的风险清单。 据追风交易台消息，11月19日，摩根大通全球研究主席Joyce Chang率团队在华盛顿与政策制定者、官方债权人及独立智库人士举行了一整天的闭门会议。该行于11月24日发布报告，将会议核心内容整理为\"中期选举后需监测的十大风险\"。 报告开篇基调沉重。分析师写道，\"从华盛顿回来后，我们对中期选举后的风险更加谨慎\"，而那一周几乎每一类资产都在下跌，美债和美元是仅有的例外。 报告援引当天最令人印象深刻的一句警告：\"AI融资的解体，加上美联储的进一步紧缩，可能造就'一个非常难看的圣诞节'——股市大幅下跌，直到美联储被迫转向，就像20",
+      "publishedAt": "2026-11-25T01:11:40.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "数据中心需求推动，美国钢铁价格飙至四年高位",
+      "url": "https://wallstreetcn.com/articles/3786647",
+      "excerpt": "人工智能基础设施建设热潮正在重塑美国钢铁市场格局。数据中心建设需求超出预期，令美国国内钢铁供应趋于紧张，价格攀升至四年高位，同时也在悄然瓦解特朗普政府关税政策的保护效果。 美国热轧卷板价格近期报价已突破每短吨1300美元，较一年前不足900美元的水平大幅跃升。美国最大钢铁生产商Nucor本周将热轧卷板挂牌价上调至每短吨1330美元，延续了自夏季以来连续数周上涨的态势。与此同时，据Jefferies分析师Albert Realini在近期报告中指出，部分进口钢铁在计入关税及运输成本后，仍比美国国内供应便宜近400美元每吨。（短吨为美国常用重量单位，1短吨等于2000磅，约合907.185千克） ",
+      "publishedAt": "2026-11-25T00:42:07.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "推动黄仁勋下台的“自媒体黑嘴”：由Anthropic的早期投资者资助",
+      "url": "https://wallstreetcn.com/articles/3786645",
+      "excerpt": "黄仁勋于11月12日辞去英伟达CEO职务，英伟达董事会11月23日宣布将其复职，并在监管文件中援引美国政府高级官员的表态称其\"不构成国家安全风险\"。 在这一事件的舆论发酵过程中，研究人员Kevin Bass梳理出一条资金脉络：率先发文呼吁黄仁勋辞职的新闻简报《Transformer》，以及大篇幅跟进报道的新上线的播客节目《Machine Gods》，均指向同一个资助方——Tarbell人工智能新闻中心，而Tarbell的核心金主，正是Facebook联合创始人、Anthropic早期投资者Dustin Moskovitz的慈善机构。 但Tarbell方面表示，其捐助者\"对旗下记者或受资助媒体没",
+      "publishedAt": "2026-11-25T00:20:40.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "戴尔电话会：AI服务器积压订单突破1320亿美元，AI代理引爆传统服务器需求",
+      "url": "https://wallstreetcn.com/articles/3786641",
+      "excerpt": "得益于AI基础设施的狂热需求以及传统数据中心的现代化升级，戴尔2027财年第三季度营收实现翻倍，AI服务器积压订单创下1323亿美元历史新高，管理层明确表示“未见任何需求放缓迹象”。 华尔街见闻提及，11月24日美股盘后，戴尔科技公布了截至2026年10月底的2027财年第三季度业绩，营收和盈利双双刷新公司历史纪录，AI服务器业务成为核心驱动力。公司同步上调第四季度指引，并宣布250亿美元回购授权，向市场释放强烈的信心信号。 财报电话会议上，戴尔副董事长兼首席运营官Jeff Clarke明确表示，本季度新增AI服务器订单达602亿美元，确认收入220亿美元，期末积压订单达1323亿美元，均为历",
+      "publishedAt": "2026-11-25T00:10:36.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "1天20倍！上周五买入英伟达期权的买家火了，周一放话“开盘即卖，感谢老黄”",
+      "url": "https://wallstreetcn.com/articles/3786643",
+      "excerpt": "一场押注英伟达反弹的期权交易，在周一早间因CEO黄仁勋（Jensen Huang）重新执掌帅印而迎来爆发式兑现。 据彭博11月25日报道，Reddit用户Outrageous-Voice1459以1.9万美元买入的英伟达看涨期权，单日暴涨逾1984%，净赚37.69万美元，其在社交媒体上高呼“开盘即卖，感谢老黄”的帖子迅速引发广泛关注。 英伟达股价周一单日飙升31%至165.05美元，此前该股本月累计跌幅已达39%。黄仁勋重返CEO职位的消息成为直接催化剂，令此前布局反弹的多头期权持仓集中兑现。 这场期权盛宴不止于散户。据彭博报道，一名机构交易员此前买入1月到期、行权价160美元的看涨期权，周",
+      "publishedAt": "2026-11-25T00:03:57.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "华尔街见闻早餐FM-Radio | 2026年11月25日",
+      "url": "https://wallstreetcn.com/articles/3786639",
+      "excerpt": "华见早安之声 要闻精选 中国 小米Q3营收超预期，存储涨价挤压手机毛利，增程SUV首月锁单超7万。电话会：今年将在AI领域投入160亿，不能简单通过涨价转嫁内存成本，汽车交付Q4预计将迎“较大提升”。 海外 黄仁勋复职后首场全员会道歉、承认违反英伟达行为准则，仍拒绝传统接班人计划。美国会持续施压英伟达：共和党议员提议给黄仁勋配“保姆”，民主党领袖指控升级。特朗普亲自营救黄仁勋，被指是“现代水门事件”。 Anthropic破发一度暴跌14%，创始人套现逾5.6亿美元，黄仁勋回归加剧AI路线之争。Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过。 戴尔将全",
+      "publishedAt": "2026-11-24T23:07:46.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "债务压顶，“华尔街狼王”Icahn身家从261亿美元跌至13亿美元",
+      "url": "https://wallstreetcn.com/articles/3786640",
+      "excerpt": "激进投资人Carl Icahn正面临职业生涯最严峻的考验。债务压力持续攀升，其旗下商业帝国深陷困境，个人净资产已缩水至约13亿美元。 据彭博亿万富翁指数，Icahn个人净资产于上周五跌至12亿美元，为彭博2012年开始追踪其财富以来的最低点，过去五年累计缩水约210亿美元。周一Icahn Enterprises LP（IEP）单位价格反弹7%，令其净资产小幅回升约1亿美元至13亿美元。 与此同时，IEP旗下核心资产CVR Energy股价本月已累计下跌约40%；IEP今年已下跌64%，部分2029年到期债券收益率突破30%，公司整体债务规模约达44亿美元。 融资前景堪忧是当前市场最大焦虑所在。",
+      "publishedAt": "2026-11-24T23:03:57.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "AI交易疑虑未消，芯片股领跌纳指，道指涨0.8%，Anthropic破发，金属普跌",
+      "url": "https://wallstreetcn.com/articles/3786560",
+      "excerpt": "市场对AI交易可持续性的疑虑重燃，前一日因黄仁勋复职大涨的AI行情迅速退潮，叠加贸易消息影响，美股指涨跌不一，避险资产美债和瑞郎走强。 周二标普500收于7,200.82点，跌0.50%；纳斯达克综合收于23,733.54点，跌1.48%；道琼斯收于50,018.70点，涨0.85%。费城半导体指数跌7.88%。科技板块跌约4%，医疗保健涨约3%。英伟达跌5.86%。 Cetera Financial Group首席投资官Gene Goldman表示： 经历了数月来最大涨幅后，出现获利了结属于意料之中。归根结底，一条新闻并不能真正化解投资者对AI交易的疑问。 他补充说，潜在的关税消息将为市场增",
+      "publishedAt": "2026-11-24T22:54:49.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "黄仁勋回归行情一日游！华尔街警告：油价、通胀和鹰派美联储，一个都没解决",
+      "url": "https://wallstreetcn.com/articles/3786638",
+      "excerpt": "黄仁勋重返英伟达CEO职位引发的市场狂欢仅持续一个交易日，AI科技股便重新遭遇抛售。华尔街人士警告，黄仁勋回归虽然缓解了英伟达短期的领导层不确定性，却没有解决通胀、利率和AI巨额投资回报等更深层次的问题，甚至可能带来新的公司治理与政治风险。 周一暴涨后迅速回吐，AI产业链集体承压 美东时间11月24日周二，周一因黄仁勋复职而大幅上涨的科技股重新成为美股抛售中心。 周一，道琼斯工业平均指数上涨近1500点、涨幅约3%，标普500指数上涨逾4.7%，纳斯达克综合指数上涨约6.5%，费城半导体指数（SOX）上涨约14%。标普、纳指和SOX均创下2025年4月以来最大单日涨幅。 周二市场迅速分化：道指",
+      "publishedAt": "2026-11-24T22:22:30.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "惠普盈利指引超预期，内存成本控制取得进展",
+      "url": "https://wallstreetcn.com/articles/3786637",
+      "excerpt": "惠普财报显示在应对内存芯片成本上涨方面正逐步改善，盘后股价随即大幅跳涨。 周二美股盘后，惠普发布2026财年全年及第四季度业绩报告，宣布提高股息。报告显示，截至明年1月的当前财季，每股收益预期为0.66至0.76美元，市场预期为0.72美元，上述指引均已纳入关税退税的影响。 预计自本月起的新财年非通用会计准则每股收益预期区间为3.15至3.45美元，据彭博汇总的分析师一致预期为3.18美元。 消息公布后，惠普盘后股价一度涨幅约15%，随后几乎回吐全部涨幅，此前收盘报27.94美元。 首席财务官Karen Parkhill表示，公司对全年持续改善盈利能力抱有信心，尽管2027财年展望体现了对成本",
+      "publishedAt": "2026-11-24T22:00:09.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "AI服务器需求引爆戴尔业绩！营收翻倍、上调全年指引，1323亿美元订单积压创新高｜财报见闻",
+      "url": "https://wallstreetcn.com/articles/3786635",
+      "excerpt": "戴尔科技公布的最新财报显示，AI基础设施投资热潮正以前所未有的速度转化为公司收入。第三财季营收同比翻倍，AI优化服务器收入增长近三倍，新订单和积压订单均创历史新高，推动公司第三次上调本财年业绩指引。 当地时间11月24日，戴尔公布截至2026年10月30日的2027财年第三季度业绩。财报显示，公司当季营收达到549.37亿美元，同比增长103%；非GAAP每股收益为9.45美元，同比增长265%，两项指标均大幅超过市场预期。分析师此前平均预期营收为493.2亿美元、调整后每股收益为6.59美元。 更重要的是，戴尔AI优化服务器业务继续加速增长。第三财季，该业务收入达到220.31亿美元，同比增",
+      "publishedAt": "2026-11-24T21:52:57.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "铜价\"收回\"对AI周期信任票，大跌超4%回吐周一全部涨幅",
+      "url": "https://wallstreetcn.com/articles/3786636",
+      "excerpt": "英伟达CEO黄仁勋重获任命所引发的铜价单日涨幅，不到24小时便被全数抹去。 周二，铜价大跌4.3%，收报每磅5.47美元，将前一日2.7%的涨幅悉数回吐。与此同时，伦敦金属交易所三个月期铜一度下挫5.7%至每吨11,780美元，跌破12,000美元关口。 多重利空因素在同一时间窗口叠加：美国关税政策不确定性上升、需求疲软、美联储进一步加息预期升温，以及此前推动铜价上涨的AI基础设施投资叙事遭受质疑。 铜价已连续两个月下跌，创2024年底以来首次连续月度下滑，上周末更触及伦敦市场逾七个月低位。 反弹昙花一现，AI叙事难以为继 周一铜价的2.7%单日涨幅为今年5月中旬以来最大单日涨幅，这一度被Hi",
+      "publishedAt": "2026-11-24T21:38:07.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "大众汽车工人抬棺抗议！薪资谈判陷僵局，明年1月罢工风险升温",
+      "url": "https://wallstreetcn.com/articles/3786633",
+      "excerpt": "大众汽车首轮成本削减谈判无果而终，劳资双方分歧悬殊，工人以黑色棺材走上街头，罢工风险随之急剧上升。 据路透，谈判在德国北部城市埃姆登举行，仅持续两小时便宣告结束。IG Metall工会首席谈判代表Thorsten Groeger表示，谈判气氛\"比室外温度还要冷\"，劳方代表Daniela Cavallo警告，若管理层态度不出现根本转变，局势将走向进一步升级。 双方下一轮谈判定于12月15日举行，这也是在1月1日罢工窗口开启前达成协议的最后机会。 大众汽车正面临多重压力的夹击：来自竞争对手的冲击、每年数十亿欧元的关税成本，以及快速变革的技术环境。这家全球第二大汽车制造商今年运营利润率预计不超过1%",
+      "publishedAt": "2026-11-24T21:37:52.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "黑石、华平、阿波罗洽谈入股，GTCR拟500亿美元私有化Global Payments",
+      "url": "https://wallstreetcn.com/articles/3786632",
+      "excerpt": "据路透援引知情人士透露，黑石、华平投资及阿波罗正与私募股权公司GTCR商谈，为其约500亿美元私有化收购支付处理商Global Payments提供融资支持。若交易达成，将跻身近年来支付行业规模最大的杠杆收购之列。 此前GTCR与Clayton, Dubilier & Rice（CD&R）的联合收购计划已告吹。此后GTCR于上周五在监管文件中披露，将独立推进对Global Payments的收购。 目前黑石、阿波罗及华平正就潜在的股权或优先股投资进行磋商，以协助GTCR完成这笔交易。 三位知情人士表示，相关讨论仍在进行中，尚未达成任何协议。知情人士同时警告，鉴于Global Payments近",
+      "publishedAt": "2026-11-24T21:05:12.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "城堡证券前三季度交易收入已超2025年全年纪录",
+      "url": "https://wallstreetcn.com/articles/3786629",
+      "excerpt": "市场剧烈波动为做市商城堡证券（Citadel Securities）创造了理想的盈利环境，其全球扩张步伐也在加速。 11月24日，据彭博社报道，城堡证券今年前三季度净交易收入已突破150亿美元，提前超越2025年全年纪录。这家全球最大的非银行做市商正凭借持续的市场动荡，将盈利推向新高。 据报道援引知情人士透露，该公司第三季度单季收入超过34亿美元，同比增长29%；净利润约为11.9亿美元，同比增长约13%。 华尔街各大交易机构今年普遍录得创纪录收入。人工智能相关押注的反复波动、地缘政治动荡、中东战事以及市场对利率预期的频繁调整，共同推高了全球交易活跃度。这一环境对以市场错位为盈利土壤的做市商而",
+      "publishedAt": "2026-11-24T20:31:42.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "Anthropic破发一度暴跌14%！创始人套现逾5.6亿美元，黄仁勋回归加剧AI路线之争",
+      "url": "https://wallstreetcn.com/articles/3786627",
+      "excerpt": "Anthropic上市热潮迅速退去。其在登陆纳斯达克仅三个交易日后便跌破83美元的IPO发行价。创始人及高管大额出售股份、AI行业估值压力，以及黄仁勋回归后可能加剧的产业路线竞争，共同成为市场关注焦点。 周二美股盘中，Anthropic一度大跌14%至75.61美元，市值跌破万亿美元关口，随后有所回升，最终收跌6.55%，报81.9美元。 监管文件显示，CEO Dario Amodei和总裁Daniela Amodei在上市次日分别出售超过337万股股票，交易金额均超过2.8亿美元，两笔交易合计超过5.6亿美元。 周一黄仁勋重新担任英伟达CEO，也让Anthropic面临的产业竞争格局出现新的",
+      "publishedAt": "2026-11-24T20:31:35.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情",
+      "url": "https://wallstreetcn.com/articles/3786625",
+      "excerpt": "伦敦金属交易所（LME）出手整治铝市场持续已久的逼仓乱象，宣布收紧针对大仓位持有者的监管规则，相关措施于周三起生效。 此次干预的核心是将触发\"Tom-next（明日/次日）借贷规则\"的仓位门槛，由现有可用库存的50%下调至30%。新规还引入了时间维度的分级约束：持有大仓位超过五个工作日的交易商须以更低利率强制借出仓位；持仓超过十个工作日者，借出利率将进一步下调。 LME表示，此举旨在\"减少重大持仓对市场可能产生的不当影响\"。 消息公布后，铝市价差迅速回落——现货与12月合约之间的反向价差从每吨212美元骤降至100美元，跌幅逾半。 逼仓背景：数十年最低库存叠加集中多头持仓 LME铝市场此番遭遇",
+      "publishedAt": "2026-11-24T18:29:34.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "OPEC+将敲定2027年产量政策，伊朗战争与内部分歧加剧不确定性",
+      "url": "https://wallstreetcn.com/articles/3786624",
+      "excerpt": "布伦特原油本月已下跌25%，OPEC+成员国正在就2027年产量政策展开年内最具决定性的一轮谈判。 据彭博援引知情人士透露，本月底的部长级会议将以一份由达拉斯咨询机构DeGolyer and MacNaughton完成的独立产能审计报告为基础，为各成员国设定新的产量基准。这些基准数字将直接决定各国未来的增产空间，并对全球原油供需格局产生深远影响。 然而，包括伊朗战争走势、霍尔木兹海峡通行恢复速度以及全球需求前景在内的多重不确定因素，令这次决策的难度空前复杂。 市场分析人士指出，2027年全球原油市场可能面临过剩压力。国际能源署等机构预测，届时全球日产量或将超过消费量。与此同时，美国、圭亚那等非",
+      "publishedAt": "2026-11-24T16:32:00.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Declines as AI Doubts and Rate-Hike Bets Rattle Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "excerpt": "Gold fell, as stocks sold off on doubts over the durability of the artificial intelligence boom, and the White House’s latest tariff plans reinforced expectations of an interest-rate hike by the Federal Reserve.",
+      "publishedAt": "2026-11-24T23:51:22.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "A 2018 Playbook Would Not Bode Well for Markets: Taking Stock",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/a-2018-playbook-would-not-bode-well-for-markets-taking-stock",
+      "excerpt": "Signs suggest the market is moving past peak fear, but investors need a fresh source of conviction before returning in force — especially as the current setup revives memories of 2018’s punishing selloff in risk assets.",
+      "publishedAt": "2026-11-25T07:24:39.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "EasyJet Profit Hit By Middle East War as Apollo Takeover Looms",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms",
+      "excerpt": "EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early next year.",
+      "publishedAt": "2026-11-25T07:16:22.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+      "excerpt": "Copper, aluminum and tin all added to Tuesday’s fierce selloff in metals as tech stocks extended losses and traders braced for US inflation data that will feed the Federal Reserve’s next moves on interest rates.",
+      "publishedAt": "2026-11-25T03:57:12.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Neuberg Diagnostics Is Said to Pick Banks for $200 Million IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/neuberg-diagnostics-is-said-to-pick-banks-for-200-million-ipo",
+      "excerpt": "Neuberg Diagnostics Pvt. has picked banks for an initial public offering that could raise as much as $200 million, according to people familiar with the matter, adding to a busy pipeline of Indian deals.",
+      "publishedAt": "2026-11-25T07:13:14.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stock Losses Build as AI Trade Falters, Bonds Gain: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "excerpt": "Stocks sold off and Nasdaq 100 futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove investors out of technology shares. Treasuries and the dollar gained on haven demand.",
+      "publishedAt": "2026-11-24T22:09:18.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Houthi Drone Hits Riyadh Financial District, Injuring 11 Amid Near-Daily Saudi Attacks",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
+      "excerpt": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lun",
+      "publishedAt": "2026-11-25T06:57:52.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dangote Refinery Said to List in Lagos on December 1",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
+      "excerpt": "Bloomberg understands billionaire Aliko Dangote’s oil refinery will start trading in Lagos as soon as next week. Dangote Petroleum Refinery & Petrochemicals debut is being set for December 1, in what will be Africa’s biggest IPO. Chief Africa correspondent, Jennifer Zabasajja reports from Johannesbu",
+      "publishedAt": "2026-11-25T06:53:07.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Mizuho’s Avendus to Hire 75 Private Bankers Over Four Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/mizuho-s-avendus-to-hire-75-private-bankers-over-four-years",
+      "excerpt": "Avendus Capital Pvt, majority-owned by Mizuho Financial Group Inc., plans to double its wealth managers to 150 over the next four years as it seeks a bigger share of India’s fast-growing but increasingly competitive market for rich clients.",
+      "publishedAt": "2026-11-25T06:52:41.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Danantara Reports $634 Billion in Assets in First Audited Report",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
+      "excerpt": "Indonesian state investment agency Danantara reported consolidated assets of 11,607 trillion rupiah ($634.2 billion) at the end of 2025 in its first audited financial statements, falling short of the roughly $1 trillion figure officials have often cited for the state-company group at the center of P",
+      "publishedAt": "2026-11-25T06:51:36.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+      "excerpt": "Treasuries climbed across the curve Wednesday as renewed losses in technology shares dented global risk sentiment.",
+      "publishedAt": "2026-11-25T06:49:34.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
+      "excerpt": "Japan’s largest pension fund may be moving closer to deciding whether to revise its asset allocation, according to JPMorgan Chase & Co., potentially reviving speculation that it could steer more of its ¥314 trillion ($2 trillion) portfolio toward domestic bonds.",
+      "publishedAt": "2026-11-25T06:48:56.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "FTSE 100 Live: UK Stocks to Rebound, Pound Slips Further Below $1.31",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-25/ftse-100-live-updates-ai-stocks-pound-gilts-bonds-energy-bills-what-s-moving-uk-markets-right-now-markets-today",
+      "excerpt": "",
+      "publishedAt": "2026-11-25T06:47:16.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -1987,6 +1879,15 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
       "excerpt": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos. The operation owned by tycoon Aliko Dangote is valued at the equivalent of about $48 billion through its initial public offering. Bloomberg's ",
       "publishedAt": "2026-11-25T06:33:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "AI Rout Spills Over Into Asia, US Readies Tariff Hike",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-asia-trade-11-25-2026-video",
+      "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping g",
+      "publishedAt": "2026-11-25T06:29:28.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2005,15 +1906,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
       "excerpt": "SailGP CEO and founder Russell Coutts discusses the launch of a UAE team for the 2027 season and the league’s plans to expand to 20 teams and more than 20 events. He also talks about team economics, investor conflicts and SailGP’s growth strategy with Abeer Abu Omar on Bloomberg’s “Horizons Middle E",
       "publishedAt": "2026-11-25T06:16:46.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Stock Losses Build as AI Trade Falters, Bonds Gain: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-      "excerpt": "Stocks sold off and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove investors out of technology shares. Treasuries and the dollar gained on haven demand.",
-      "publishedAt": "2026-11-24T22:09:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2045,121 +1937,1244 @@
       "source": "Bloomberg Markets"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
-      "excerpt": "Soybean oil prices fell to their lowest since February as high demand for meal boosted crushing and oil supplies, while weakening crude added pressure ahead of the Thanksgiving holiday in the US.",
-      "publishedAt": "2026-11-25T05:45:21.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
+      "publishedAt": "2026-11-25T06:54:59.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Gold Holds Decline as AI Doubts and Rate-Hike Bets Rattle Stocks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-      "excerpt": "Gold held a decline, as stocks sold off on doubts over the durability of the artificial intelligence boom, and the White House’s latest tariff plans reinforced expectations for an interest-rate hike by the Federal Reserve.",
-      "publishedAt": "2026-11-24T23:51:22.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.",
+      "publishedAt": "2026-11-24T20:48:27.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
-      "excerpt": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
-      "publishedAt": "2026-11-25T05:03:48.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "CFTC sets new prediction market rules as more firms seek US entry",
+      "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
+      "publishedAt": "2026-11-24T18:31:42.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Kochugovindan: Tech Volatility Is Here to Stay",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
-      "excerpt": "Aberdeen Investments Senior Research Economist Sree Kochugovindan says the AI trade faces further downside risks as investors scrutinize valuations, earnings potential and returns on investment. She also discusses the outlook for US consumer spending, inflation and Federal Reserve policy with Abeer ",
-      "publishedAt": "2026-11-25T05:37:11.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+      "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.",
+      "publishedAt": "2026-11-24T16:33:26.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Latest Oil Market News and Analysis for Nov. 25",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-      "excerpt": "Oil slipped as signs of rising crude supply outweighed escalating attacks on vessels around the Strait of Hormuz.",
-      "publishedAt": "2026-11-24T23:06:29.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+      "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
+      "publishedAt": "2026-11-24T14:10:23.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
-      "excerpt": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
-      "publishedAt": "2026-11-25T04:35:30.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.",
+      "publishedAt": "2026-11-24T12:04:16.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
-      "excerpt": "China has opened an investigation into Chen Jining, a member of the country's elite Politburo and the party chief of Shanghai, for suspected serious violations of law and discipline. Bloomberg Economics' Neil Thomas has the context. (Source: Bloomberg)",
-      "publishedAt": "2026-11-25T04:25:11.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "publishedAt": "2026-11-23T23:43:34.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
-      "excerpt": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos, far exceeding the size of the next-largest business on the continent.",
-      "publishedAt": "2026-11-25T04:15:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+      "publishedAt": "2026-11-23T20:38:43.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
-      "excerpt": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
-      "publishedAt": "2026-11-25T02:45:27.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+      "publishedAt": "2026-11-21T09:48:56.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
-      "excerpt": "Australia signed a new treaty with the Solomon Islands aimed at rolling back China’s access to the Pacific, partly reversing Beijing’s gains in the region three years ago that alarmed the US and its allies.",
-      "publishedAt": "2026-11-24T09:01:29.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+      "publishedAt": "2026-11-21T07:51:47.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
-      "excerpt": "Japan’s 40-year government bond auction on Wednesday drew weaker demand as global risk-off sentiment weighed on investor appetite.",
-      "publishedAt": "2026-11-25T03:39:10.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+      "publishedAt": "2026-11-21T05:40:35.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-      "excerpt": "Copper ticked higher and aluminum steadied after a major selloff across metals on Tuesday, as traders awaited US inflation data that will feed into the Federal Reserve’s next decision on interest rates.",
-      "publishedAt": "2026-11-25T03:57:12.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
+      "publishedAt": "2026-11-20T15:55:22.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-      "excerpt": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
-      "publishedAt": "2026-11-25T03:10:23.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "sourceId": "cointelegraph-regulation",
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
+      "publishedAt": "2026-11-20T13:21:39.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
+      "publishedAt": "2026-11-20T08:03:34.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
+      "publishedAt": "2026-11-19T20:06:34.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+      "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Hong Kong’s securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city.",
+      "publishedAt": "2026-11-19T12:44:06.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
+      "publishedAt": "2026-11-19T05:27:45.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+      "url": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Russia’s crypto trading rollout faces uncertainty as companies weigh sanctions exposure, while Moscow Exchange prepares to launch crypto trading in December.",
+      "publishedAt": "2026-11-18T13:32:19.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts.",
+      "publishedAt": "2026-11-17T22:20:04.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
+      "publishedAt": "2026-11-17T11:36:26.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.",
+      "publishedAt": "2026-11-17T09:30:05.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+      "url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.",
+      "publishedAt": "2026-11-17T06:35:19.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+      "publishedAt": "2026-11-16T22:54:57.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+      "publishedAt": "2026-11-16T22:46:44.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
+      "publishedAt": "2026-11-13T20:53:20.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
+      "publishedAt": "2026-11-13T02:29:27.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
+      "publishedAt": "2026-11-12T20:58:06.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
+      "publishedAt": "2026-11-12T13:44:03.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.",
+      "publishedAt": "2026-11-12T12:21:43.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "cointelegraph-regulation",
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound",
+      "excerpt": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
+      "publishedAt": "2026-11-12T05:54:48.000Z",
+      "category": "politics",
+      "source": "Cointelegraph · Regulation"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Spain’s Far Right Poised for Breakthrough in Key European Vote",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/spain-s-far-right-poised-for-breakthrough-in-key-european-vote",
+      "excerpt": "In the febrile days after a horrific train crash killed 69 people on the high-speed line to Ciudad Real, a large crowd is gathering in the Spanish city’s historic center. By lunchtime the medieval main square is packed.",
+      "publishedAt": "2026-11-25T07:15:00.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-us-set-for-new-chapter-of-trade-talks-ex-official-says",
+      "excerpt": "China and the US will make more headway once their trade talks resume in January, when their year-old tariff truce is set to expire, according to a former top Chinese economic official.",
+      "publishedAt": "2026-11-25T06:59:25.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Houthis Hit Saudi Finance Center, Extending Tit-for-Tat Attacks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/houthis-hit-saudi-finance-center-extending-tit-for-tat-attacks",
+      "excerpt": "The Houthis struck Saudi Arabia’s main finance district for the second time in a week on Tuesday, extending a cycle of tit-for-tat attacks and complicating the kingdom’s push to establish its capital as a global business center.",
+      "publishedAt": "2026-11-25T06:45:02.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "North Korea Shuts Swiss Mission a Month After It Opened",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/north-korea-shuts-swiss-mission-a-month-after-it-opened",
+      "excerpt": "North Korea has shut down a Swiss diplomatic mission less than one month after it opened, declaring its head persona non grata, over sanctions imposed by the European country on a government-run children’s camp, state media reported.",
+      "publishedAt": "2026-11-25T05:09:40.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Jacob Zuma’s Comeback Deepens ANC’s South Africa Crisis",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jacob-zuma-s-comeback-deepens-anc-s-south-africa-crisis",
+      "excerpt": "After surviving South Africa’s biggest corruption scandal and being expelled from the ANC, the former president is back to haunt his detractors.",
+      "publishedAt": "2026-11-25T04:30:00.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Malaysia Talks With US on AI Chip Curbs, Tightens Controls",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-minister-vows-compliance-with-us-rules-for-nvidia-issue",
+      "excerpt": "Malaysia’s Second Finance Minister Amir Hamzah Azizan downplayed the impact of new US curbs on the use of high-end chip technology in Southeast Asia, saying the country is ensuring compliance with rules and that its technology is widely used beyond artificial intelligence.",
+      "publishedAt": "2026-11-25T03:58:02.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Xi Probes Shanghai Boss, Widening Biggest Shakeup in Decades",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining",
+      "excerpt": "China opened an investigation into Chen Jining, a member of the country’s elite Politburo and the party chief of the financial hub Shanghai — deepening upheaval in the nation’s top leadership as the ruling Communist Party prepares for a reshuffle next year.",
+      "publishedAt": "2026-11-24T11:36:08.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "New House Democrats Threaten Harvard Boycott On Union Strike",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/new-house-democrats-threaten-harvard-boycott-over-union-strike",
+      "excerpt": "More than four dozen incoming House Democrats said they plan to skip a traditional Harvard University orientation for new members of Congress, citing an ongoing strike by the university’s graduate students’ union.",
+      "publishedAt": "2026-11-25T02:03:03.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/huawei-found-guilty-of-us-criminal-charges-in-landmark-case",
+      "excerpt": "Huawei Technologies Co., China’s largest technology company, was found guilty of multiple US criminal charges, including money laundering, a conspiracy to steal trade secrets and defrauding banks about its business in Iran and North Korea.",
+      "publishedAt": "2026-11-24T20:23:16.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Trump Says Huang Pardon ‘Always an Option,’ New York Post Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-says-huang-pardon-always-an-option-new-york-post-reports",
+      "excerpt": "President Donald Trump said a pardon for the reinstated Nvidia Corp. chief Jensen Huang, who testifies before Congress next week, was “always an option,” while adding that he didn’t think such an extraordinary act would be necessary, the New York Post reported Tuesday night.",
+      "publishedAt": "2026-11-25T00:04:21.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Japan’s Sales Tax Cut Plans Could Stall On No-Confidence Motion",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-s-sales-tax-cut-plans-could-stall-on-no-confidence-motion",
+      "excerpt": "Japan’s opposition parties plan to submit a motion of no confidence against Prime Minister Sanae Takaichi’s education minister, complicating her efforts to push a sales tax cut bill through parliament in time for it to take effect as planned in April.",
+      "publishedAt": "2026-11-25T01:15:01.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "California Nvidia Probe Goes On After CEO Return, Bonta Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/california-nvidia-probe-to-go-on-after-ceo-s-return-bonta-says",
+      "excerpt": "California Attorney General Rob Bonta blasted the federal government’s handling of the scandal involving Nvidia Corp. and Chief Executive Officer Jensen Huang, saying that he will continue with his own investigation.",
+      "publishedAt": "2026-11-25T00:00:20.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "What Jensen Huang’s Second Act Means for AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/what-jensen-huang-s-second-act-means-for-ai-video",
+      "excerpt": "Jensen Huang’s shock return as CEO, courtesy of President Donald Trump and Nvidia’s board, has many wondering what this sudden turn of events means for the chipmaker and the future of AI. (Source: Bloomberg)",
+      "publishedAt": "2026-11-25T00:13:30.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Nvidia’s Huang To Face Scrutiny on Capitol Hill",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/balance-of-power-late-edition-11-24-2026-video",
+      "excerpt": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Rep. Greg Stanton, a Democrat from Arizona who serves on the House Foreign Affairs and China Select committees, says Nvidia’s board should testify as Congress investigates Jensen Huang and the company. F",
+      "publishedAt": "2026-11-25T00:05:53.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Bonta Says Blanche ‘Prejudged’ Nvidia Conduct",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/bonta-says-blanche-prejudged-nvidia-conduct-video",
+      "excerpt": "California Attorney General Rob Bonta says his office will press ahead with its civil investigation of Nvidia, arguing US Attorney General Todd Blanche appeared to have “prejudged” the company’s conduct by calling it a “good corporate citizen.” Bonta says California has subpoenaed Nvidia to determin",
+      "publishedAt": "2026-11-24T23:29:51.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Esper on Nvidia, Iran and Ukraine",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/esper-on-nvidia-iran-and-ukraine-video",
+      "excerpt": "Former Defense Secretary Mark Esper discusses the national security questions surrounding Nvidia and China, the Trump administration’s options in Iran and the widening war in Ukraine. Esper, managing partner at Red Cell Partners, says economic pressure on Tehran needs more time to work and calls for",
+      "publishedAt": "2026-11-24T23:24:01.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Rep. Stanton: Nvidia Board, Huang Owe Congress Answers",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/rep-stanton-nvidia-board-huang-owe-congress-answers-video",
+      "excerpt": "Rep. Greg Stanton, a Democrat from Arizona who serves on the House Foreign Affairs and China Select committees, says Nvidia’s board should testify as Congress investigates Jensen Huang and the company. Stanton, who will take part in Huang’s closed-door interview next week, says the House should also",
+      "publishedAt": "2026-11-24T23:19:11.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "California AG Sees 'Bright Red Flags' Regarding Nvidia",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/california-ag-sees-bright-red-flags-regarding-nvidia-video",
+      "excerpt": "\"When there's flags in the air you have to look,\" California Attorney General Rob Bonta says about the state's investigation into whether Nvidia illegally sold advanced chips to China and misled investors about the conduct. He speaks on \"Balance of Power: Evening Edition.\" (Source: Bloomberg)",
+      "publishedAt": "2026-11-24T23:00:26.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Younger People Indicating Higher Spending This Holiday Season: The Conference Board’s Dana Peterson",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-conference-board-s-peterson-on-nov-consumer-data-video",
+      "excerpt": "Dana Peterson says consumers reported stronger views of current conditions and improved expectations for business activity, jobs and income. The survey ran from Nov. 1–17, overlapping with the midterm elections: optimism rose notably among Democrats and independents, while Republicans remained the m",
+      "publishedAt": "2026-11-24T23:00:16.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bloomberg-politics",
+      "title": "Bloomberg Businessweek Daily Podcast: Nvidia Euphoria Fades",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/businessweek-daily-podcast-nvidia-euphoria-fades-video",
+      "excerpt": "The people, companies and trends shaping the global economy. Watch Carol and Tim LIVE every day on YouTube: http://bit.ly/3vTiACF On today’s episode: Eric Weiner, Bloomberg News Senior Equities Editor and Michael Ball, Bloomberg News Macro Strategist Dorothy Lund, Columbia Law School Professor Timna",
+      "publishedAt": "2026-11-24T22:35:43.000Z",
+      "category": "politics",
+      "source": "Bloomberg Politics"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "publishedAt": "2026-11-25T00:56:51.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "publishedAt": "2026-11-25T03:44:07.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "publishedAt": "2026-11-25T06:00:36.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The verdict follows a months-long trial in New York.",
+      "publishedAt": "2026-11-25T02:59:27.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "India's food inflation is broadening, squeezing household budgets.",
+      "publishedAt": "2026-11-25T01:02:13.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "publishedAt": "2026-11-25T01:40:42.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "publishedAt": "2026-11-25T06:36:00.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "publishedAt": "2026-11-24T23:03:59.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "publishedAt": "2026-11-24T15:35:53.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "publishedAt": "2026-11-24T23:05:11.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "publishedAt": "2026-11-24T18:07:46.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "publishedAt": "2026-11-24T15:17:28.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "publishedAt": "2026-11-24T19:10:31.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "publishedAt": "2026-11-24T16:49:07.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "publishedAt": "2026-11-24T10:58:51.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "publishedAt": "2026-11-24T07:26:27.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "publishedAt": "2026-11-24T11:10:57.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "publishedAt": "2026-11-23T21:24:47.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "publishedAt": "2026-11-24T19:27:23.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "publishedAt": "2026-11-24T12:45:43.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "publishedAt": "2026-11-23T18:04:20.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "publishedAt": "2026-11-24T06:23:01.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "publishedAt": "2026-11-25T03:28:37.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "publishedAt": "2026-11-24T22:07:30.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "publishedAt": "2026-11-24T09:09:41.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "publishedAt": "2026-11-24T01:21:41.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "publishedAt": "2026-11-23T18:49:19.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "publishedAt": "2026-11-23T11:34:10.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "publishedAt": "2026-11-25T01:03:05.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "publishedAt": "2026-11-25T00:54:13.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+      "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.",
+      "publishedAt": "2026-11-24T13:11:44.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "url": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.",
+      "publishedAt": "2026-11-24T03:13:22.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+      "publishedAt": "2026-11-24T00:36:26.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+      "publishedAt": "2026-11-23T19:16:46.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
+      "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Nvidia shares surged nearly 29% after the company’s board reinstated Jensen Huang as CEO following consultations with the US government.",
+      "publishedAt": "2026-11-23T14:47:00.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "AI agents are using credit cards. Where does that leave crypto?",
+      "url": "https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "AI agents are already using credit cards to transact, raising questions about where crypto fits in the emerging agent economy.",
+      "publishedAt": "2026-11-23T13:30:00.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.",
+      "publishedAt": "2026-11-20T06:24:41.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.",
+      "publishedAt": "2026-11-19T20:33:24.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.",
+      "publishedAt": "2026-11-19T18:06:50.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+      "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.",
+      "publishedAt": "2026-11-19T16:07:51.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+      "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.",
+      "publishedAt": "2026-11-18T18:27:52.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+      "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang stepped down and the chipmaker posted record quarterly revenue.",
+      "publishedAt": "2026-11-18T12:53:12.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+      "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
+      "publishedAt": "2026-11-17T17:39:41.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+      "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.",
+      "publishedAt": "2026-11-17T13:30:00.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+      "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.",
+      "publishedAt": "2026-11-17T13:12:10.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Google says hackers use AI agents to find and exploit software flaws",
+      "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
+      "publishedAt": "2026-11-17T10:05:59.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
+      "publishedAt": "2026-11-16T18:07:49.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet.",
+      "publishedAt": "2026-11-16T13:30:00.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+      "publishedAt": "2026-11-16T02:33:07.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+      "publishedAt": "2026-11-15T22:50:59.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+      "publishedAt": "2026-11-14T08:12:30.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+      "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude.",
+      "publishedAt": "2026-11-13T08:26:01.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.",
+      "publishedAt": "2026-11-12T13:52:39.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+      "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.",
+      "publishedAt": "2026-11-12T10:30:29.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+      "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion.",
+      "publishedAt": "2026-11-11T13:02:30.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+      "publishedAt": "2026-11-10T03:04:54.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+      "publishedAt": "2026-11-06T11:16:53.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+      "publishedAt": "2026-11-06T00:19:49.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+      "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+      "publishedAt": "2026-11-05T22:43:18.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cointelegraph-ai",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss_tag_ai&utm_campaign=rss_partner_inbound",
+      "excerpt": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+      "publishedAt": "2026-11-05T22:18:42.000Z",
+      "category": "tech",
+      "source": "Cointelegraph · AI"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Chainflip’s post-hack refunds leave liquidity providers facing a second financial problem",
+      "url": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem/",
+      "excerpt": "Liquidity providers can check designated wallets on five networks, while assets in open positions may remain in their Chainflip accounts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-25T06:50:47.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Researchers find a way to make Bitcoin bridges dramatically cheaper to test",
+      "url": "https://cryptoslate.com/researchers-find-a-way-to-make-bitcoin-bridges-dramatically-cheaper-to-test/",
+      "excerpt": "In the authors’ estimates, Praxis shrinks data locked behind a proof, giving Bitcoin bridge designers a way to test payments triggered by events on another chain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-25T05:40:36.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "US banks want access to Fed funding on holidays as Wall Street prepares for longer settlement hours",
+      "url": "https://cryptoslate.com/feds-survey-finds-demand-for-a-holiday-cash-backstop/",
+      "excerpt": "Thirty-five of 56 domestic banks surveyed valued Sunday and weekday-holiday loan access, while CME’s Thanksgiving schedule shows where Bitcoin futures margin waits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-25T04:20:06.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch",
+      "url": "https://cryptoslate.com/the-cftc-opens-the-door-to-bitcoin-reserves-at-us-exchanges-with-a-20-catch/",
+      "excerpt": "CFTC staff says exchanges and clearinghouses can count qualifying crypto at a discount, and a worked example shows how the annual buffer can fall short. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-25T02:50:52.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "XRP’s shrinking exchange supply may be telling investors the wrong story",
+      "url": "https://cryptoslate.com/xrps-shrinking-exchange-supply-may-be-telling-investors-the-wrong-story/",
+      "excerpt": "Three Nov. 23 payments sent about 270 million XRP to unlabeled addresses that each held roughly 90 million XRP the next day. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-25T01:20:03.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Bitcoin faces a familiar macro threat as the US prepares another round of tariffs",
+      "url": "https://cryptoslate.com/bitcoin-threatened-us-tariff-report-names-china-and-the-eu-as-official-rates-remain-unknown/",
+      "excerpt": "The trade representative could release overcapacity findings soon, with no determination, tariff schedule or effective date yet listed on the docket. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-24T23:50:36.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter",
+      "url": "https://cryptoslate.com/bitcoins-60000-bear-market-is-testing-miners-harder-than-the-2022-crypto-winter/",
+      "excerpt": "Bitcoin’s 30-day hashrate stood at 91% of its cycle high as AI tenants competed for some of the same powered sites. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-24T22:40:42.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Ansem claims wallet hack after an 87 million ANSEM token dump, but on-chain data raises questions",
+      "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions/",
+      "excerpt": "The trades came from a publicly labeled Solana wallet, and Ansem gave no wallet address in his post. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-24T21:30:15.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Prediction market bets placed just before big news could soon be easier to trace",
+      "url": "https://cryptoslate.com/prediction-market-bets-placed-just-before-big-news-could-soon-be-easier-to-trace/",
+      "excerpt": "The rule sets public standards for trade and settlement data and lets regulators match covered transactions to separate trader records. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-24T20:20:45.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "cryptoslate-tech",
+      "title": "Hong Kong wants banks to secure new approval before holding customers’ crypto",
+      "url": "https://cryptoslate.com/hong-kong-wants-banks-to-secure-new-approval-before-holding-customers-crypto/",
+      "excerpt": "Standalone custodians would generally need a license, while banks would need registration alongside existing custody standards. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "publishedAt": "2026-11-24T19:00:30.000Z",
+      "category": "tech",
+      "source": "CryptoSlate"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "excerpt": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "meta": "Python · ★ 21,920 · 🍴 2,269 · 📈 1,826 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向漏洞挖掘与外部红队作业的 Claude Code 技能包，内置 84 个技能、15 个斜杠命令，覆盖 24 类核心漏洞，并整理了 681 条公开披露报告中的攻击模式，另附企业级身份相关能力。适合安全研究员在授权测试中借 AI 复用实战经验、减少重复摸索。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "meta": "Shell · ★ 326,052 · 🍴 28,933 · 📈 1,003 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "一套面向 AI Agent 的技能框架与软件开发方法论，把可复用的技能单元组织成结构化工作流，让编码代理按既定规范协作完成任务。适合希望把 Agent 纳入日常研发流程的团队，用于需求拆解、实现与验证等环节的标准化。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "excerpt": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "meta": "Python · ★ 65,117 · 🍴 5,925 · 📈 1,074 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "HKUDS 推出的 CLI-Hub 项目，目标是把各类软件改造成 Agent 原生的命令行接口，让 AI Agent 无需图形界面即可操作原本只支持人工交互的工具与服务。适合搭建自动化 Agent 工作流的开发者，用统一 CLI 层打通软件调用。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "excerpt": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "meta": "Python · ★ 70,530 · 🍴 9,170 · 📈 727 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "从零训练 64M 参数小语言模型的极简教程项目，号称两小时即可跑通全流程，涵盖数据准备、预训练到推理的完整代码与配置。适合想低成本理解大模型训练原理的初学者与教学场景，用消费级算力复现完整 pipeline。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "excerpt": "Cursor plugin specification and official plugins",
+      "meta": "TypeScript · ★ 19,346 · 🍴 2,089 · 📈 360 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Cursor 官方插件规范与官方插件集合仓库，定义插件如何声明能力、与编辑器交互，并提供可直接参考的官方实现。适合为 Cursor 开发扩展的开发者，用作规范查阅与插件开发的起步模板。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "excerpt": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "meta": "TypeScript · ★ 209,242 · 🍴 10,932 · 📈 991 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向 AI Agent 的知识基础设施，通过统一 API 提供网页搜索、抓取，并接入 550 多家数据源，把外部信息整理成 Agent 可用的结构化知识。适合构建 RAG、研究型 Agent 或数据采集管线的开发者，省去逐个对接数据源的成本。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "excerpt": "The official NGINX Open Source repository.",
+      "meta": "C · ★ 33,276 · 🍴 8,398 · 📈 158 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "NGINX 开源版的官方代码仓库，包含反向代理、负载均衡、HTTP 缓存与静态资源服务等核心实现，是高并发 Web 服务器的上游源码。适合运维、SRE 与中间件开发者查阅源码、编译定制版本或跟踪版本演进。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "excerpt": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "meta": "C++ · ★ 12,529 · 🍴 3,696 · 📈 185 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Intel 主导的开源 AI 推理优化与部署工具包，支持模型转换、量化压缩以及跨 CPU、GPU、NPU 的推理加速，兼容 ONNX、PyTorch 等主流格式。适合在边缘与服务器端落地推理的工程团队在 Intel 硬件上提升性能。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "meta": "HTML · ★ 72,374 · 🍴 4,819 · 📈 802 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "为 Claude Code、Codex、Cursor 等编码 Agent 准备的编辑级图表设计技能，覆盖 52 种图表类型，输出自包含的 HTML 加 SVG，不依赖 Mermaid，也去掉阴影等装饰。适合需要让 AI 直接产出规范、可嵌入文档示意图的团队。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "meta": "Python · ★ 74,538 · 🍴 6,570 · 📈 703 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "一个 AI Agent 技能，针对任意话题在 Reddit、X、YouTube、Hacker News、Polymarket 及普通网页上做跨平台检索，再汇总成有出处支撑的摘要。适合做舆情跟踪、选题调研或信息收集的人快速获取近期公开讨论全貌。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "meta": "TypeScript · ★ 12,771 · 🍴 1,530 · 📈 403 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Google Labs 出品的 Agent Skills 库，配合 Stitch MCP 服务器使用，每个技能遵循 Agent Skills 开放标准，可被 Antigravity、Gemini CLI、Claude Code 等编码 Agent 复用。适合希望用统一技能格式跨多个 Agent 平台开发的团队。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "excerpt": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "meta": "Shell · ★ 6,062 · 🍴 393 · 📈 928 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向 App Store 与 Google Play 上架的开放避坑手册与提交前自检工具，收录 124 种有记录的拒审模式及对应修法，并检查隐私清单、数据安全表单与 112 项截止日期要求。适合移动端开发者与发行团队降低审核返工。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "excerpt": "The open-source agent for CI/CD reliability.",
+      "meta": "Python · ★ 15,300 · 🍴 2,020 · 📈 398 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "面向 CI/CD 可靠性的开源 Agent，用自动化方式监控与分析流水线运行状态，定位失败和不稳定环节。适合平台工程与 DevOps 团队，在构建频繁失败的场景下辅助排障，减少人工排查成本。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "excerpt": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "meta": "TypeScript · ★ 78,141 · 🍴 5,705 · 📈 584 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "隐私优先的开源知识库，把文档、白板与任务规划整合在同一工作空间，定位为 Notion 与 Miro 的替代方案，支持自托管与深度定制。适合个人与小团队做知识沉淀、项目排期和可视化协作。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "excerpt": "The only downloader you need. 下载器的集大成者。",
+      "meta": "Python · ★ 17,668 · 🍴 1,061 · 📈 1,092 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "跨平台下载工具 Ghost Downloader 的第三代版本，主打用一个应用覆盖多种下载需求，自称下载器的集大成者。适合需要替代浏览器内置下载、批量抓取文件与视频资源的普通用户与开发者。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "excerpt": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "meta": "Python · ★ 15,703 · 🍴 2,292 · 📈 980 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "开源 AI 视频剪辑桌面工具，输入一个链接即可把播客、访谈、课程等长视频自动切成短视频，并生成字幕、封面与发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。适合内容创作者做长视频二次分发。"
     }
   ]
 }
